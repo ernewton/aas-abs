@@ -1,0 +1,271 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<BODY>
+<b>Bulletin of the American Astronomical Society, 1993, Volume
+25 Number 4<br>
+AAS 183rd Meeting, January 1994</b><br>
+<A HREF="AuthorList.html">[Author List]</a>
+
+<H1>Tuesday, January 11, 1994</H1>
+<DL><DT><A HREF=tocTue.html#S1>Session 1</A>: <B>Astronomy and the State</B>
+<DD><I>Oral presentation, Tuesday, 9:00-5:00, Salons A & B (Crystal City Marriott)</I>
+<P></DL>
+<H1>Wednesday, January 12, 1994</H1>
+<DL><DT><A HREF=tocWed.html#S2>Session 2</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Wednesday, 8:30-9:20, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S3>Session 3</A>: <B>Galaxy Surveys</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S4>Session 4</A>: <B>Gamma Ray Astrophysics</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S5>Session 5</A>: <B>ROSAT Observations of Clusters and Groups</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S6>Session 6</A>: <B>Miscellaneous</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S7>Session 7</A>: <B>Solar Activity</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S8>Session 8</A>: <B>Solar Observations and Instrumentation</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S9>Session 9</A>: <B>Solar System</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S10>Session 10</A>: <B>South Polar and Lunar Telescopes</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S11>Session 11</A>: <B>Gemini, Keck, Seeing</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S12>Session 12</A>: <B>Absorption Lines in QSOs</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S13>Session 13</A>: <B>HII Regions</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S14>Session 14</A>: <B>Interstellar Dust and Extinction</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S15>Session 15</A>: <B>Flare and Active Stars</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S16>Session 16</A>: <B>Molecular Clouds</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S17>Session 17</A>: <B>Stellar Spectroscopy and Photometry: Surveys and General results</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S18>Session 18</A>: <B>Stellar Spectra: Individual Objects</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S19>Session 19</A>: <B>Gas and Star Formation in Spiral Galaxies</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S20>Session 20</A>: <B>Mergers, Masers and Megamasers</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S21>Session 21</A>: <B>Diffuse Galactic Emission</B>
+<DD><I>Display presentation, Wednesday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S22>Session 22</A>: <B>ROSAT</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S23>Session 23</A>: <B>Galaxies I</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S24>Session 24</A>: <B>Star Clusters/General Relativity</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S25>Session 25</A>: <B>Solar System and Heliosphere</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S26>Session 26</A>: <B>Molecular Cloud Structure and Energetics</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocWed.html#S27>Session 27</A>: <B>Celestial Visibility</B>
+<DD><I>Oral presentation, Wednesday, 10:15-11:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocWed.html#S28>Session 28</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Wednesday, 12:00-12:50, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S29>Session 29</A>: <B>Gamma Ray Astrophysics</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S30>Session 30</A>: <B>Seyfert Galaxies</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S31>Session 31</A>: <B>Supernovae</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S32>Session 32</A>: <B>Circumstellar Environments</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocWed.html#S33>Session 33</A>: <B>Galaxies II</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocWed.html#S34>Session 34</A>: <B>HAD</B>
+<DD><I>Oral presentation, Wednesday, 2:15-3:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocWed.html#S35>Session 35</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Wednesday, 4:00-5:30, Salons III/IV (Crystal Gateway)</I>
+<P></DL>
+<H1>Thursday, January 13, 1994</H1>
+<DL><DT><A HREF=tocThu.html#S36>Session 36</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Thursday, 8:30-9:20, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S37>Session 37</A>: <B>Pulsars</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S38>Session 38</A>: <B>Supernovae</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S39>Session 39</A>: <B>SN1993J, SN1978K and SN1987A</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S40>Session 40</A>: <B>Young Stars and T Tauri Stars</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S41>Session 41</A>: <B>Circumstellar Disks</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S42>Session 42</A>: <B>Ellipticals</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S43>Session 43</A>: <B>HII Regions and Star Formation in Spirals</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S44>Session 44</A>: <B>Interstellar Medium</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S45>Session 45</A>: <B>IUE Final Archive</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S46>Session 46</A>: <B>Seyfert Galaxies and LINERS</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S47>Session 47</A>: <B>Radio Telescopes, Miscellaneous</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S48>Session 48</A>: <B>Software and Analytical Tools</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S49>Session 49</A>: <B>Star Formation</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S50>Session 50</A>: <B>White Dwarfs</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S51>Session 51</A>: <B>Planetary Nebulae</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S52>Session 52</A>: <B>Interacting Binaries: Accretion Phenomena</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S53>Session 53</A>: <B>Cluster Cooling Flows and Abundances</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S54>Session 54</A>: <B>Interacting Binaries: Hot Stars</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S55>Session 55</A>: <B>Interacting Binaries: CVs and XRBs</B>
+<DD><I>Display presentation, Thursday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S56>Session 56</A>: <B>Luminous AGNs</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S57>Session 57</A>: <B>Galaxies III</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S58>Session 58</A>: <B>Outflows and the Low Mass IMF</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S59>Session 59</A>: <B>Solar Surface and Corona</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S60>Session 60</A>: <B>Galactic Structure</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocThu.html#S61>Session 61</A>: <B>Education/Curriculum</B>
+<DD><I>Oral presentation, Thursday, 10:15-11:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocThu.html#S62>Session 62</A>: <B>Public Policy Address</B>
+<DD><I>Invited presentation, Thursday, 12:00-12:50, Salon III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S63>Session 63</A>: <B>The Changing Climate for Federal Funding</B>
+<DD><I>Invited presentation, Thursday, 2:15-3:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S64>Session 64</A>: <B>AGN Surveys and High Energy Spectra</B>
+<DD><I>Oral presentation, Thursday, 2:15-3:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S65>Session 65</A>: <B>Interacting Binaries: Compact Stars</B>
+<DD><I>Oral presentation, Thursday, 2:15-3:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S66>Session 66</A>: <B>Spiral Galaxies</B>
+<DD><I>Oral presentation, Thursday, 2:15-3:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocThu.html#S67>Session 67</A>: <B>Cosmology and Distance Indicators</B>
+<DD><I>Oral presentation, Thursday, 2:15-3:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocThu.html#S68>Session 68</A>: <B>Solar Activity</B>
+<DD><I>Oral presentation, Thursday, 2:15-3:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocThu.html#S69>Session 69</A>: <B>Invited Talks</B>
+<DD><I>Invited presentation, Thursday, 4:00-5:30, Salons III/IV (Crystal Gateway)</I>
+<P></DL>
+<H1>Friday, January 14, 1994</H1>
+<DL><DT><A HREF=tocFri.html#S70>Session 70</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Friday, 8:30-9:20, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S71>Session 71</A>: <B>Galaxy and CBR Distribution</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S72>Session 72</A>: <B>High Z Line Measurements; Gravitational Microlensing: Distance Determination</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S73>Session 73</A>: <B>Astrometric Instruments and Results</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S74>Session 74</A>: <B>Globular Clusters</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S75>Session 75</A>: <B>VLBI Obsesrvations</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S76>Session 76</A>: <B>Spiral and Bar Structure in Galaxies</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S77>Session 77</A>: <B>Starbursts</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S78>Session 78</A>: <B>Galactic Structure and Star Counts</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S79>Session 79</A>: <B>Structure of Galaxies</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S80>Session 80</A>: <B>AGN and Jets</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S81>Session 81</A>: <B>Stellar Winds and Outflows</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S82>Session 82</A>: <B>Relativistic Astrophysics</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S83>Session 83</A>: <B>Supernova Remnants</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S84>Session 84</A>: <B>Variable Stars</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S85>Session 85</A>: <B>Interacting Binaries: ``Normal'' Stars</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S86>Session 86</A>: <B>Double Stars</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S87>Session 87</A>: <B>Cluster Evolution</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S88>Session 88</A>: <B>Teaching Astronomy</B>
+<DD><I>Display presentation, Friday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S89>Session 89</A>: <B>HEAD I - ASCA</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S90>Session 90</A>: <B>Absorption in AGN Spectra</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S91>Session 91</A>: <B>Radio Galaxies and Lyman Continuum Absorption</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S92>Session 92</A>: <B>Dust and Gas in the ISM</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S93>Session 93</A>: <B>Pulsars</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocFri.html#S94>Session 94</A>: <B>Education/Demonstrations</B>
+<DD><I>Oral presentation, Friday, 10:15-11:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocFri.html#S95>Session 95</A>: <B>Warner Prize Lecture</B>
+<DD><I>Invited presentation, Friday, 12:00-12:50, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S96>Session 96</A>: <B>HEAD II - SN1993J</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S97>Session 97</A>: <B>Astronomers Meet the Press</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S98>Session 98</A>: <B>Galaxies and Cluster Environment</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S99>Session 99</A>: <B>Molecular Clouds and Star Formation</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocFri.html#S100>Session 100</A>: <B>AGN: Unified Picture</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocFri.html#S101>Session 101</A>: <B>Evolved Stars, Supernova Remnants</B>
+<DD><I>Oral presentation, Friday, 2:15-3:45, Salons A/B (Crystal City Marriott)</I>
+<P><DT><A HREF=tocFri.html#S102>Session 102</A>: <B>Invited Talks</B>
+<DD><I>Invited presentation, Friday, 4:00-5:30, Salons III/IV (Crystal Gateway)</I>
+<P></DL>
+<H1>Saturday, January 15, 1994</H1>
+<DL><DT><A HREF=tocSat.html#S103>Session 103</A>: <B>Pierce Prize Lecture</B>
+<DD><I>Invited presentation, Saturday, 8:30-9:20, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S104>Session 104</A>: <B>Radio Galaxies and AGN</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S105>Session 105</A>: <B>Broad Absorption Line Quasars</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S106>Session 106</A>: <B>AGN</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S107>Session 107</A>: <B>BL Lacs and Blazars</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S108>Session 108</A>: <B>Dwarf and Irregular Galaxies</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S109>Session 109</A>: <B>Stellar Populations</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S110>Session 110</A>: <B>Open Clusters</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S111>Session 111</A>: <B>Stellar Interiors</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S112>Session 112</A>: <B>Models and Synthetic Spectroscopy</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S113>Session 113</A>: <B>HST, UIT and UV Instruments, UV Processing and Archives</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S114>Session 114</A>: <B>Multi-Phase Interstellar Medium</B>
+<DD><I>Display presentation, Saturday, 9:30-6:45, Salons I/II (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S115>Session 115</A>: <B>Cosmology and Dark Matter</B>
+<DD><I>Oral presentation, Saturday, 10:15-11:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S116>Session 116</A>: <B>Galactic Center and Diffuse Galactic Emission</B>
+<DD><I>Oral presentation, Saturday, 10:15-11:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S117>Session 117</A>: <B>Astronomical Instruments and Techniques</B>
+<DD><I>Oral presentation, Saturday, 10:15-11:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S118>Session 118</A>: <B>WGAS</B>
+<DD><I>Oral presentation, Saturday, 10:15-11:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S119>Session 119</A>: <B>Starbursts and Seyfert 2s</B>
+<DD><I>Oral presentation, Saturday, 10:15-11:45, Crystal Forum (Crystal City Marriott)</I>
+<P><DT><A HREF=tocSat.html#S120>Session 120</A>: <B>Heineman Prize Lecture</B>
+<DD><I>Invited presentation, Saturday, 12:00-12:50, Salons III/IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S121>Session 121</A>: <B>Cosmology and CMB</B>
+<DD><I>Oral presentation, Saturday, 2:15-3:45, Salon III (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S122>Session 122</A>: <B>AGN: Accretion Disks, Tori and Gas</B>
+<DD><I>Oral presentation, Saturday, 2:15-3:45, Salon IV (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S123>Session 123</A>: <B>Intrinsic Variables and Active Stars</B>
+<DD><I>Oral presentation, Saturday, 2:15-3:45, Salon V (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S124>Session 124</A>: <B>Special Interest Session Sponsored by WGAS</B>
+<DD><I>Oral presentation, Saturday, 2:15-3:45, Salon VI (Crystal Gateway)</I>
+<P><DT><A HREF=tocSat.html#S125>Session 125</A>: <B>Structure of Clusters of Galaxies</B>
+<DD><I>Oral presentation, Saturday, 2:15-3:45, Crystal Forum (Crystal City Marriott)</I>
+<P>
+<A HREF="http://www.aas.org">AAS Home Page</A>
+</DL>
+</BODY>

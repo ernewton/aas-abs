@@ -1,0 +1,510 @@
+<!-- TDB section list -->
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session list</TITLE></HEAD>
+<BODY BGCOLOR="#ffffff">
+<H1>Session list</H1>
+
+<B>AAS 199th meeting, Washington, DC, January 2002</B><BR>
+<A HREF="AuthorIndex.htm">[Author index]</A> 
+<br>
+All findings are <b>embargoed</b> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red=</FONT>
+<td><FONT COLOR="#CC0000">=</FONT> 
+<td><FONT COLOR="#CC0000">Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green = </FONT>
+<td><FONT COLOR="#009900">=</FONT> 
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#CC33CC">purple</FONT>
+<td><FONT COLOR="#CC33CC">=</FONT>
+<td><FONT COLOR="#CC33CC">Historical Astronomy Division Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange</FONT>
+<td><FONT COLOR="#FF6600">=</FONT>
+<td><FONT COLOR="#FF6600">High Energy Astrophysics Division Sessions</FONT>
+</table>
+
+<P><HR>
+<DL>
+<DT><B>Welcoming Address</B>&nbsp;
+<DD><I>Monday, 8:15-8:30am, International Ballroom Center</I>
+
+<P>
+<DT><B><FONT COLOR="#009900">Session 1.</FONT></B>&nbsp;<A HREF="S10.htm"><FONT COLOR="#CC33CC">HAD I</FONT>: New Views of Historical Research in the 21st Century</A>
+<DD><I>Special Session Oral, Sunday, 2:00-4:00pm, Caucus</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 2.</FONT></B>&nbsp;<A HREF="S20.htm">Why Study Nearby Galaxies?</A>
+<DD><I>Invited, Monday, 8:30-9:20am, International Ballroom Center</I>
+<P>
+<DT><B>Session 3.</B>&nbsp;<A HREF="S30.htm">Exoplanets, Dynamics and Earth</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 4.</B>&nbsp;<A HREF="S40.htm">Star-Forming Environments</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 5.</B>&nbsp;<A HREF="S50.htm">Stellar and Intermediate Mass Black Holes</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 6.</B>&nbsp;<A HREF="S60.htm">Binary Stars</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 7.</B>&nbsp;<A HREF="S70.htm">Galaxies - Surveys I</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 8.</B>&nbsp;<A HREF="S80.htm">Instruments for HST and NGST</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 9.</B>&nbsp;<A HREF="S90.htm">Space Interferometry and Planet Finders</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 10.</B>&nbsp;<A HREF="S100.htm">Data Centers, NVO and Catalogs</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 11.</B>&nbsp;<A HREF="S110.htm">Interstellar Medium - I</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 12.</B>&nbsp;<A HREF="S120.htm">Gamma Ray Bursts</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 13.</B>&nbsp;<A HREF="S130.htm">FUSE and Friends: New Results</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 14.</B>&nbsp;<A HREF="S140.htm">Star Clusters in External Galaxies</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 15.</B>&nbsp;<A HREF="S150.htm"><FONT COLOR="#CC33CC">HAD IV</FONT>: New Views of Historical Topics</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 16.</B>&nbsp;<A HREF="S160.htm">Cosmology and Lensing</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 17.</B>&nbsp;<A HREF="S170.htm">Pulsars, White Dwarfs and Galactic Gamma Ray Sources</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 18.</B>&nbsp;<A HREF="S180.htm">High Velocity Clouds and The Intergalactic Medium</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 19.</B>&nbsp;<A HREF="S190.htm">Chandra Observations of Nearby Galaxies</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 20.</B>&nbsp;<A HREF="S200.htm">Elliptical Galaxies</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 21.</B>&nbsp;<A HREF="S210.htm">Dwarf Galaxies</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 22.</B>&nbsp;<A HREF="S220.htm">Astronomy Education Resources</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 23.</B>&nbsp;<A HREF="S230.htm">Astronomy Education</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 24.</B>&nbsp;<A HREF="S240.htm">Cosmology</A>
+<DD><I>Oral, Monday, 10:00-11:30am, International Ballroom Center</I>
+<P>
+<DT><B>Session 25.</B>&nbsp;<A HREF="S250.htm">Black Holes, Dark Matter and X-ray Sources in Extragalactic Systems</A>
+<DD><I>Oral, Monday, 10:00-11:30am, International Ballroom East</I>
+<P>
+<DT><B>Session 26.</B>&nbsp;<A HREF="S260.htm">Gamma Ray Bursts</A>
+<DD><I>Oral, Monday, 10:00-11:30am, International Ballroom West</I>
+<P>
+<DT><B>Session 27.</B>&nbsp;<A HREF="S270.htm">White Dwarfs and Neutron Stars</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Jefferson West</I>
+<P>
+<DT><B>Session 28.</B>&nbsp;<A HREF="S280.htm">Solar System: Dynamics and Collisions</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Jefferson East</I>
+<P>
+<DT><B>Session 29.</B>&nbsp;<A HREF="S290.htm">Intergalactic Medium and QSO Absorption Line Systems</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Georgetown West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 30.</FONT></B>&nbsp;<A HREF="S300.htm">Recommendations of ``Enhancing the Postdoctoral Experience for Scientists and Engineers"</A>
+<DD><I>Special Session Oral, Monday, 10:00-11:30am, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 31.</FONT></B>&nbsp;<A HREF="S310.htm"><FONT COLOR="#CC33CC">HAD II</FONT>: The Development of American Astrophysics: Ideas, Instruments, Observatories and Astronomers</A>
+  <DD><I>Special Session Oral, Monday, <s>10:30-12:00noon</s> 10:00-11:30am, State</I> 
+    <P>
+<DT><B><FONT COLOR="#CC0000">Session 32.</FONT></B>&nbsp;<A HREF="S320.htm">Russell Lecture</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, International Ballroom Center</I>
+<P>
+<DT><B>Session 33.</B>&nbsp;<A HREF="S330.htm">Extra-Solar Planets</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, International Ballroom Center</I>
+<P>
+<DT><B>Session 34.</B>&nbsp;<A HREF="S340.htm">Cosmic Microwave Background Anisotropy and Dark Matter</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, International Ballroom East</I>
+<P>
+<DT><B>Session 35.</B>&nbsp;<A HREF="S350.htm">Galaxies I</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, International Ballroom West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 36.</FONT></B>&nbsp;<A HREF="S360.htm">Some Impacts of Solar Irradiance Variation on Terrestrial Climate</A>
+<DD><I>Special Session Oral, Monday, 2:00-3:30pm, Jefferson West</I>
+<P>
+<DT><B>Session 37.</B>&nbsp;<A HREF="S370.htm">From Cloud Cores to Star Clusters</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Jefferson East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 38.</FONT></B>&nbsp;<A HREF="S380.htm">How NSF Works</A>
+<DD><I>Special Session Oral, Monday, 2:00-3:30pm, Georgetown West</I>
+<P>
+<DT><B>Session 39.</B>&nbsp;<A HREF="S390.htm">Stellar Remnants and Cataclysmic Variables</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 40.</FONT></B>&nbsp;<A HREF="S400.htm"><FONT COLOR="#CC33CC">HAD III</FONT>: Some Controversies in the History of Astronomy</A>
+<DD><I>Special Session Oral, Monday, 2:00-3:30pm, State</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 41.</FONT></B>&nbsp;<A HREF="S410.htm">New Views of Galactic Nucleosynthesis and Supernova Remnants</A>
+<DD><I>Invited, Monday, 3:40-5:10pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 42.</FONT></B>&nbsp;<A HREF="S420.htm">Heineman Prize Lecture</A>
+<DD><I>Invited, Tuesday, 8:30-9:20am, International Ballroom Center</I>
+<P>
+<DT><B>Session 43.</B>&nbsp;<A HREF="S430.htm">AGN - IR and Starbursts</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 44.</B>&nbsp;<A HREF="S440.htm">SIRTF and Infrared Space Instruments</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 45.</B>&nbsp;<A HREF="S450.htm">Instrumentation for Space Observations</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 46.</B>&nbsp;<A HREF="S460.htm">M-31: A Multiwavelength Look</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 47.</B>&nbsp;<A HREF="S470.htm">Type IA Supernovae</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 48.</B>&nbsp;<A HREF="S480.htm">Public Outreach and Astronomy Resources</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 49.</B>&nbsp;<A HREF="S490.htm">Starburst Galaxies</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 50.</B>&nbsp;<A HREF="S500.htm">Seyfert Galaxies</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 51.</B>&nbsp;<A HREF="S510.htm">Radio Galaxies</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 52.</B>&nbsp;<A HREF="S520.htm">Structure and Kinematics of Spiral Galaxies</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 53.</B>&nbsp;<A HREF="S530.htm">Galaxies - Evolution</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 54.</B>&nbsp;<A HREF="S540.htm">Galaxies - Various</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 55.</B>&nbsp;<A HREF="S550.htm">Galaxies - Surveys II</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 56.</B>&nbsp;<A HREF="S560.htm">Globular Clusters</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 57.</B>&nbsp;<A HREF="S570.htm">Open Clusters</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 58.</B>&nbsp;<A HREF="S580.htm">Interstellar Medium - II</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 59.</B>&nbsp;<A HREF="S590.htm">Dust</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 60.</B>&nbsp;<A HREF="S600.htm">Star Formation - Accretion and Outflow</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 61.</B>&nbsp;<A HREF="S610.htm">Stars: Dwarfs and Companions</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 62.</B>&nbsp;<A HREF="S620.htm">Dwarf Novae and Other Cataclysmic  Variables</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 63.</B>&nbsp;<A HREF="S630.htm">Solar System</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 64.</B>&nbsp;<A HREF="S640.htm">Overview of The Supernova/Acceleration Probe</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 65.</B>&nbsp;<A HREF="S650.htm">FUSE Only</A>
+<DD><I>Display, Tuesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 66.</B>&nbsp;<A HREF="S660.htm">Extra-Solar Planets and Vega</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, International Ballroom Center</I>
+<P>
+<DT><B>Session 67.</B>&nbsp;<A HREF="S670.htm">Supernovae</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, International Ballroom East</I>
+<P>
+<DT><B>Session 68.</B>&nbsp;<A HREF="S680.htm">AGN</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, International Ballroom West</I>
+<P>
+<DT><B>Session 69.</B>&nbsp;<A HREF="S690.htm">Clusters of Galaxies - I</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Jefferson West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 70.</FONT></B>&nbsp;<A HREF="S700.htm">Goals and Strategies for Astronomy 101</A>
+<DD><I>Special Session Oral, Tuesday, 10:00-11:30am, Jefferson East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 71.</FONT></B>&nbsp;<A HREF="S710.htm">Committee on the Status of Minorities in Astronomy</A>
+<DD><I>Special Session Oral, Tuesday, 10:00-11:30am, Georgetown West</I>
+<P>
+<DT><B>Session 72.</B>&nbsp;<A HREF="S720.htm">Properties and Structure of Extragalactic Systems</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 73.</FONT></B>&nbsp;<A HREF="S730.htm">Square Kilometer Array</A>
+<DD><I>Special Session Oral, Tuesday, 10:00-11:30am, State</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 74.</FONT></B>&nbsp;<A HREF="S740.htm">Public Policy</A>
+<DD><I>Invited, Tuesday, 11:40am-12:30pm, International Ballroom Center</I>
+<P>
+<DT><B>Session 75.</B>&nbsp;<A HREF="S750.htm">Gravitational Lensing and Cosmic Distances</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, International Ballroom Center</I>
+<P>
+<DT><B>Session 76.</B>&nbsp;<A HREF="S760.htm">Disks and Outflows of Young Stellar Objects</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, International Ballroom East</I>
+<P>
+<DT><B>Session 77.</B>&nbsp;<A HREF="S770.htm">QSOs</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, International Ballroom West</I>
+<P>
+<DT><B>Session 78.</B>&nbsp;<A HREF="S780.htm">Surveys and Evolution of Nearby Galaxies</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Jefferson West</I>
+<P>
+<DT><B>Session 79.</B>&nbsp;<A HREF="S790.htm">Star Clusters</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Jefferson East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 80.</FONT></B>&nbsp;<A HREF="S800.htm">The Astronomy Diagnostic Test: Development, Results and Applications</A>
+<DD><I>Special Session Oral, Tuesday, 2:00-3:30pm, Georgetown West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 81.</FONT></B>&nbsp;<A HREF="S810.htm">High Angular Resolution: Low Frequency Radio Astronomy</A>
+<DD><I>Special Session Oral, Tuesday, 2:00-3:30pm, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 82.</FONT></B>&nbsp;<A HREF="S820.htm">Astrobiology - The Search for Life Beyond Earth</A>
+<DD><I>Invited, Tuesday, 3:40-5:10pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 83.</FONT></B>&nbsp;<A HREF="S830.htm">Rossi Prize Lectures</A>
+<DD><I>Invited, Wednesday, 8:30-9:20am, International Ballroom Center</I>
+<P>
+<DT><B>Session 84.</B>&nbsp;<A HREF="S840.htm">Supernovae Surveys</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 85.</B>&nbsp;<A HREF="S850.htm">The Galactic Center</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 86.</B>&nbsp;<A HREF="S860.htm">Extra-Solar Planet Astronomy from the Present to TPF</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 87.</B>&nbsp;<A HREF="S870.htm">Interacting Galaxies</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 88.</B>&nbsp;<A HREF="S880.htm">Our Favorite Star</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 89.</B>&nbsp;<A HREF="S890.htm">Young Stars - Surveys, Associations and Binaries</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 90.</B>&nbsp;<A HREF="S900.htm">$\delta$ Scuti and Mira Variables</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 91.</B>&nbsp;<A HREF="S910.htm">Stellar Populations and Galactic Structure</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 92.</B>&nbsp;<A HREF="S920.htm">Circumstellar Material and Atmospheres: Cooler</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 93.</B>&nbsp;<A HREF="S930.htm">Data Analysis Challenges in Solar Stellar Astrophysics</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 94.</B>&nbsp;<A HREF="S940.htm">Type II Supernovae</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 95.</B>&nbsp;<A HREF="S950.htm">Accreting Neutron Stars</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 96.</B>&nbsp;<A HREF="S960.htm">Associations, Young Massive Clusters</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 97.</B>&nbsp;<A HREF="S970.htm">Interstellar Medium - III</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 98.</B>&nbsp;<A HREF="S980.htm">Blazars and Other AGN Jets</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 99.</B>&nbsp;<A HREF="S990.htm">AGN - Narrow Line and Broad Line</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 100.</B>&nbsp;<A HREF="S1000.htm">Galaxy Clusters and Mergers</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 101.</B>&nbsp;<A HREF="S1010.htm">DPOSS, LONEOS, LSST and DLS: New Survey Results</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 102.</B>&nbsp;<A HREF="S1020.htm">Instrumentation for the Optical and Infrared</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 103.</B>&nbsp;<A HREF="S1030.htm">Instrumentation for Radio Wavelengths</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 104.</B>&nbsp;<A HREF="S1040.htm">Light Pollution Issues</A>
+<DD><I>Display, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 105.</FONT></B>&nbsp;<A HREF="S1050.htm"><FONT COLOR="#FF6600">HEAD I</FONT>: Measuring Neutron Star Radii vi Thermal Emission: Constraining the Nuclear Equation of State</A>
+<DD><I>Special Session Oral, Wednesday, 10:00-11:30am, International Ballroom Center</I>
+<P>
+<DT><B>Session 106.</B>&nbsp;<A HREF="S1060.htm">Deep-Fields and High-Z Galaxies</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, International Ballroom East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 107.</FONT></B>&nbsp;<A HREF="S1070.htm">Policy Insider Panel</A>
+<DD><I>Special Session Oral, Wednesday, 10:00-11:30am, International Ballroom West</I>
+<P>
+<DT><B>Session 108.</B>&nbsp;<A HREF="S1080.htm">Black Holes</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Jefferson West</I>
+<P>
+<DT><B>Session 109.</B>&nbsp;<A HREF="S1090.htm">Galactic Center and Milky Way Formation</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Jefferson East</I>
+<P>
+<DT><B>Session 110.</B>&nbsp;<A HREF="S1100.htm">Nucleosynthesis and Dust Formation</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Georgetown West</I>
+<P>
+<DT><B>Session 111.</B>&nbsp;<A HREF="S1110.htm">Science with Wide Field Imaging in Space</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 112.</FONT></B>&nbsp;<A HREF="S1120.htm">Data Analysis Challenges in Solar and Stellar Astrophysics</A>
+<DD><I>Special Session Oral, Wednesday, 10:00-11:30am, State</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 113.</FONT></B>&nbsp;<A HREF="S1130.htm">Pierce Prize Lecture</A>
+<DD><I>Invited, Wednesday, 11:40am-12:30pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 114.</FONT></B>&nbsp;<A HREF="S1140.htm"><FONT COLOR="#FF6600">HEAD II</FONT>: Gravitational Wave and High Energy Astrophysics</A>
+<DD><I>Special Session Oral, Wednesday, 2:00-3:30pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 115.</FONT></B>&nbsp;<A HREF="S1150.htm">Extra-Solar Planet Astronomy from the Present to TPF</A>
+<DD><I>Special Session Oral, Wednesday, 2:00-3:30pm, International Ballroom East</I>
+<P>
+<DT><B>Session 116.</B>&nbsp;<A HREF="S1160.htm">Cosmology with SNAP</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, International Ballroom West</I>
+<P>
+<DT><B>Session 117.</B>&nbsp;<A HREF="S1170.htm">Star Formation and the ISM at Galactic Scales</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Jefferson West</I>
+<P>
+<DT><B>Session 118.</B>&nbsp;<A HREF="S1180.htm">Galaxies II</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Jefferson East</I>
+<P>
+<DT><B>Session 119.</B>&nbsp;<A HREF="S1190.htm">Magnetars and Pulsars</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Georgetown West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 120.</FONT></B>&nbsp;<A HREF="S1200.htm">Protecting Local Dark-Sky Areas and Sky Brightness as a Part of Education in Astronomy</A>
+<DD><I>Special Session Oral, Wednesday, 2:00-3:30pm, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 121.</FONT></B>&nbsp;<A HREF="S1210.htm">Frontiers in High Energy Astrophysics</A>
+<DD><I>Invited, Wednesday, 3:40-5:10pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 122.</FONT></B>&nbsp;<A HREF="S1220.htm">Warner Prize Lecture</A>
+<DD><I>Invited, Thursday, 8:30-9:20am, International Ballroom Center</I>
+<P>
+<DT><B>Session 123.</B>&nbsp;<A HREF="S1230.htm">NOAO Deep Wide Field Survey</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 124.</B>&nbsp;<A HREF="S1240.htm">H II Regions</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 125.</B>&nbsp;<A HREF="S1250.htm">Dark Matter</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 126.</B>&nbsp;<A HREF="S1260.htm">Supernova Remnants</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Monroe/Lincoln</I>
+<P>
+<DT><B>Session 127.</B>&nbsp;<A HREF="S1270.htm">The In Focus Telescope</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 128.</B>&nbsp;<A HREF="S1280.htm">ISO Spectra</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 129.</B>&nbsp;<A HREF="S1290.htm">Astrometric Surveys</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 130.</B>&nbsp;<A HREF="S1300.htm">Surveys, Surveys</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 131.</B>&nbsp;<A HREF="S1310.htm">QSO Absorption Lines</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 132.</B>&nbsp;<A HREF="S1320.htm">AGN - Modeling</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 133.</B>&nbsp;<A HREF="S1330.htm">Variable Stars: Searchers, Data, Analysis</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 134.</B>&nbsp;<A HREF="S1340.htm">Formation of Massive Stars</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 135.</B>&nbsp;<A HREF="S1350.htm">Circumstellar Material and Atmospheres: Hotter</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 136.</B>&nbsp;<A HREF="S1360.htm">Planetary Nebulae</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 137.</B>&nbsp;<A HREF="S1370.htm">Topics in Stellar Evolution</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 138.</B>&nbsp;<A HREF="S1380.htm">AGN - Surveys</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 139.</B>&nbsp;<A HREF="S1390.htm">Distance Scale</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 140.</FONT></B>&nbsp;<A HREF="S1400.htm">Recent Results from Chandra Deep Surveys - I</A>
+<DD><I>Special Session Oral, Thursday, 10:00-11:30am, International Ballroom Center</I>
+<P>
+<DT><B>Session 141.</B>&nbsp;<A HREF="S1410.htm">AGN and non-AGN Populations and Unification</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, International Ballroom East</I>
+<P>
+<DT><B>Session 142.</B>&nbsp;<A HREF="S1420.htm">Clusters of Galaxies - II</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, International Ballroom West</I>
+<P>
+<DT><B>Session 143.</B>&nbsp;<A HREF="S1430.htm">Stellar Spectroscopy</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Jefferson West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 144.</FONT></B>&nbsp;<A HREF="S1440.htm">Government Relations Issues Panel</A>
+<DD><I>Special Session Oral, Thursday, 10:00-11:30am, Jefferson East</I>
+<P>
+<DT><B>Session 145.</B>&nbsp;<A HREF="S1450.htm">Astronomical Instruments and Analytical Tools</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Georgetown West</I>
+<P>
+<DT><B>Session 146.</B>&nbsp;<A HREF="S1460.htm">Our Favorite Star</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Georgetown East</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 147.</FONT></B>&nbsp;<A HREF="S1470.htm">New Perspectives on Cosmological Structure Formation</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, International Ballroom Center</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 148.</FONT></B>&nbsp;<A HREF="S1480.htm">Recent Results from Chandra Deep Surveys - II</A>
+<DD><I>Special Session Oral, Thursday, 2:00-3:30pm, International Ballroom Center</I>
+<P>
+<DT><B>Session 149.</B>&nbsp;<A HREF="S1490.htm">Molecular Clouds, Cloud Cores, and Their Magnetic Fields</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, International Ballroom East</I>
+<P>
+<DT><B>Session 150.</B>&nbsp;<A HREF="S1500.htm">Particular AGNs and Seyferts</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, International Ballroom West</I>
+<P>
+<DT><B>Session 151.</B>&nbsp;<A HREF="S1510.htm">Structure and Composition of The ISM</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Jefferson West</I>
+<P>
+<DT><B>Session 152.</B>&nbsp;<A HREF="S1520.htm">Variable Stars</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Jefferson East</I>
+<P>
+<DT><B>Session 153.</B>&nbsp;<A HREF="S1530.htm">Stellar Populations and Dynamics in Extragalactic Systems</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Georgetown West</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 154.</FONT></B>&nbsp;<A HREF="S1540.htm">The Undergraduate Astronomy Major: What and Why?</A>
+<DD><I>Special Session Oral, Thursday, 2:00-3:30pm, Georgetown East</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author index]</A>
+</BODY>
+</HTML>
+
+<!-- End of template section list -->
+
+

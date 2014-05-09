@@ -1,0 +1,287 @@
+<HEAD><TITLE>Session List</TITLE>
+</HEAD>
+<b>Bulletin of the American Astronomical Society, 1997, Volume 29, Number
+2<br>
+AAS 190th Meeting, Winston-Salem, NC, June 1997</b><br>
+<A HREF="AuthorList.html">[Author List]</A>
+<P>
+<H1>Monday, June 9, 1997</H1>
+<DL>
+<P><DT><B>Session 1.</B>
+<A HREF=tocMonday.html#Sess001>Invited Talk</A><DD>
+
+<I>Invited presentation, Monday, 8:30-9:20am, North Main Hall A</I>
+
+<P><DT><B>Session 2.</B>
+<A HREF=tocMonday.html#Sess002>Spiral, Irregular and Elliptical Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 3.</B>
+<A HREF=tocMonday.html#Sess003>Evolution of Galaxies & Clusters of Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 4.</B>
+<A HREF=tocMonday.html#Sess004>The Sun</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 5.</B>
+<A HREF=tocMonday.html#Sess005>Solar System Objects</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 6.</B>
+<A HREF=tocMonday.html#Sess006>The ISM & Molecular Clouds</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 7.</B>
+<A HREF=tocMonday.html#Sess007>Planetary & Other Nebulae</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 8.</B>
+<A HREF=tocMonday.html#Sess008>Teaching Projects</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 9.</B>
+<A HREF=tocMonday.html#Sess009>Instruments, Techniques</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 10.</B>
+<A HREF=tocMonday.html#Sess010>Studies of Black Holes</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 11.</B>
+<A HREF=tocMonday.html#Sess011>Instrumentation & Techniques</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, North Main Hall A</I>
+
+<P><DT><B>Session 12.</B>
+<A HREF=tocMonday.html#Sess012>Degenerate Stars & Supernovae</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, North Main Hall C/D</I>
+
+<P><DT><B>Session 13.</B>
+<A HREF=tocMonday.html#Sess013>Galaxies & Globular Clusters</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, North Main Hall F/G</I>
+
+<P><DT><B>Session 14.</B>
+<A HREF=tocMonday.html#Sess014>Education & Abstract Services</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, North Main Hall B</I>
+
+<P><DT><B>Session 15.</B>
+<A HREF=tocMonday.html#Sess015>Russell Prize Lecture</A><DD>
+
+<I>Oral presentation, Monday, 11:40am-12:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 16.</B>
+<A HREF=tocMonday.html#Sess016>Studies of Black Holes & Future Survey Missions</A><DD>
+
+<I>Oral presentation, Monday, 2:00-3:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 17.</B>
+<A HREF=tocMonday.html#Sess017>ISM, Star Formation & Planets</A><DD>
+
+<I>Oral presentation, Monday, 2:00-3:30pm, North Main Hall C/D</I>
+
+<P><DT><B>Session 18.</B>
+<A HREF=tocMonday.html#Sess018>Outcome of the Examination of Graduate Education in Astronomy</A><DD>
+
+<I>Oral presentation, Monday, 2:00-3:30pm, North Main Hall F/G</I>
+
+<P><DT><B>Session 19.</B>
+<A HREF=tocMonday.html#Sess019>Old Stellar Populations in the Milky Way</A><DD>
+
+<I>Invited presentation, Monday, 3:40-5:10pm, North Main Hall A</I>
+</DL>
+
+<H1>Tuesday, June 10, 1997</H1>
+<DL>
+<P><DT><B>Session 20.</B>
+<A HREF=tocTuesday.html#Sess020>All Sky Imaging Surveys of Black Hole Candidates and AGN - I</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 21.</B>
+<A HREF=tocTuesday.html#Sess021>Amateurs & Professionals:  Collaborators in the New Age of Electronic Astronomy - I</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, North Main Hall C/D</I>
+
+<P><DT><B>Session 22.</B>
+<A HREF=tocTuesday.html#Sess022>Binary Stars: New Generation Modeling Developments & Results</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, North Main Hall F/G</I>
+
+<P><DT><B>Session 23.</B>
+<A HREF=tocTuesday.html#Sess023>Degenerate Stars, Pulsars</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 24.</B>
+<A HREF=tocTuesday.html#Sess024>Star Formation in the Galaxy & the LMC</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 25.</B>
+<A HREF=tocTuesday.html#Sess025>Stars in the Ultraviolet</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 26.</B>
+<A HREF=tocTuesday.html#Sess026>Stars in the Visible & IR</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 27.</B>
+<A HREF=tocTuesday.html#Sess027>Variable Stars, Novae, & Supernovae</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 28.</B>
+<A HREF=tocTuesday.html#Sess028>Double Stars</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 29.</B>
+<A HREF=tocTuesday.html#Sess029>High Resolution X-ray Imaging & Spectroscopy with AXAF</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 30.</B>
+<A HREF=tocTuesday.html#Sess030>Amateurs & Professionals:  Collaborators in the New Age of Electronic Astronomy</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 31.</B>
+<A HREF=tocTuesday.html#Sess031>Binary Stars: New Generation Modeling Developments</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 32.</B>
+<A HREF=tocTuesday.html#Sess032>All Sky Imaging Surveys of Black Hole Candidates & AGN - II</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 33.</B>
+<A HREF=tocTuesday.html#Sess033>Amateurs & Professionals: Collaborators in the New Age of Electronic Astronomy - II</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, North Main Hall C/D</I>
+
+<P><DT><B>Session 34.</B>
+<A HREF=tocTuesday.html#Sess034>High Resolution X-ray Imaging & Spectroscopy with AXAF</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, North Main Hall F/G</I>
+</DL>
+
+<H1>Wednesday, June 11, 1997</H1>
+<DL>
+<P><DT><B>Session 35.</B>
+<A HREF=tocWednesday.html#Sess035>Old Stellar Populations Beyond the Milky Way - I</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 36.</B>
+<A HREF=tocWednesday.html#Sess036>New Insights on X-ray Binaries - I</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, North Main Hall C/D</I>
+
+<P><DT><B>Session 37.</B>
+<A HREF=tocWednesday.html#Sess037>New Light on Supernovae Remnants</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, North Main Hall F/G</I>
+
+<P><DT><B>Session 38.</B>
+<A HREF=tocWednesday.html#Sess038>Modeling & Numerical Methods</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 39.</B>
+<A HREF=tocWednesday.html#Sess039>AGNs, QSOs, Active Galaxies</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 40.</B>
+<A HREF=tocWednesday.html#Sess040>Starburst Galaxies</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 41.</B>
+<A HREF=tocWednesday.html#Sess041>T Tauri Stars & Protostellar Regions</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 42.</B>
+<A HREF=tocWednesday.html#Sess042>Orfeus & STIS</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 43.</B>
+<A HREF=tocWednesday.html#Sess043>Source Surveys</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 44.</B>
+<A HREF=tocWednesday.html#Sess044>New Light on Supernova Remnants</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 45.</B>
+<A HREF=tocWednesday.html#Sess045>New Insights on X-ray Binaries</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 46.</B>
+<A HREF=tocWednesday.html#Sess046>Old Stellar Populations Beyond The Milky Way</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, South Main Hall</I>
+
+<P><DT><B>Session 47.</B>
+<A HREF=tocWednesday.html#Sess047>Old Stellar Populations Beyond The Milky Way - II</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, North Main Hall A</I>
+
+<P><DT><B>Session 48.</B>
+<A HREF=tocWednesday.html#Sess048>New Insights on X-ray Binaries - II</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, North Main Hall C/D</I>
+
+<P><DT><B>Session 49.</B>
+<A HREF=tocWednesday.html#Sess049>Galactic Radioactivity, 26A1 & Solar System Origin</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, North Main Hall F/G</I>
+</DL>
+
+<H1>Thursday, June 12, 1997</H1>
+<DL>
+<P><DT><B>Session 50.</B>
+<A HREF=tocThursday.html#Sess050>Invited Talk</A><DD>
+
+<I>Invited presentation, Thursday, 8:30-9:20am, North Main Hall A</I>
+
+<P><DT><B>Session 51.</B>
+<A HREF=tocThursday.html#Sess051>Active Galactic Nuclei & Quasars</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, North Main Hall A</I>
+
+<P><DT><B>Session 52.</B>
+<A HREF=tocThursday.html#Sess052>Clusters & Cosmology</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, North Main Hall C/D</I>
+
+<P><DT><B>Session 53.</B>
+<A HREF=tocThursday.html#Sess053>Gamma Ray Investigations</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, North Main Hall F/G</I>
+
+<P><DT><B>Session 54.</B>
+<A HREF=tocThursday.html#Sess054>Highest Energy Cosmic Rays</A><DD>
+
+<I>Invited presentation, Thursday, 11:40am-12:30pm, North Main Hall A</I>

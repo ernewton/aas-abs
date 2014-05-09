@@ -1,0 +1,480 @@
+<!-- TDB section list -->
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session list</TITLE></HEAD>
+<BODY BGCOLOR="#ffffff">
+<H1>Session List</H1>
+
+<B>AAS 197, January 2001</B><BR>
+<A HREF="AuthorIndex.htm">[Author index]</A> 
+<a href="http://sandblock.pdf">[PDF Block Schedule]</a><br>
+All findings are <b>embargoed</b> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red</FONT>
+<td><FONT COLOR="#CC0000">=</FONT> 
+<td><FONT COLOR="#CC0000">Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green</FONT>
+<td><FONT COLOR="#009900">=</FONT>
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#CC33CC">purple</FONT>
+<td><FONT COLOR="#CC33CC">=</FONT>
+<td><FONT COLOR="#CC33CC">Historical Astronomy Division Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange</FONT>
+<td><FONT COLOR="#FF6600">=</FONT>
+<td><FONT COLOR="#FF6600">High Energy Astrophysics Division Sessions</FONT>
+<tr>
+<td><img src="http://www.aas.org/images/conjunct.gif">  
+<td>=
+<td>Joint AAS/AAPT Session
+<tr>
+<td>
+<td>
+<td>Numeric Joint Sessions are published in the <i>BAAS</i>.  
+<tr>
+<td>
+<td>
+<td>Alphabetic Joint Sessions are published in the <i>Announcer</i>.
+</table>
+
+<P><HR>
+<DL>
+<DT><B><FONT COLOR="#009900">Session 1.</FONT></B>&nbsp;<A HREF="S10.htm"><FONT COLOR="#CC33CC">HAD I:</FONT> Boners of the Century</A> -- LOCATION UPDATE
+19 December 2000
+<DD><I>Special Session Oral, Sunday, 1:00-5:30pm, SDSU, Zinner Collection,
+special collections area (4th floor) of Love Library, Tea and tour follow
+talks. There will probably be people sharing taxies from the hotel.</I>
+<P>
+<DT><B>Welcoming Address:</B><BR>
+&nbsp;&nbsp;&nbsp;<B>Ruth Howes, President AAPT and E. Margaret Burbidge, UCSD</B><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint, Monday, 8:00-8:30am, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 2.</FONT></B>&nbsp;<A HREF="S20.htm">Heineman Prize Lecture</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Invited, Monday, 8:30-9:20am, Golden Ballroom</I>
+<P>
+<DT><B>Session 3.</B>&nbsp;<A HREF="S30.htm">QSO Absorbers and the IGM</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 4.</B>&nbsp;<A HREF="S40.htm">The Milky Way Galaxy</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 5.</B>&nbsp;<A HREF="S50.htm">Molecular Clouds and Cloud Cores</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 6.</B>&nbsp;<A HREF="S60.htm">Planetary Nebulae: Young and Old</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 7.</B>&nbsp;<A HREF="S70.htm">Gas in the Galactic ISM</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 8.</B>&nbsp;<A HREF="S80.htm">Circumstellar Matter and Winds</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 9.</B>&nbsp;<A HREF="S90.htm">CVs: UV and IR Data</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 10.</B>&nbsp;<A HREF="S100.htm">Low Mass Star Formation</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 11.</B>&nbsp;<A HREF="S110.htm">Extrasolar Planets and Very Low Mass Stars</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 12.</B>&nbsp;<A HREF="S120.htm">Hubble Space Telescope: Instruments and Data Reduction</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 13.</B>&nbsp;<A HREF="S130.htm">Early Science from the Sloan Digital Sky Survey</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 14.</B>&nbsp;<A HREF="S140.htm">New Space Missions and Instrumentation</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 15.</B>&nbsp;<A HREF="S150.htm">Optical and IR: Small Telescopes, Instrumentation and Processing</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 16.</B>&nbsp;<A HREF="S160.htm">New Results from Back to Basics Data Analysis</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 17.</B>&nbsp;<A HREF="S170.htm">Frontiers of Astrophysics IV</A>
+<DD><I>Display, Monday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 18.</B>&nbsp;<A HREF="S180.htm">Star Forming Regions</A>
+<DD><I>Oral, Monday, 10:30am-12:00noon, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 19.</FONT></B>&nbsp;<A HREF="S190.htm">Frontiers of Astrophysics I</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp; 
+<I>Joint Special Session Oral, Monday, 10:30am-12:00noon, Town and Country</I>
+<P>
+<DT><B>Session 20.</B>&nbsp;<A HREF="S200.htm">Galaxy Formation and Chemical Evolution</A>
+<DD><I>Oral, Monday, 10:30am-12:00noon, San Diego</I>
+<P>
+<DT><B>Session 21.</B>&nbsp;<A HREF="S210.htm">AGN Kinematics</A>
+<DD><I>Oral, Monday, 10:30am-12:00noon, Pacific One</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 22.</FONT></B>&nbsp;<A HREF="S220.htm">New Results from ``Back-to-Basics" Data Analysis: Special Tutorials on Timing and Fitting</A>
+<DD><I>Special Session Oral, Monday, 10:30am-12:00noon, Royal Palm 3/4</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 23.</FONT></B>&nbsp;<A HREF="S230.htm"><FONT COLOR="#CC33CC">HAD II</FONT></A>
+<DD><I>Special Session Oral, Monday, 10:30am-12:00noon, Royal Palm 5/6</I>
+<P>
+<DT><B>Session 24.</B>&nbsp;<A HREF="S240.htm">Star Clusters and Binaries</A>
+<DD><I>Oral, Monday, 10:30am-12:00noon, Sunrise</I>
+<P>
+<DT><B>Session 25.</B>&nbsp;<A HREF="S250.htm">Gamma Ray Bursts: Localization and Identification</A>
+<DD><I>Oral, Monday, 1:30-3:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 26.</FONT></B>&nbsp;<A HREF="S260.htm">Frontiers of Astrophysics II</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Special Session Oral, Monday, 1:30-3:00pm, Town and Country</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 27.</FONT></B>&nbsp;<A HREF="S270.htm">Early Science from the Sloan Digital Sky Survey</A>
+<DD><I>Special Session Oral, Monday, 1:30-3:00pm, San Diego</I>
+<P>
+<DT><B>Session 28.</B>&nbsp;<A HREF="S280.htm">Kinematics, ISM and Star Formation in the Local Group</A>
+<DD><I>Oral, Monday, 1:30-3:00pm, Pacific One</I>
+<P>
+<DT><B>Session 29.</B>&nbsp;<A HREF="S290.htm">Protostellar Outflows</A>
+<DD><I>Oral, Monday, 1:30-3:00pm, Royal Palm 3/4</I>
+<P>
+<DT><B>Session 30.</B>&nbsp;<A HREF="S300.htm">Dwarf and Elliptical Galaxies</A>
+<DD><I>Oral, Monday, 1:30-3:00pm, Royal Plam 5/6</I>
+<P>
+<DT><B>Session 31.</B>&nbsp;<A HREF="S310.htm">Solar System and The Sun</A>
+<DD><I>Oral, Monday, 1:30-3:00pm, Sunrise</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 32.</FONT></B>&nbsp;<A HREF="S320.htm">Warner Prize Lecture</A>
+<DD><I>Invited, Monday, 3:15-4:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 33.</FONT></B>&nbsp;<A HREF="S330.htm">Pierce Prize Lecture</A>
+<DD><I>Invited, Monday, 4:00-4:45pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 34.</FONT></B>&nbsp;<A HREF="S340.htm">Sunlight and Ice Crystals in the Skies of Antarctica</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Invited, Monday, 5:00-6:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 35.</FONT></B>&nbsp;<A HREF="S350.htm">Russell Lecture</A>
+<DD><I>Invited, Tuesday, 8:30-9:20am, Golden Ballroom</I>
+<P>
+<DT><B>Session 36.</B>&nbsp;<A HREF="S360.htm">Deuterium Abundance in ISM: First <i>FUSE</i> Results</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 37.</B>&nbsp;<A HREF="S370.htm">Galaxy Interactions and Dynamics</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 38.</B>&nbsp;<A HREF="S380.htm">Gas in External Galaxies</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 39.</B>&nbsp;<A HREF="S390.htm">Polarimetry and Variability in AGN</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 40.</B>&nbsp;<A HREF="S400.htm">REU: Instrumentation, Star Clusters and Galaxies</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 41.</B>&nbsp;<A HREF="S410.htm">Star Clusters and Associations</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 42.</B>&nbsp;<A HREF="S420.htm">Dust and Theory of ISM</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 43.</B>&nbsp;<A HREF="S430.htm">High Mass Star Formation</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 44.</B>&nbsp;<A HREF="S440.htm">Observations and Analysis of Stellar Atmospheres</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 45.</B>&nbsp;<A HREF="S450.htm">Stellar Interferometry</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 46.</B>&nbsp;<A HREF="S460.htm">Variable Stars</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 47.</B>&nbsp;<A HREF="S470.htm">Circumstellar Disks</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 48.</B>&nbsp;<A HREF="S480.htm">REU: Solar System and Stars</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 49.</B>&nbsp;<A HREF="S490.htm">The Formation, Evolution and Detection of Habitable Planets</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 50.</B>&nbsp;<A HREF="S500.htm">Studies of Solar System Objects</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 51.</B>&nbsp;<A HREF="S510.htm">The Sun</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 52.</B>&nbsp;<A HREF="S520.htm">Science with Adaptive Optics</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 53.</B>&nbsp;<A HREF="S530.htm">Instruments and Techniques: Submillimeter to Radio</A>
+<DD><I>Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 54.</B>&nbsp;<A HREF="S540.htm">Education and Public Outreach</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>AAPT CB 1-10.</B>&nbsp;Education and Public Outreach<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Display, Tuesday, 9:30am-7:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 55.</B>&nbsp;<A HREF="S550.htm">The Cosmic Microwave Background</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 56.</FONT></B>&nbsp;<A HREF="S560.htm">Frontiers of Astrophysics III</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Special Session Oral, Tuesday, 10:30am-12:00noon, Town and Country</I>
+<P>
+<DT><B>Session 57.</B>&nbsp;<A HREF="S570.htm">Galaxy Clusters: Galaxy Evolution</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, San Diego</I>
+<P>
+<DT><B>Session 58.</B>&nbsp;<A HREF="S580.htm">Barred and Edge-on Galaxies</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, Pacific One</I>
+<P>
+<DT><B>Session 59.</B>&nbsp;<A HREF="S590.htm">The Interstellar Medium</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, Royal Palm 3/4</I>
+<P>
+<DT><B>Session 60.</B>&nbsp;<A HREF="S600.htm">Stars and Stellar Atmospheres</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, Royal Palm 5/6</I>
+<P>
+<DT><B>Session 61.</B>&nbsp;<A HREF="S610.htm">Dark Energy, Cosmology, and the SNAP Mission</A>
+<DD><I>Oral, Tuesday, 10:30am-12:00noon, Sunrise</I>
+<P>
+<DT><B>AAPT CI.</B>&nbsp;The Impact of Physics Education Research on
+the Teaching of Astronomy<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Oral, Tuesday, 10:30am-12:15pm, Golden West</I>
+<P>
+<DT><B>Session 62.</B>&nbsp;<A HREF="S620.htm">Detecting and Characterizing Extrasolar Planets</A>
+<DD><I>Oral, Tuesday, 1:30-3:00pm, Golden Ballroom</I>
+<P>
+<DT><B>Session 63.</B>&nbsp;<A HREF="S630.htm">Gamma Ray Sources, Supernovae and Supernova Remnants</A>
+<DD><I>Oral, Tuesday, 1:30-3:00pm, Town and Country</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 64.</FONT></B>&nbsp;<A HREF="S640.htm">Science with Adaptive Optics</A>
+<DD><I>Special Session Oral, Tuesday, 1:30-3:00pm, San Diego</I>
+<P>
+<DT><B>Session 65.</B>&nbsp;<A HREF="S650.htm">Galaxy Evolution: High Redshift</A>
+<DD><I>Oral, Tuesday, 1:30-3:00pm, Pacific One</I>
+<P>
+<DT><B>Session 66.</B>&nbsp;<A HREF="S660.htm">When the Universe was Mostly Gas</A>
+<DD><I>Oral, Tuesday, 1:30-3:00pm, Royal Palm 3/4</I>
+<P>
+<DT><B>Session 67.</B>&nbsp;<A HREF="S670.htm">New Technology and Its Achievements I</A>
+<DD><I>Oral, Tuesday, 1:30-3:00pm, Royal Palm 5/6</I>
+<P>
+<DT><B>AAPT DA.</B>&nbsp; Astronomy as a Tool for Public Outreach<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Oral, Tuesday, 1:30-3:15pm, Pacific Salon Three</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 68.</FONT></B>&nbsp;<A HREF="S680.htm">The Hot and the Blue</A>
+<DD><I>Invited, Tuesday, 3:15-4:45pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 69.</FONT></B>&nbsp;<A HREF="S690.htm">Star Streams in the Milky Way - Fragments of its History</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;<I>Joint Invited, Tuesday, 5:00-6:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 70.</FONT></B>&nbsp;<A HREF="S700.htm">The Formation, Evolution and Detection of Habitable Planets</A>
+<DD><I>Special Session Oral, Tuesday, 8:00pm, San Diego</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 71.</FONT></B>&nbsp;<A HREF="S710.htm">Einstein's Biggest Blunder? The Case for an Accelerating Universe</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Invited, Wednesday, 8:30-9:20am, Golden Ballroom</I>
+<P>
+<DT><B>Session 72.</B>&nbsp;<A HREF="S720.htm">Cosmology from z=1100 to 1</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 73.</B>&nbsp;<A HREF="S730.htm">Gamma Ray Bursts Observations and Analysis</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 74.</B>&nbsp;<A HREF="S740.htm">Surveys for Active Galaxies</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 75.</B>&nbsp;<A HREF="S750.htm">Jets in AGN</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 76.</B>&nbsp;<A HREF="S760.htm">Galaxy Evolution I</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 77.</B>&nbsp;<A HREF="S770.htm">Galaxy Evolution II</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 78.</B>&nbsp;<A HREF="S780.htm">Nearby Galaxies I</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 79.</B>&nbsp;<A HREF="S790.htm">Nearby Galaxies II</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 80.</B>&nbsp;<A HREF="S800.htm"><FONT COLOR="#FF6600">HEAD Contributions:</FONT> Pulsars to X-ray Clusters</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 81.</B>&nbsp;<A HREF="S810.htm">Supernovae and Nova Theory</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 82.</B>&nbsp;<A HREF="S820.htm">Supernova Remnants: Multispectral Observations</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 83.</B>&nbsp;<A HREF="S830.htm">Compact Objects</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 84.</B>&nbsp;<A HREF="S840.htm">X-ray Binaries</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 85.</B>&nbsp;<A HREF="S850.htm">CVs: Optical Observations and Theory</A>
+<DD><I>Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 86.</B>&nbsp;<A HREF="S860.htm">Innovations in Teaching Astronomy I</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 87.</B>&nbsp;<A HREF="S870.htm">Innovations in Teaching Astronomy II</A>
+<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B>AAPT EC 4-10.</B>&nbsp;Innovations in Teaching Astronomy II<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Display, Wednesday, 9:30am-6:45pm, Exhibit Hall</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 88.</FONT></B>&nbsp;<A HREF="S880.htm"><FONT COLOR="#FF6600">HEAD I:</FONT> High Resolution Views of Compact Objects</A>
+<DD><I>Special Session Oral, Wednesday, 10:30am-12:00noon, Golden Ballroom</I>
+<P>
+<DT><B>Session 89.</B>&nbsp;<A HREF="S890.htm">Large Scale Structure and Galaxy Clusters</A>
+<DD><I>Oral, Wednesday, 10:30am-12:00noon, Town and Country</I>
+<P>
+<DT><B>Session 90.</B>&nbsp;<A HREF="S900.htm">Multiwavelength Surveys for AGN</A>
+<DD><I>Oral, Wednesday, 10:30am-12:00noon, San Diego</I>
+<P>
+<DT><B>Session 91.</B>&nbsp;<A HREF="S910.htm">Disks around YSOs</A>
+<DD><I>Oral, Wednesday, 10:30am-12:00noon, Pacific One</I>
+<P>
+<DT><B>Session 92.</B>&nbsp;<A HREF="S920.htm">Star Formation in Nearby Galaxies</A>
+<DD><I>Oral, Wednesday, 10:30am-12:00noon, Royal Palm 3/4</I>
+<P>
+<DT><B>Session 93.</B>&nbsp;<A HREF="S930.htm">New Technology and its Achievements II</A>
+<DD><I>Oral, Wednesday, 10:30am-12:00noon, Royal Palm 5/6</I>
+<P>
+<DT><B>AAPT EE.</B>&nbsp;Innovations in Teaching Astronomy, Part I<BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Oral, Wednesday, 10:30am-12:00noon, California</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 94.</FONT></B>&nbsp;<A HREF="S940.htm"><FONT COLOR="#FF6600">HEAD II:</FONT> High Energy Constraints on Extended Structures</A>
+<DD><I>Special Session Oral, Wednesday, 1:30-3:00pm, Golden Ballroom</I>
+<P>
+<DT><B>Session 95.</B>&nbsp;<A HREF="S950.htm">Cosmological Parameters and Evolution</A>
+<DD><I>Oral, Wednesday, 1:30-3:00pm, Town and Country</I>
+<P>
+<DT><B>Session 96.</B>&nbsp;<A HREF="S960.htm">Galaxy Evolution: Low Redshift Traces</A>
+<DD><I>Oral, Wednesday, 1:30-3:00pm, San Diego</I>
+<P>
+<DT><B>Session 97.</B>&nbsp;<A HREF="S970.htm">Evolved Stars</A>
+<DD><I>Oral, Wednesday, 1:30-3:00pm, Pacific One</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 98.</FONT></B>&nbsp;<A HREF="S980.htm">Innovations in Teaching Astronomy II</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Special Session Oral, Wednesday, 1:30-3:00pm, Royal Palm 3/4</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 99.</FONT></B>&nbsp;<A HREF="S990.htm">The Expanded VLA</A>
+<DD><I>Special Session Oral, Wednesday, 1:30-3:00pm, Royal Palm 5/6</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 100.</FONT></B>&nbsp;<A HREF="S1000.htm">Unveiling the Dusty Universe at Submillimeter and X-ray Wavelengths</A>
+<DD><I>Invited, Wednesday, 3:15-4:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 101.</FONT></B>&nbsp;<A HREF="S1010.htm">Rossi Prize Lecture</A>
+<DD><I>Invited, Wednesday, 4:00-4:45pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 102.</FONT></B>&nbsp;<A HREF="S1020.htm">The Road from Foolishness to Fraud</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Invited, Wednesday, 5:00-6:00pm, Golden Ballroom</I>
+<P>
+<DT><B><FONT COLOR="#CC0000">Session 103.</FONT></B>&nbsp;<A HREF="S1030.htm">The Great Copernican Clich&eacute;</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Invited, Thursday, 8:30-9:20am, Golden Ballroom</I>
+<P>
+<DT><B>Session 104.</B>&nbsp;<A HREF="S1040.htm">The Cosmic Distance Scale</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 105.</B>&nbsp;<A HREF="S1050.htm">Gravitational Lensing</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 106.</B>&nbsp;<A HREF="S1060.htm">Galaxy Clusters and Large-Scale Structure I</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 107.</B>&nbsp;<A HREF="S1070.htm">Galaxy Clusters and Large Scale Structure II</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 108.</B>&nbsp;<A HREF="S1080.htm">Radio Observations of Active Galaxies</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 109.</B>&nbsp;<A HREF="S1090.htm">AGN Host Galaxies</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 110.</B>&nbsp;<A HREF="S1100.htm">AGN Emission and Absorption Properties</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 111.</B>&nbsp;<A HREF="S1110.htm">Galaxy Morphology and Structure</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 112.</B>&nbsp;<A HREF="S1120.htm">The Magellanic Clouds</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 113.</B>&nbsp;<A HREF="S1130.htm">Stars and Clusters in the Galaxy and Local Group</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 114.</B>&nbsp;<A HREF="S1140.htm">Evolution of Stars</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 115.</B>&nbsp;<A HREF="S1150.htm">At the Observatory: UV and Sky Conditions</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 116.</B>&nbsp;<A HREF="S1160.htm">Virtual Observatory: Data, Services, Tools and Software</A>
+<DD><I>Display, Thursday, 9:30-4:00pm, Exhibit Hall</I>
+<P>
+<DT><B>Session 117.</B>&nbsp;<A HREF="S1170.htm">Galaxy Evolution: The Hubble Deep Fields</A>
+<DD><I>Oral, Thursday, 10:30am-12:00noon, Golden Ballroom</I>
+<P>
+<DT><B>Session 118.</B>&nbsp;<A HREF="S1180.htm">Binary Systems with Black Holes and Neutron Stars</A>
+<DD><I>Oral, Thursday, 10:30am-12:00noon, Town and Country</I>
+<P>
+<DT><B>Session 119.</B>&nbsp;<A HREF="S1190.htm">The Cosmic Distance Scale</A>
+<DD><I>Oral, Thursday, 10:30am-12:00noon, San Diego</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 120.</FONT></B>&nbsp;<A HREF="S1200.htm">Innovations in Teaching Astronomy III</A><BR>
+<img src="http://www.aas.org/images/conjunct.gif">&nbsp;&nbsp;&nbsp;
+<I>Joint Special Session Oral, Thursday, 10:30am-12:00noon, Pacific One</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 121.</FONT></B>&nbsp;<A HREF="S1210.htm">Committee on the Status of Women in Astronomy</A>
+<DD><I>Special Session Oral, Thursday, 10:30am-12:00noon, Royal Palm 3/4</I>
+<P>
+<DT><B><FONT COLOR="#009900">Session 122.</FONT></B>&nbsp;<A HREF="S1220.htm">Towards the National (and Global) Virtual Observatory</A>
+<DD><I>Special Session Oral, Thursday, 10:30am-12:00noon, Royal Palm 5/6</I>
+<P>
+<DT><B>Session 123.</B>&nbsp;<A HREF="S1230.htm">Early Universe, Cosmic Evolution and the Alternative</A>
+<DD><I>Oral, Thursday, 1:30-3:00pm, Golden Ballroom</I>
+<P>
+<DT><B>Session 124.</B>&nbsp;<A HREF="S1240.htm">Galaxy Clusters: Masses and X-ray Properties</A>
+<DD><I>Oral, Thursday, 1:30-3:00pm, Town and Country</I>
+<P>
+<DT><B>Session 125.</B>&nbsp;<A HREF="S1250.htm">Jets and Variability in AGN and Radio Galaxies</A>
+<DD><I>Oral, Thursday, 1:30-3:00pm, San Diego</I>
+<P>
+<DT><B>Session 126.</B>&nbsp;<A HREF="S1260.htm">Compact Objects and Accretion Systems</A>
+<DD><I>Oral, Thursday, 1:30-3:00pm, Pacific One</I>
+<P>
+<DT><B>Session 127.</B>&nbsp;<A HREF="S1270.htm">Low Mass Stars, Planetary Formation</A>
+<DD><I>Oral, Thursday, 1:30-3:00pm, Royal Palm 3/4</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author index]</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+

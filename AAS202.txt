@@ -1,0 +1,212 @@
+<!-- TDB section list -->
+<link rel="stylesheet" href="http://www.aas.org/styles/baassl.css" type="text/css">
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session List</TITLE></HEAD>
+<BODY>
+<H1>Session List</H1>
+
+<B>AAS 202nd Meeting, May 2003</B><BR>
+<A HREF="AuthorIndex.htm">[Author Index]</A> 
+<a href="nashblock.pdf">[PDF Block Schedule]</A><br>
+All findings are <b>embargoed</b> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red</FONT>
+<td><FONT COLOR="#CC0000">=</FONT> 
+<td><FONT COLOR="#CC0000"></FONT>Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green</FONT>
+<td><FONT COLOR="#009900">=</FONT> 
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange</FONT>
+<td><FONT COLOR="#FF6600">=</FONT>
+<td><FONT COLOR="#FF6600">Topical Sessions</FONT>
+</table>
+
+<P><HR>
+<DL>
+<P>
+<DT><B>Welcoming Address</B>, Tennessee Governor Phil Bredesen 
+<dd><I>Monday, 8:15-8:30am, 205/206</I> 
+<DT><FONT COLOR="#CC0000"><B>Session 1.</B></FONT>&nbsp;<A HREF="S10.htm">The Orion Nebula: Structure and Population</A>
+<DD><I>Invited, Monday, 8:30am-9:20am, 205/206</I>
+<P>
+<DT><B>Session 2.</B>&nbsp;<A HREF="S20.htm">Computation, Data Handling, Image Analysis</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 3.</B>&nbsp;<A HREF="S30.htm">Instrumentation: Ground-based</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 4.</B>&nbsp;<A HREF="S40.htm">Instrumentation: Space Missions</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 5.</B>&nbsp;<A HREF="S50.htm">The Sun and The Shapley Program</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 6.</B>&nbsp;<A HREF="S60.htm">Black Holes and Pulsars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 7.</B>&nbsp;<A HREF="S70.htm">Cataclysmic Variables</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 8.</B>&nbsp;<A HREF="S80.htm">Binary Stars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 9.</B>&nbsp;<A HREF="S90.htm">Communication Science to the Public</A>
+<DD><I>Special Associated Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 10.</B>&nbsp;<A HREF="S100.htm">Astronomy Education: Middle School to College</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 11.</B>&nbsp;<A HREF="S110.htm">Galaxies, Cosmology and Higher Redshift Objects</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 12.</B>&nbsp;<A HREF="S120.htm">Engaging the Public: from Museums to the Classroom</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 205/206</I>
+<P>
+<DT><B>Session 13.</B>&nbsp;<A HREF="S130.htm">Stars and Supernovae</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 204</I>
+<P>
+<DT><B>Session 14.</B>&nbsp;<A HREF="S140.htm">Starbursts and AGN</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 209/210</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 15.</B></FONT>&nbsp;<A HREF="S150.htm">Follow-up to the Workshop for New Faculty</A>
+<DD><I>Special Oral, Monday, 10:00-11:30am, 103/104</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 16.</B></FONT>&nbsp;<A HREF="S160.htm">Hale Prize: The Dynamic Sun</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, 205/206</I>
+<P>
+<DT><B>Session 17.</B>&nbsp;<A HREF="S170.htm">Deep Imaging Surveys</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 205/206</I>
+<P>
+<DT><B>Session 18.</B>&nbsp;<A HREF="S180.htm">Blazars and Radio Sources</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 204</I>
+<P>
+<DT><B>Session 19.</B>&nbsp;<A HREF="S190.htm">Galaxy Clusters and Intergalactic Medium</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 209/210</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 20.</B></FONT>&nbsp;<A HREF="S200.htm">Cool Astronomy for Everyone</A>
+<DD><I>Special Oral, Monday, 2:00-3:30pm, 103/104</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 21.</B></FONT>&nbsp;<A HREF="S210.htm">The Training and Work of Ph.D. Physical Scientists</A>
+<DD><I>Special Oral, Monday, 2:00-3:30pm, 108/109</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 22.</B></FONT>&nbsp;<A HREF="S220.htm">Grand Unification of Active Galaxies</A>
+<DD><I>Invited, Monday, 3:40-4:30pm, 205/206</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 23.</B></FONT>&nbsp;<A HREF="S230.htm">Observational Probes of Dark Energy</A>
+<DD><I>Topical Oral, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:00-3:30pm and 3:45-5:30pm, 205/206</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 24.</B></FONT>&nbsp;<A HREF="S240.htm">When Do Planets Form?</A>
+<DD><I>Topical Oral, Tuesday, 8:30-10:00am and 10:45am-12:30pm, 204</I>
+<P>
+<DT><B>Session 25.</B>&nbsp;<A HREF="S250.htm">Surveys and Catalogs</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 26.</B>&nbsp;<A HREF="S260.htm">Galactic Center, Galactic Halo</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 27.</B>&nbsp;<A HREF="S270.htm">Open and Globular Clusters</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 28.</B>&nbsp;<A HREF="S280.htm">Young Stars and Star Formation</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 29.</B>&nbsp;<A HREF="S290.htm">Molecular Clouds and the ISM</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 30.</B>&nbsp;<A HREF="S300.htm">Novae, Supernovae and Remnants</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 31.</B></FONT>&nbsp;<A HREF="S310.htm">Observational Probes of Dark Energy</A>
+<DD><I>Topical Associated Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 32.</B>&nbsp;<A HREF="S320.htm">Stellar Atmospheres and Circumstellar Material</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 33.</B>&nbsp;<A HREF="S330.htm">Jupiter and Extrasolar Planets</A>
+<DD><I>Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><B>Session 34.</B>&nbsp;<A HREF="S340.htm">When Do Planets Form?</A>
+<DD><I>Topical Associated Poster, Tuesday, 10:00am-6:30pm, West Exhbit Hall</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 35.</B></FONT>&nbsp;<A HREF="S350.htm">Blazar Continuum Variability Across the Electromagnetic Spectrum</A>
+<DD><I>Topical Oral, Tuesday, 2:00-3:30 and 3:45-6:30pm, 204</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 36.</B></FONT>&nbsp;<A HREF="S360.htm">The Dynamic Radio Sky</A>
+<DD><I>Topical Oral, Wednesday, 8:30-10:00am and 10:45am-12:30pm, 205/206</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 37.</B></FONT>&nbsp;<A HREF="S370.htm">Laser Interferometer Space Antenna</A>
+<DD><I>Topical Oral, Wednesday, 8:30-10:00am and 10:45am-12:30pm, 204</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 38.</B></FONT>&nbsp;<A HREF="S380.htm">Robotic Astronomical Observatories</A>
+<DD><I>Topical Oral, Wednesday, 8:30-10:00am and 10:45am-12:30pm, 209/210</I>
+<P>
+<DT><B>Session 39.</B>&nbsp;<A HREF="S390.htm">Variable Stars</A>
+<DD><I>Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 40.</B>&nbsp;<A HREF="S400.htm">Galaxies</A>
+<DD><I>Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 41.</B>&nbsp;<A HREF="S410.htm">Galaxy Clusters in the Sloan Digital Sky Survey</A>
+<DD><I>Special Associated Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 42.</B>&nbsp;<A HREF="S420.htm">Quasars and Active Galaxies</A>
+<DD><I>Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 43.</B>&nbsp;<A HREF="S430.htm">Blazar Continuum Variability Across the Electromagnetic Spectrum</A>
+<DD><I>Topical Associated Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 44.</B>&nbsp;<A HREF="S440.htm">Future Optical/UV Astronomy from Space: Science and Mission Concepts</A>
+<DD><I>Topical Associated Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 45.</B>&nbsp;<A HREF="S450.htm">Gamma-Ray Bursts</A>
+<DD><I>Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 46.</B>&nbsp;<A HREF="S460.htm">Gamma-Ray Bursts in the Swift Era</A>
+<DD><I>Topical Associated Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><B>Session 47.</B>&nbsp;<A HREF="S470.htm">Robotic Astronomical Observatories</A>
+<DD><I>Topical Associated Poster, Wednesday, 10:00am-6:45pm, West Exhibit Hall</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 48.</B></FONT>&nbsp;<A HREF="S480.htm">Gamma-Ray Bursts in the Swift Era</A>
+<DD><I>Topical Oral, Wednesday, 2:30-4:00 and 4:15-6:00pm, 205/206</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 49.</B></FONT>&nbsp;<A HREF="S490.htm">Future Optical/UV Astronomy from Space: Science and Mission Concepts</A>
+<DD><I>Topical Oral, Wednesday, 2:30-4:00 and 4:15-6:00pm, 204</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 50.</B></FONT>&nbsp;<A HREF="S500.htm">Exploring Disks at Planet Formation Distances</A>
+<DD><I>Invited, Thursday, 8:30-9:20am, 205/206</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 51.</B></FONT>&nbsp;<A HREF="S510.htm">Galaxy Clusters in the Sloan Digital Sky Survey</A>
+<DD><I>Special Oral, Thursday, 10:00-11:30am, 205/206</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 52.</B></FONT>&nbsp;<A HREF="S520.htm">Communicating Science to the Public</A>
+<DD><I>Special Oral, Thursday, 10:00-11:30am, 204</I>
+<P>
+<DT><B>Session 53.</B>&nbsp;<A HREF="S530.htm">Star Formation, Interstellar Medium</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 209/210</I>
+<P>
+<DT><B>Session 54.</B>&nbsp;<A HREF="S540.htm">Cosmology Runs Through It</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 103/104</I>
+<P>
+<DT><B>Session 55.</B>&nbsp;<A HREF="S550.htm">Solar Systems to Galaxies</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 108/109</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 56.</B></FONT>&nbsp;<A HREF="S560.htm">Warner Prize: Polarization in the CMB</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, 205/206</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author Index]</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+

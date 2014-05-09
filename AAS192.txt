@@ -1,0 +1,433 @@
+<HEAD><TITLE>BAAS 30 #2, AAS 192 Session List</TITLE>
+</HEAD>
+<P><b>Bulletin of the American Astronomical Society, 1998, Volume 30
+# 2<br>
+AAS 192nd Meeting, San Diego, CA, June 1998</B>  <br>
+<A HREF="AuthorList.html">[Author List]</A>  
+<hr>
+<table align=right>
+<tr>
+<td><FONT COLOR="#CC0000">red = </FONT>
+<td><FONT COLOR="#CC0000">Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green = </FONT>
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange = </FONT>
+<td><FONT COLOR="#FF6600">Topical Sessions</FONT>
+</table>
+<p>
+<H1>Sunday, June 7, 1998</H1>
+<DL>
+<P><DT><B><FONT COLOR="#009900">Session 1.</FONT></B>
+<A HREF=tocSunday.html#Sess001>HAD I - Special Palomar Session</A><DD>
+
+<I>Division, Oral presentation, Sunday, Bus Departs from Hotel
+9:00am, Palomar</I>
+
+<P><DT><B>Session 2.</B>
+<A HREF=tocSunday.html#Sess002>Job Hunting Skills & Career Resources</A><DD>
+
+<I>Employment, Oral presentation, Sunday, 1:00-4:00, 6:00-9:00pm, Committee</I>
+
+<P><DT><B>Session 3.</B>
+<A HREF=tocSunday.html#Sess003>Astronomy Teachers' Workshop I</A><DD>
+
+<I>Education, Oral presentation, Sunday, 1:00-4:30pm, Sunrise</I>
+
+<P><DT><B>Session 4.</B>
+<A HREF=tocSunday.html#Sess004>Observing Optical Transients - Sharing Data and Techniques</A><DD>
+
+<I>Extra, Oral presentation, Sunday, 3:00-5:00pm, Adobe/El Camino</I>
+</DL>
+
+<H1>Monday, June 8, 1998</H1>
+<DL>
+<P><DT><B><FONT COLOR="#CC0000">Session 5.</FONT></B>
+<A HREF=tocMonday.html#Sess005>Public Policy Session</A><DD>
+
+<I>Invited, Oral presentation, Monday, 8:30-9:20am, Presidio</I>
+
+<P><DT><B>Session 6.</B>
+<A HREF=tocMonday.html#Sess006>Novae and Supernovae</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 7.</B>
+<A HREF=tocMonday.html#Sess007>Microlensing</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 8.</B>
+<A HREF=tocMonday.html#Sess008>Planets and Comets</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 9.</B>
+<A HREF=tocMonday.html#Sess009>High-Energy Phenomena</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 10.</B>
+<A HREF=tocMonday.html#Sess010>Interstellar Medium and Star Formation</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 11.</B>
+<A HREF=tocMonday.html#Sess011>QSOs and Radio Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 12.</B>
+<A HREF=tocMonday.html#Sess012>Binary Stars</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 13.</B>
+<A HREF=tocMonday.html#Sess013>Surveys, SETI and Pollution</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 14.</B>
+<A HREF=tocMonday.html#Sess014>Real Calibrations</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 15.</B>
+<A HREF=tocMonday.html#Sess015>The Sun and Solar Wind</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 16.</B>
+<A HREF=tocMonday.html#Sess016>QSOs and Active Galaxies</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, Presidio</I>
+
+<P><DT><B>Session 17.</B>
+<A HREF=tocMonday.html#Sess017>CMB Radiation, Cosmology and Gravity</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, Sierra</I>
+
+<P><DT><B>Session 18.</B>
+<A HREF=tocMonday.html#Sess018>The Interstellar Medium</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, Padre</I>
+
+<P><DT><B>Session 19.</B>
+<A HREF=tocMonday.html#Sess019>The Sun</A><DD>
+
+<I>Oral presentation, Monday, 10:00-11:30am, Friars</I>
+
+<P><DT><B><FONT COLOR="#009900">Session 20.</FONT></B>
+<A HREF=tocMonday.html#Sess020>HAD II - New Telescopes and New Tools</A><DD>
+
+<I>Division, Oral presentation, Monday, 10:00-11:30am, DeAnza/Mesa</I>
+
+<P><DT><B>Session 21.</B>
+<A HREF=tocMonday.html#Sess021>Astronomy Teachers' Workshop - II</A><DD>
+
+<I>Education, Oral presentation, Monday, 10:00am-12:30pm, Sunrise</I>
+
+<P><DT><B><FONT COLOR="#CC0000">Session 22.</FONT></B>
+<A HREF=tocMonday.html#Sess022>Pierce Prize Lecture:  Ghez</A><DD>
+
+<I>Invited presentation, Monday, 11:40am-12:30pm, Presidio</I>
+
+<P><DT><B>Session 23.</B>
+<A HREF=tocMonday.html#Sess023>Classroom Demos</A><DD>
+
+<I>Education, Oral presentation, Note: Session rescheduled for <b>Tuesday</b>, 12:00-12:30pm, Adobe</I>
+
+<P><DT><B><FONT COLOR="#CC0000">Session 24.</FONT></B>
+<A HREF=tocMonday.html#Sess024>Invited Talk:  Swank</A><DD>
+
+<I>Oral presentation, Monday, 1:30-2:20pm, Presidio</I>
+
+<P><DT><B>Session 25.</B>
+<A HREF=tocMonday.html#Sess025>Galaxies, Clusters of Galaxies and their Evolution</A><DD>
+
+<I>Oral presentation, Monday, 2:30-4:00pm, Presidio</I>
+
+<P><DT><B>Session 26.</B>
+<A HREF=tocMonday.html#Sess026>Proto Stars to Supernovae</A><DD>
+
+<I>Oral presentation, Monday, 2:30-4:00pm, Sierra</I>
+
+<P><DT><B><FONT COLOR="#009900">Session 27.</FONT></B>
+<A HREF=tocMonday.html#Sess027>IDEA Grants</A><DD>
+
+<I>Special, Oral presentation, Monday, 2:30-4:00pm, Padre</I>
+
+<P><DT><B><FONT COLOR="#009900">Session 28.</FONT></B>
+<A HREF=tocMonday.html#Sess028>HAD III - Astronomical Journal Sesquicentennial</A><DD>
+
+<I>Division, Oral presentation, Monday, 2:30-4:00pm, Friars</I>
+
+<P><DT><B>Session 29.</B>
+<A HREF=tocMonday.html#Sess029>Planets, Asteroids and Comets</A><DD>
+
+<I>Oral presentation, Monday, 2:30-4:00pm, De Anza/Mesa</I>
+
+<P><DT><B><FONT COLOR="#CC0000">Session 30.</FONT></B>
+<A HREF=tocMonday.html#Sess030>Observational Cosmology - Baryons, Mass and Age of The Universe:  Tytler/Carlstrom</A><DD>
+
+<I>Invited presentation, Monday, 4:10-5:40pm, Presidio</I>
+</DL>
+
+<H1>Tuesday, June 9, 1998</H1>
+<DL>
+<P><DT><B><FONT COLOR="#FF6600">Session 31.</FONT></B>
+<A HREF=tocTuesday.html#Sess031>The Structure and Evolution of The Universe - I</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 8:30-10:00am, 10:45am-12:30pm, Presidio</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 32.</FONT></B>
+<A HREF=tocTuesday.html#Sess032>RXTE Diagnostics of Active Galactic Nuclei</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 8:30-10:00am, 10:45am-12:30pm, Sierra/Padre</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 33.</FONT></B>
+<A HREF=tocTuesday.html#Sess033>Gamma-ray Burst Counterparts and Afterglows</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 8:30-10:00am, 10:45am-12:30pm, Friars</I>
+
+<P><DT><B>Session 34.</B>
+<A HREF=tocTuesday.html#Sess034>Real Instruments</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 35.</B>
+<A HREF=tocTuesday.html#Sess035>Proposed Instruments and Programs</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 36.</B>
+<A HREF=tocTuesday.html#Sess036>Active Galactic Nuclei</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 37.</B>
+<A HREF=tocTuesday.html#Sess037>X-ray Clusters:  Implications for Cosmology</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 38.</B>
+<A HREF=tocTuesday.html#Sess038>ADS and Expert Assistants</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 39.</B>
+<A HREF=tocTuesday.html#Sess039>Astronomy Education</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 40.</B>
+<A HREF=tocTuesday.html#Sess040>The Interstellar Medium</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 41.</B>
+<A HREF=tocTuesday.html#Sess041>RXTE Diagnostics of Active Galactic Nuclei</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 42.</B>
+<A HREF=tocTuesday.html#Sess042>Structure and Evolution of The Universe</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 43.</B>
+<A HREF=tocTuesday.html#Sess043>Gamma-ray Burst Counterparts and Afterglows</A><DD>
+
+<I>Display presentation, Tuesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 44.</B>
+<A HREF=tocTuesday.html#Sess044>Business Meeting</A><DD>
+
+<I>Panel, Oral presentation, Tuesday, 1:00-2:30pm, Friars</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 45.</FONT></B>
+<A HREF=tocTuesday.html#Sess045>The Structure and Evolution of The Universe - II</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 2:30-6:00pm, Presidio</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 46.</FONT></B>
+<A HREF=tocTuesday.html#Sess046>Interstellar Scattering and Scintillation as Tools in Radio Astronomy</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 2:30-6:00pm, Sierra/Padre</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 47.</FONT></B>
+<A HREF=tocTuesday.html#Sess047>The Shapley Visiting Lectureship Program</A><DD>
+
+<I>Topical, Oral presentation, Tuesday, 2:30-6:00pm, Friars</I>
+</DL>
+
+<H1>Wednesday, June 10, 1998</H1>
+<DL>
+<P><DT><B><FONT COLOR="#FF6600">Session 48.</FONT></B>
+<A HREF=tocWednesday.html#Sess048>Workshop on the Future of Antarctic Astrophysics - I</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 8:30-10:00am, 10:45am-12:30pm, Presidio</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 49.</FONT></B>
+<A HREF=tocWednesday.html#Sess049>The Frontiers of Far Ultraviolet Astrophysics - I</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 8:30-10:00am, 10:45am-12:30pm, Sierra/Padre</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 50.</FONT></B>
+<A HREF=tocWednesday.html#Sess050>Pulsars in the UV and Visible</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 8:30-10:00am, 10:45am-12:30pm, Friars</I>
+
+<P><DT><B>Session 51.</B>
+<A HREF=tocWednesday.html#Sess051>Galaxy Evolution and the Intergalactic Medium</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 52.</B>
+<A HREF=tocWednesday.html#Sess052>Source Surveys and CMB Radiation</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 53.</B>
+<A HREF=tocWednesday.html#Sess053>SNs, Planetaries and Circumstellar Disks</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 54.</B>
+<A HREF=tocWednesday.html#Sess054>Star Clusters, Kinematics and the Galactic Center</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 55.</B>
+<A HREF=tocWednesday.html#Sess055>New Digital Sky Surveys</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 56.</B>
+<A HREF=tocWednesday.html#Sess056>Frontiers of Ultraviolet Astrophysics</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 57.</B>
+<A HREF=tocWednesday.html#Sess057>Interstellar Scattering and Scintillation as Tools in Radio Astronomy</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 58.</B>
+<A HREF=tocWednesday.html#Sess058>Future of Antarctic Astrophysics</A><DD>
+
+<I>Display presentation, Wednesday, 10:00am-6:30pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 59.</B>
+<A HREF=tocWednesday.html#Sess059>NSF Town Meeting</A><DD>
+
+<I>Extra, Oral presentation, Wednesday, 1:00-2:00pm, Friars</I>
+
+<P><DT><B>Session 60.</B>
+<A HREF=tocWednesday.html#Sess060>Committee on the Status of Women in Astronomy</A><DD>
+
+<I>Committee, Oral presentation, Wednesday, 1:00-2:00pm, DeAnza/Mesa</I>
+
+<P><DT><B>Session 61.</B>
+<A HREF=tocWednesday.html#Sess061>IRAF Users' Group Meeting</A><DD>
+
+<I>Extra, Oral presentation, Wednesday, 1:00-2:00pm, Forum</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 62.</FONT></B>
+<A HREF=tocWednesday.html#Sess062>Workshop on the Future of Antarctic Astrophysics - II</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 2:00-5:30pm, Presidio</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 63.</FONT></B>
+<A HREF=tocWednesday.html#Sess063>The Frontiers of Far Ultraviolet Astrophysics - II</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 2:00-5:30pm, Sierra/Padre</I>
+
+<P><DT><B><FONT COLOR="#FF6600">Session 64.</FONT></B>
+<A HREF=tocWednesday.html#Sess064>New Digital Surveys in the Optical and Near IR:  Technical Challenges and Scientific Opportunities - II</A><DD>
+
+<I>Topical, Oral presentation, Wednesday, 2:00-5:30pm, Friars</I>
+</DL>
+
+<H1>Thursday, June 11, 1998</H1>
+<DL>
+<P><DT><B><FONT COLOR="#CC0000">Session 65.</FONT></B>
+<A HREF=tocThursday.html#Sess065>Invited Talk:  Shafter</A><DD>
+
+<I>Oral presentation, Thursday, 8:30-9:20am, Presidio</I>
+
+<P><DT><B>Session 66.</B>
+<A HREF=tocThursday.html#Sess066>Galaxies</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 67.</B>
+<A HREF=tocThursday.html#Sess067>Stars: Evolution, Atmospheres, Intrinsic</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 68.</B>
+<A HREF=tocThursday.html#Sess068>Degenerate Stars, Pulsars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 69.</B>
+<A HREF=tocThursday.html#Sess069>Starburst Galaxies</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Atlas Ballroom</I>
+
+<P><DT><B>Session 70.</B>
+<A HREF=tocThursday.html#Sess070>Cosmic Backgrounds and the Distant Universe</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Presidio</I>
+
+<P><DT><B><FONT COLOR="#009900">Session 71.</FONT></B>
+<A HREF=tocThursday.html#Sess071>Survival Guide for Young Astronomers</A><DD>
+
+<I>Special, Oral presentation, Thursday, 10:00-11:30am, Sierra</I>
+
+<P><DT><B>Session 72.</B>
+<A HREF=tocThursday.html#Sess072>Cosmic Rays and Abundances</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Padre</I>
+
+<P><DT><B>Session 73.</B>
+<A HREF=tocThursday.html#Sess073>Spiral Galaxies</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Friars</I>
+
+<P><DT><B>Session 74.</B>
+<A HREF=tocThursday.html#Sess074>Pulsars</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, DeAnza/Mesa</I>
+
+<P><DT><B><FONT COLOR="#CC0000">Session 75.</FONT></B>
+<A HREF=tocThursday.html#Sess075>Invited Talk:  Goldreich</A><DD>
+
+<I>Oral presentation, Thursday, 11:40am-12:30pm, Presidio</I>
+
+<P><DT><B>Session 76.</B>
+<A HREF=tocThursday.html#Sess076>NASA Town Meeting</A><DD>
+
+<I>Extra, Oral presentation, Thursday, 1:00-2:00pm, Sierra</I>
+
+<P><DT><B>Session 77.</B>
+<A HREF=tocThursday.html#Sess077>Irregular and Star Burst Galaxies</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Presidio</I>
+
+<P><DT><B>Session 78.</B>
+<A HREF=tocThursday.html#Sess078>X-ray Binaries</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Sierra</I>
+
+<P><DT><B>Session 79.</B>
+<A HREF=tocThursday.html#Sess079>Special Objects in the Galaxy</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Padre</I>
+
+<P><DT><B>Session 80.</B>
+<A HREF=tocThursday.html#Sess080>Education, Green Flashes and Future Missions</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Friars</I>

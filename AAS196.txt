@@ -1,0 +1,222 @@
+<!-- TDB section list -->
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session list</TITLE></HEAD>
+<BODY BGCOLOR="#ffffff">
+<H1>Session list</H1>
+
+<B>AAS 196th Meeting, June 2000</B><BR>
+<A HREF="AuthorIndex.htm">[Author index]</A> 
+<a href="ftp://www.aas.org/meetings/aas196">[Printable Program Materials]</a><br>
+All findings are <a href="/meetings/aas196/program/press.html"><b>embargoed</b></a> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red = </FONT>
+<td><FONT COLOR="#CC0000">Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green = </FONT>
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange = </FONT>
+<td><FONT COLOR="#FF6600">Topical Sessions</FONT>
+</table>
+
+<HR>
+<DT><B>Welcoming Address.</B>&nbsp;Charles E. Phelps, Provost, U.
+Rochester
+<DD><I>Monday, 8:15-8:30am, Lilac Ballroom</I>
+<P>
+<DL>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 1.</B></FONT>&nbsp;<A HREF="S10.htm">Planetary Rings: a Brief History of Observation and Theory</A>
+<DD><I>Invited, Monday, 8:30-9:20am, Lilac Ballroom</I>
+<P>
+<DT><B>Session 2.</B>&nbsp;<A HREF="S20.htm">Searching for and Characterizing Extra Solar Planets</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 3.</B>&nbsp;<A HREF="S30.htm">Dwarf Stars</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 4.</B>&nbsp;<A HREF="S40.htm">Young Stars and Their Environments</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 5.</B>&nbsp;<A HREF="S50.htm">Be Star and Other Atmosphere Studies</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 6.</B>&nbsp;<A HREF="S60.htm">Cosmology and Large Scale Structure</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 7.</B>&nbsp;<A HREF="S70.htm">Gravitational Lensing and Dark Matter</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 8.</B>&nbsp;<A HREF="S80.htm">Light Pollution, Observing Conditions</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 9.</B>&nbsp;<A HREF="S90.htm">Automated Telescopes</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 10.</B>&nbsp;<A HREF="S100.htm">Professional-Amateur Observational Programs</A>
+<DD><I>Display, Monday, 9:20am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 11.</B>&nbsp;<A HREF="S110.htm">Small Bodies in the Solar System and Beyond</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 12.</B></FONT>&nbsp;<A HREF="S120.htm">Amateur-Professional Collaboration in Astronomy</A>
+<DD><I>Special Session Oral, Monday, 10:00-11:30am, Highland A/K</I>
+<P>
+<DT><B>Session 13.</B>&nbsp;<A HREF="S130.htm">EUVE</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Highland B/J</I>
+<P>
+<DT><B>Session 14.</B>&nbsp;<A HREF="S140.htm">SOFIA, Clusters, Education and History</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Highland C/H</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 15.</B></FONT>&nbsp;<A HREF="S150.htm">Report of the Astronomy and Astrophysics Survey Committee</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, Lilac Ballroom</I>
+<P>
+<DT><B>Session 16.</B>&nbsp;<A HREF="S160.htm">Galaxies and Quasars</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Lilac Ballroom</I>
+<P>
+<DT><B>Session 17.</B>&nbsp;<A HREF="S170.htm">Stellar Remnants</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Highland A/K</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 18.</B></FONT>&nbsp;<A HREF="S180.htm">Astronomy Education Research</A>
+<DD><I>Special Session Oral, Monday, 2:00-3:30pm, Highland B/J</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 19.</B></FONT>&nbsp;<A HREF="S190.htm">Scientific Results from Automated Telescopes</A>
+<DD><I>Special Session Oral, Monday, 2:00-3:30pm, Highland C/H</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 20.</B></FONT>&nbsp;<A HREF="S200.htm">Stellar Populations</A>
+<DD><I>Invited, Monday, 3:40-5:10pm, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 21.</B></FONT>&nbsp;<A HREF="S210.htm">Supermassive Blackhole Research and Advances with STIS</A>
+<DD><I>Topical Session Oral, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:00-3:30pm, 3:45-5:30pm, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 22.</B></FONT>&nbsp;<A HREF="S220.htm">Ushering in a New Era:  Laboratory Astrophysics with Intense Lasers</A>
+<DD><I>Topical Session Oral, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:00-3:30pm, 3:45-5:30pm, Highland A/K</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 23.</B></FONT>&nbsp;<A HREF="S230.htm">Next Generation Space Telescope</A>
+<DD><I>Topical Session Oral, Tuesday, 8:30-10:00am, 10:45am-12:30pm, Highland B/J</I>
+<P>
+<DT><B>Session 24.</B>&nbsp;<A HREF="S240.htm">Education, History</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 25.</B>&nbsp;<A HREF="S250.htm">The Milky Way Galaxy</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 26.</B>&nbsp;<A HREF="S260.htm">The Galactic ISM: Observations and Modelling</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 27.</B>&nbsp;<A HREF="S270.htm">The ISM of Extragalactic Sources and The Outer Galaxy</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 28.</B>&nbsp;<A HREF="S280.htm">Nearby Galaxies</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 29.</B>&nbsp;<A HREF="S290.htm">Dwarf Galaxies, Galaxy Structure and Kinematics</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 30.</B>&nbsp;<A HREF="S300.htm">Expanded Very Large Array (EVLA)</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 31.</B>&nbsp;<A HREF="S310.htm">NGST</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><B>Session 32.</B>&nbsp;<A HREF="S320.htm">Space Instrumentation</A>
+<DD><I>Display, Tuesday, 10:00am-6:30pm, Empire Hall South</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 33.</B></FONT>&nbsp;<A HREF="S330.htm">General Investigator Science Program with SOFIA</A>
+<DD><I>Topical Session Oral, Tuesday, 2:00-3:30pm, 3:45-5:30pm, Highland B/J</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 34.</B></FONT>&nbsp;<A HREF="S340.htm">A New Era in X-ray Astronomy</A>
+<DD><I>Topical Session Oral, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 35.</B></FONT>&nbsp;<A HREF="S350.htm">High Resolution Spectroscopy at Visible and Ultraviolet Wavelengths</A>
+<DD><I>Topical Session Oral, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, Highland A/K</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 36.</B></FONT>&nbsp;<A HREF="S360.htm">Exploring Dust and the ISM with SIRTF</A>
+<DD><I>Topical Session Oral, Wednesday, 8:30-10:00am, 10:45am-12:30pm, Highland B/J</I>
+<P>
+<DT><B>Session 37.</B>&nbsp;<A HREF="S370.htm">X-Ray Results from Chandra and XMM</A>
+<DD><I>Topical Contributed Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 38.</B>&nbsp;<A HREF="S380.htm">Neutron Stars and Black Holes</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 39.</B>&nbsp;<A HREF="S390.htm">Gamma Ray Bursters: Supernovae and Their Remnants</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 40.</B>&nbsp;<A HREF="S400.htm">High Resolution Spectroscopy at Visible and Ultraviolet Wavelengths</A>
+<DD><I>Topical Contributed Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 41.</B>&nbsp;<A HREF="S410.htm">Globular Clusters</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 42.</B>&nbsp;<A HREF="S420.htm">Open Clusters</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 43.</B>&nbsp;<A HREF="S430.htm">Planetary Nebulae and Their Progenitors</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 44.</B>&nbsp;<A HREF="S440.htm">Bipolar Outflows: Imaging and Theory</A>
+<DD><I>Topical Contributed Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 45.</B>&nbsp;<A HREF="S450.htm">Cataclysmic Variable Stars, Old and Young</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 46.</B>&nbsp;<A HREF="S460.htm">Binary and Variable Stars</A>
+<DD><I>Display, Wednesday, 10:00am-7:00pm, Empire Hall South</I>
+<P>
+<DT><FONT COLOR="#FF6600"><B>Session 47.</B></FONT>&nbsp;<A HREF="S470.htm">Bipolar Outflows Across the HR Diagram</A>
+<DD><I>Topical Session Oral, Wednesday, 2:30-4:00pm, 4:15-6:00pm, Highland B/J</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 48.</B></FONT>&nbsp;<A HREF="S480.htm">Adaptive Optics for the Human Eye</A>
+<DD><I>Invited, Thursday, 8:30-9:20am, Lilac Ballroom</I>
+<P>
+<DT><B>Session 49.</B>&nbsp;<A HREF="S490.htm">Solar System Objects and The Sun</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 50.</B>&nbsp;<A HREF="S500.htm">Active Galaxies</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 51.</B>&nbsp;<A HREF="S510.htm">Galaxy Evolution and Populations/Clusters</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 52.</B>&nbsp;<A HREF="S520.htm">Ground Based Instrumentations</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 53.</B>&nbsp;<A HREF="S530.htm">Surveys, Catalogs, Database</A>
+<DD><I>Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 54.</B>&nbsp;<A HREF="S540.htm">Applications of Statistics</A>
+<DD><I>Special Contributed Display, Thursday, 9:20am-4:00pm, Empire Hall South</I>
+<P>
+<DT><B>Session 55.</B>&nbsp;<A HREF="S550.htm">Cosmology and Large-Scale Structure</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 56.</B></FONT>&nbsp;<A HREF="S560.htm">Evolution of Galaxies Using Large Multicolor Samples</A>
+<DD><I>Special Session Oral, Thursday, 10:00-11:30am, Highland A/K</I>
+<P>
+<DT><B>Session 57.</B>&nbsp;<A HREF="S570.htm">Supernovae Here and There, Dust Destruction and Star Formation Topics</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Highland B/J</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 58.</B></FONT>&nbsp;<A HREF="S580.htm">Hale Prize Lecture: Shapes, Colors and Motions on the Sun</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, Lilac Ballroom</I>
+<P>
+<DT><B>Session 59.</B>&nbsp;<A HREF="S590.htm">High-Energy Observations</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Lilac Ballroom</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 60.</B></FONT>&nbsp;<A HREF="S600.htm">New Statistics for New Missions: Problems and Opportunities for Breakthrough Thinking</A>
+<DD><I>Special Session Oral, Thursday, 2:00-3:30pm, Highland A/K</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author index]</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+

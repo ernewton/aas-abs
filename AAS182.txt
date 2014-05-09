@@ -1,0 +1,177 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<b>Bulletin of the American Astronomical Society, 1993, Volume 25
+Number 2<br>
+AAS 182nd Meeting, Berkeley, CA, June 1993</b><br>
+<A HREF="AuthorList.html">[Author List]</a>
+<hr>
+<H1>Monday, June 7, 1993</H1>
+<DL><DT><A HREF=tocMon.html#S1>Session 1</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Monday, 8:30-9:20, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocMon.html#S2>Session 2</A>: <B>Planetary Nebula and Supernova Remnants</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S3>Session 3</A>: <B>Databases and Software</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocMon.html#S4>Session 4</A>: <B>AGNs</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S5>Session 5</A>: <B>Cosmology and Gravitational Lenses</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocMon.html#S6>Session 6</A>: <B>Normal Galaxies: Structure and Dynamics</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S7>Session 7</A>: <B>X-Ray Binaries and Gamma-Ray Binaries</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocMon.html#S8>Session 8</A>: <B>General ISM, Dust</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S9>Session 9</A>: <B>WGAS</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocMon.html#S10>Session 10</A>: <B>Teaching of Astronomy</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S11>Session 11</A>: <B>Education</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocMon.html#S12>Session 12</A>: <B>High Energy Observations of AGNs</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocMon.html#S13>Session 13</A>: <B>Large Scale Structure</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocMon.html#S14>Session 14</A>: <B>Education I</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Dwinelle 155</I>
+<P><DT><A HREF=tocMon.html#S15>Session 15</A>: <B>Solar and Solar-System Physics</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Dwinelle 145</I>
+<P><DT><A HREF=tocMon.html#S16>Session 16</A>: <B>WGAS I</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Durham (Notel Motel)</I>
+<P><DT><A HREF=tocMon.html#S17>Session 17</A>: <B>Normal Galaxies</B>
+<DD><I>Oral presentation, Monday, 10:30-12:00, Wheeler</I>
+<P><DT><A HREF=tocMon.html#S18>Session 18</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Monday, 12:15-1:05, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocMon.html#S19>Session 19</A>: <B>Supernovae and SNRs</B>
+<DD><I>Oral presentation, Monday, 2:30-4:00, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocMon.html#S20>Session 20</A>: <B>General ISM</B>
+<DD><I>Oral presentation, Monday, 2:30-4:00, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocMon.html#S21>Session 21</A>: <B>Education II</B>
+<DD><I>Oral presentation, Monday, 2:30-4:00, Dwinelle 155</I>
+<P><DT><A HREF=tocMon.html#S22>Session 22</A>: <B>Late-Type and Variable Stars</B>
+<DD><I>Oral presentation, Monday, 2:30-4:00, Dwinelle 145</I>
+<P><DT><A HREF=tocMon.html#S23>Session 23</A>: <B>Emission-Line, Starburst and Ultra-Luminous Galaxies</B>
+<DD><I>Oral presentation, Monday, 2:30-4:00, Wheeler</I>
+<P><DT><A HREF=tocMon.html#S24>Session 24</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Monday, 4:15-5:05, Zellerbach Auditorium</I>
+<P></DL>
+<H1>Tuesday, June 8, 1993</H1>
+<DL><DT><A HREF=tocTue.html#S25>Session 25</A>: <B>EUVE -- Astronomy I</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocTue.html#S26>Session 26</A>: <B>Interferometry I</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocTue.html#S27>Session 27</A>: <B>Hat Creek</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Dwinelle 155</I>
+<P><DT><A HREF=tocTue.html#S28>Session 28</A>: <B>HST Instruments and Techniques</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S29>Session 29</A>: <B>Novae and Supernovae</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S30>Session 30</A>: <B>Clusters of Galaxies</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S31>Session 31</A>: <B>Star-Forming Galaxies</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocTue.html#S32>Session 32</A>: <B>Local Group Galaxies</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocTue.html#S33>Session 33</A>: <B>Gamma-Rays and Cosmic Rays</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocTue.html#S34>Session 34</A>: <B>Airbourne Astronomy</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S35>Session 35</A>: <B>Hat Creek</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S36>Session 36</A>: <B>Particle Astrophysics</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S37>Session 37</A>: <B>Interferometry</B>
+<DD><I>Display presentation, Tuesday, 9:30-6:30, Pauley</I>
+<P><DT><A HREF=tocTue.html#S38>Session 38</A>: <B>EUVE -- Astronomy II</B>
+<DD><I>Oral presentation, Tuesday, 2:00-6:30, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocTue.html#S39>Session 39</A>: <B>Interferometry II</B>
+<DD><I>Oral presentation, Tuesday, 2:00-6:30, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocTue.html#S40>Session 40</A>: <B>Particle Astrophysics</B>
+<DD><I>Oral presentation, Tuesday, 2:00-6:30, Dwinelle 155</I>
+<P><DT><A HREF=tocTue.html#S41>Session 41</A>: <B>EUVE -- Astronomy</B>
+<DD><I>Display presentation, Tuesday, 6:00-8:00, CEA</I>
+<P></DL>
+<H1>Wednesday, June 9, 1993</H1>
+<DL><DT><A HREF=tocWed.html#S42>Session 42</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Wednesday, 8:30-9:20, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocWed.html#S43>Session 43</A>: <B>Galactic Structure</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S44>Session 44</A>: <B>Radio Galaxies, Jets and Disks</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S45>Session 45</A>: <B>Early Type Stars</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocWed.html#S46>Session 46</A>: <B>Late Type Stars</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Heller Lounge</I>
+<P><DT><A HREF=tocWed.html#S47>Session 47</A>: <B>Degenerates</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S48>Session 48</A>: <B>Solar and Solar-System Physics</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S49>Session 49</A>: <B>Associations and Clusters</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S50>Session 50</A>: <B>Globular Clusters</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=tocWed.html#S51>Session 51</A>: <B>Instrumentation</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Pauley</I>
+<P><DT><A HREF=toc.html#S52>Session 52</A>: <B>NSF Astronomy</B>
+<DD><I> presentation, , , </I>
+<P><DT><A HREF=tocWed.html#S53>Session 53</A>: <B>AGN and Radio Galaxies I</B>
+<DD><I>Oral presentation, Wednesday, 10:30-12:00, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocWed.html#S54>Session 54</A>: <B>MW, Galactic Structure</B>
+<DD><I>Oral presentation, Wednesday, 10:30-12:00, Dwinelle 155</I>
+<P><DT><A HREF=tocWed.html#S55>Session 55</A>: <B>SN 1993J; High Energy Astrophysics</B>
+<DD><I>Oral presentation, Wednesday, 10:30-12:00, Dwinelle 145</I>
+<P><DT><A HREF=tocWed.html#S56>Session 56</A>: <B>Stellar Evolution and Clusters</B>
+<DD><I>Oral presentation, Wednesday, 10:30-12:00, Durham</I>
+<P><DT><A HREF=tocWed.html#S57>Session 57</A>: <B>Russell Lecture</B>
+<DD><I>Oral presentation, Wednesday, 12:15-1:05, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocWed.html#S58>Session 58</A>: <B>Invited Talks</B>
+<DD><I>Oral presentation, Wednesday, 3:15-4:45, Zellerbach Auditorium</I>
+<P></DL>
+<H1>Thursday, June 10, 1993</H1>
+<DL><DT><A HREF=tocThu.html#S59>Session 59</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Thursday, 8:30-9:20, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocThu.html#S60>Session 60</A>: <B>HII Regions</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Pauley</I>
+<P><DT><A HREF=tocThu.html#S61>Session 61</A>: <B>Molecular Clouds, Star Formation</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Pauley</I>
+<P><DT><A HREF=tocThu.html#S62>Session 62</A>: <B>Very Young Stars</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Pauley</I>
+<P><DT><A HREF=tocThu.html#S63>Session 63</A>: <B>Intrinsic and Cataclysmic Variables</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Heller Lounge</I>
+<P><DT><A HREF=tocThu.html#S64>Session 64</A>: <B>Pulsars</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Heller Lounge</I>
+<P><DT><A HREF=tocThu.html#S65>Session 65</A>: <B>Women In Astronomy</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Pauley</I>
+<P><DT><A HREF=tocThu.html#S66>Session 66</A>: <B>HAD</B>
+<DD><I>Display presentation, Thursday, 9:20-4:00, Pauley</I>
+<P><DT><A HREF=tocThu.html#S67>Session 67</A>: <B>Galaxy Clusters and the Extragalactic Distance Scale</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocThu.html#S68>Session 68</A>: <B>Star Formation</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocThu.html#S69>Session 69</A>: <B>Cataclysmic Variables and Pulsars</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Dwinelle 155</I>
+<P><DT><A HREF=tocThu.html#S70>Session 70</A>: <B>AGNs and Radio Galaxies II</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Dwinelle 145</I>
+<P><DT><A HREF=tocThu.html#S71>Session 71</A>: <B>Instruments and Techniques</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Durham</I>
+<P><DT><A HREF=tocThu.html#S72>Session 72</A>: <B>HAD</B>
+<DD><I>Oral presentation, Thursday, 10:30-12:00, Wheeler</I>
+<P><DT><A HREF=tocThu.html#S73>Session 73</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Thursday, 12:15-1:05, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocThu.html#S74>Session 74</A>: <B>Gamma-Ray Bursts</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Zellerbach Auditorium</I>
+<P><DT><A HREF=tocThu.html#S75>Session 75</A>: <B>Star Formation II</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Zellerbach Playhouse</I>
+<P><DT><A HREF=tocThu.html#S76>Session 76</A>: <B>Keck</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Dwinelle 155</I>
+<P><DT><A HREF=tocThu.html#S77>Session 77</A>: <B>Cosmic Background Radiation</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Dwinelle 145</I>
+<P><DT><A HREF=tocThu.html#S78>Session 78</A>: <B>QSOs and Gravitational Lenses</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Durham</I>
+<P><DT><A HREF=tocThu.html#S79>Session 79</A>: <B>HAD/Huntington I</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Huntington Library</I>
+<P><DT><A HREF=tocThu.html#S80>Session 80</A>: <B>HAD/Huntington II</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Huntington Library</I>
+<P><DT><A HREF=tocThu.html#S81>Session 81</A>: <B>HAD/Huntington III</B>
+<DD><I>Oral presentation, Thursday, 2:30-4:00, Huntington Library</I>
+<P></DL>

@@ -1,0 +1,134 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<BODY>
+<b>Bulletin of the American Astronomical Society, 1995, Volume 27,
+Number 2<br>
+AAS 186th Meeting, Pittsburgh, PA, June 1995</b><br>
+<a href="AuthorList.html">[Author List]</a>
+<H1>Monday, June 12,1995</H1>
+<DL><DT><A HREF=tocMon.html#S1>Session 1</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Monday, 8:30am - 9:20am, Allegheny I & II</I>
+<P><DT><A HREF=tocMon.html#S2>Session 2</A>: <B>Software</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S3>Session 3</A>: <B>Instrumentation and Techniques I: Ground Based</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S4>Session 4</A>: <B>Instrumentation and Techniques II: Space Based</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S5>Session 5</A>: <B>Gamma Ray Astronomy</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S6>Session 6</A>: <B>Cepheid Variables and the Distance Scale</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S7>Session 7</A>: <B>Clusters of Galaxies/Binary Galaxies</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S8>Session 8</A>: <B>Surveys and Cosmology</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S9>Session 9</A>: <B>Protostars, Young Stars and Stellar Accretion Disks</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S10>Session 10</A>: <B>Variable Stars</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocMon.html#S11>Session 11</A>: <B>AGNs I: Observations</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Allegheny I & II</I>
+<P><DT><A HREF=tocMon.html#S12>Session 12</A>: <B>Stars and Variable Stars</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Allegheny III</I>
+<P><DT><A HREF=tocMon.html#S13>Session 13</A>: <B>Solar System</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Westmoreland</I>
+<P><DT><A HREF=tocMon.html#S14>Session 14</A>: <B>The ApJ and the Rise of American Astrophysics</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Cambria</I>
+<P><DT><A HREF=tocMon.html#S15>Session 15</A>: <B>AGNs II: Models</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocMon.html#S16>Session 16</A>: <B>Astro 2</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Allegheny III</I>
+<P><DT><A HREF=tocMon.html#S17>Session 17</A>: <B>Instrumentation, Techniques and Surveys</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Westmoreland</I>
+<P><DT><A HREF=tocMon.html#S18>Session 18</A>: <B>Rossi Prize Lecture</B>
+<DD><I>Invited presentation, Monday, 3:40pm - 4:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocMon.html#S19>Session 19</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Monday, 4:40pm - 5:30pm, Allegheny I & II</I>
+<P></DL>
+<H1>Tuesday, June 13, 1995</H1>
+<DL><DT><A HREF=tocTue.html#S20>Session 20</A>: <B>Astro 2</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocTue.html#S21>Session 21</A>: <B>Stellar Spectroscopy, Atmospheres, Models, Intrinsic Variables, Theory, Part I</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocTue.html#S22>Session 22</A>: <B>Stellar Spectroscopy, Atmospheres, Models, Intrinsic Variables, Theory, Part II</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocTue.html#S23>Session 23</A>: <B>Low-Luminosity AGNs</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocTue.html#S24>Session 24</A>: <B>AGNs/QSOs - High Luminosity</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocTue.html#S25>Session 25</A>: <B>QSO Absorption-Line Studies with HST and Keck</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 5:30pm, Allegheny I & II</I>
+<dd><b>Note Session 25 Scheduled for Afternoon</b>
+<P><DT><A HREF=tocTue.html#S26>Session 26</A>: <B>The Dynamics of Large Scale Structure</B>
+<DD><I>Oral presentation, Tuesday, 8:30am - 12:30pm, Allegheny III</I>
+<P><DT><A HREF=tocTue.html#S27>Session 27</A>: <B>The Space VLBI Mission VSOP182</B>
+<DD><I>Oral presentation, Tuesday, 8:30am - 12:30pm, Westmoreland Central/East</I>
+<P><DT><A HREF=tocTue.html#S28>Session 28</A>: <B>QSO Absorption-Line Studies with HST and Keck</B>
+<DD><I>Oral presentation, Tuesday, 8:30am - 12:30pm, Allegheny I & II</I>
+<dd><b>Note Session 28 Scheduled for Morning</b>
+<P><DT><A HREF=tocTue.html#S29>Session 29</A>: <B>The Dynamics of Large Scale Structure</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 5:30pm, Allegheny III</I>
+<P><DT><A HREF=tocTue.html#S30>Session 30</A>: <B>First Results from Astro 2</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 5:30pm, Westmoreland Central/East</I>
+<P></DL>
+<H1>Wednesday, June 14, 1995</H1>
+<DL><DT><A HREF=tocWed.html#S31>Session 31</A>: <B>Astronomical Education</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S32>Session 32</A>: <B>Astrometry</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S33>Session 33</A>: <B>Solar System</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S34>Session 34</A>: <B>Atomic and Nuclear Astrophysics</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S35>Session 35</A>: <B>ISM: Abundances and Dust</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S36>Session 36</A>: <B>ISM: Structure, Molecular Clouds</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S37>Session 37</A>: <B>Supernovae and Their Remnants</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S38>Session 38</A>: <B>Planetary Nebulae and Novae</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S39>Session 39</A>: <B>Spiral, Dwarf and Irregular Galaxies</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocWed.html#S40>Session 40</A>: <B>Starburst Galaxies</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, South Exhibit Hall</I>
+<P></DL>
+<DL><DT><A HREF=tocWed.html#S41>Session 41</A>: <B>The Status of Large Telescope Projects, Instrumentation and Plans for Large Science Programs in the Areas of Wide-Field Surveys</B>
+<DD><I>Oral presentation, 8:30am - 12:30pm, 9:20am - 6:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocWed.html#S42>Session 42</A>: <B>Metallicity in AGN and the Near-AGN Environment</B>
+<DD><I>Oral presentation, 8:30am - 12:30pm, 9:20am - 6:30pm, Allegheny III</I>
+<P><DT><A HREF=tocWed.html#S43>Session 43</A>: <B>Planetariums</B>
+<DD><I>Oral presentation, 8:30am - 12:30pm, 9:20am - 6:30pm, Westmoreland Central/East</I>
+<P></DL>
+<DL><DT><A HREF=tocWed.html#S44>Session 44</A>: <B>The Status of Large Telescope Projects, Instrumentation and Plans for Large Science Projectects in the Areas of Wide-Field Surveys</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 5:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocWed.html#S45>Session 45</A>: <B>Metallicity in AGN and the Near-AGN Environment</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 5:30pm, Allegheny III</I>
+<P></DL>
+<H1>Thursday, June 15, 1995</H1>
+<DL><DT><A HREF=tocThu.html#S46>Session 46</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Thursday, 8:30am - 9:20am, Allegheny I & II</I>
+<P><DT><A HREF=tocThu.html#S47>Session 47</A>: <B>Binary Stars</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocThu.html#S48>Session 48</A>: <B>Degenerate Stars and Pulsars</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocThu.html#S49>Session 49</A>: <B>Star Clusters in the Milky Way and Other Galaxies</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocThu.html#S50>Session 50</A>: <B>The Milky Way</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, South Exhibit Hall</I>
+<P><DT><A HREF=tocThu.html#S51>Session 51</A>: <B>Galaxies</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Allegheny I & II</I>
+<P><DT><A HREF=tocThu.html#S52>Session 52</A>: <B>Gravitational Lenses/QSO Absorption Lines</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Allegheny III</I>
+<P><DT><A HREF=tocThu.html#S53>Session 53</A>: <B>Gamma Ray Bursts</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Westmoreland</I>
+<P><DT><A HREF=tocThu.html#S54>Session 54</A>: <B>Communicating Science to the Public</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Cambria</I>
+<P><DT><A HREF=tocThu.html#S55>Session 55</A>: <B>Heineman Prize Lecture</B>
+<DD><I>Invited presentation, Thursday, 11:40am - 12:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocThu.html#S56>Session 56</A>: <B>Large Scale Structure/Cosmology</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Allegheny I & II</I>
+<P><DT><A HREF=tocThu.html#S57>Session 57</A>: <B>Molecular Astrophysics/ISM</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Allegheny III</I>
+<P></DL>
+</BODY>

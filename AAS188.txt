@@ -1,0 +1,452 @@
+<HEAD><TITLE>Session List</TITLE>
+</HEAD>
+<P>
+<b>Bulletin of the American Astronomical Society, 1996, Volume 28,
+Number 2<br>
+AAS 188th Meeting, Madison, WI, June 1996</b><br>
+<A HREF="AuthorList.html">[Author List]</A>
+<H1>Monday, June 10, 1996</H1>
+<DL>
+<P><DT><B>Session 1.</B>
+<A HREF=tocMonday.html#Sess001>Public Policy Talk</A><DD>
+
+<I>Invited presentation, Monday, 8:30-9:20am, Union Theater</I>
+
+<P><DT><B>Session 2.</B>
+<A HREF=tocMonday.html#Sess002>The Solar Photosphere and Magnetic Field</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 3.</B>
+<A HREF=tocMonday.html#Sess003>Clusters</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 4.</B>
+<A HREF=tocMonday.html#Sess004>Low Luminosity AGN and Starburst Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 5.</B>
+<A HREF=tocMonday.html#Sess005>High Luminosity AGN</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 6.</B>
+<A HREF=tocMonday.html#Sess006>Evolution, Survey and Clusters of Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 7.</B>
+<A HREF=tocMonday.html#Sess007>Gas and Dust in the ISM</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 8.</B>
+<A HREF=tocMonday.html#Sess008>Milky Way Structure</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 9.</B>
+<A HREF=tocMonday.html#Sess009>Dwarf Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 10.</B>
+<A HREF=tocMonday.html#Sess010>Spiral Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 11.</B>
+<A HREF=tocMonday.html#Sess011>Elliptical Galaxies</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 12.</B>
+<A HREF=tocMonday.html#Sess012>Cosmology, Large-Scale Structure and Distance Scales</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 13.</B>
+<A HREF=tocMonday.html#Sess013>Gravitational Effects</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 14.</B>
+<A HREF=tocMonday.html#Sess014>Gamma-Ray Bursts</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 15.</B>
+<A HREF=tocMonday.html#Sess015>Teaching of Astronomy</A><DD>
+
+<I>Display presentation, Monday, 9:20am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 16.</B>
+<A HREF=tocMonday.html#Sess016>Low Luminosity AGN</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Union Theater</I>
+
+<P><DT><B>Session 17.</B>
+<A HREF=tocMonday.html#Sess017>Molecular Clouds and Star Formation</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Humanities 2650</I>
+
+<P><DT><B>Session 18.</B>
+<A HREF=tocMonday.html#Sess018>Stellar Winds and Rotation</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Playcircle</I>
+
+<P><DT><B>Session 19.</B>
+<A HREF=tocMonday.html#Sess019>Solar Flares</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Wisconsin Center</I>
+
+<P><DT><B>Session 20.</B>
+<A HREF=tocMonday.html#Sess020>Research Experiences for Undergraduates</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Old Madison</I>
+
+<P><DT><B>Session 21.</B>
+<A HREF=tocMonday.html#Sess021>Galaxies and Clusters of Galaxies</A><DD>
+
+<I>Oral presentation, Monday, 10:15-11:45am, Humanities 3650</I>
+
+<P><DT><B>Session 22.</B>
+<A HREF=tocMonday.html#Sess022>Hale Prize Lecture</A><DD>
+
+<I>Invited presentation, Monday, 12:00-12:50pm, Union Theater</I>
+
+<P><DT><B>Session 23.</B>
+<A HREF=tocMonday.html#Sess023>High Luminosity AGN and QSOs</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Union Theater</I>
+
+<P><DT><B>Session 24.</B>
+<A HREF=tocMonday.html#Sess024>General Interstellar Medium</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Historical Society</I>
+
+<P><DT><B>Session 25.</B>
+<A HREF=tocMonday.html#Sess025>Stellar Oscillations Project</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Playcircle</I>
+
+<P><DT><B>Session 26.</B>
+<A HREF=tocMonday.html#Sess026>Solar Flares II</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Wisconsin Center</I>
+
+<P><DT><B>Session 27.</B>
+<A HREF=tocMonday.html#Sess027>History and Teaching of Astronomy</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Old Madison</I>
+
+<P><DT><B>Session 28.</B>
+<A HREF=tocMonday.html#Sess028>Stellar Evolution: Beyond the Main Sequence</A><DD>
+
+<I>Oral presentation, Monday, 2:15-3:45pm, Humanities 3650</I>
+
+<P><DT><B>Session 29.</B>
+<A HREF=tocMonday.html#Sess029>Invited Talks</A><DD>
+
+<I>Invited presentation, Monday, 4:00-5:30pm, Union Theater</I>
+</DL>
+
+<H1>Tuesday, June 11, 1996</H1>
+<DL>
+<P><DT><B>Session 30.</B>
+<A HREF=tocTuesday.html#Sess030>Radio Astronomy, Yesterday, Today and Tomorrow - I</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, Union Theater</I>
+
+<P><DT><B>Session 31.</B>
+<A HREF=tocTuesday.html#Sess031>The Diffuse Interstellar Medium, Progress and Puzzles - I</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, Historical Society</I>
+
+<P><DT><B>Session 32.</B>
+<A HREF=tocTuesday.html#Sess032>Curriculum in Crisis: Reinventing Stellar Astrophysics for Today's Graduate Student</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, Playcircle</I>
+
+<P><DT><B>Session 33.</B>
+<A HREF=tocTuesday.html#Sess033>Dynamics of Solar Magnetic Fields</A><DD>
+
+<I>Oral presentation, Tuesday, 8:30am-12:30pm, Wisconsin Center</I>
+
+<P><DT><B>Session 34.</B>
+<A HREF=tocTuesday.html#Sess034>Solar System</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 35.</B>
+<A HREF=tocTuesday.html#Sess035>Solar Magnetic Fields</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 36.</B>
+<A HREF=tocTuesday.html#Sess036>Solar Activity</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 37.</B>
+<A HREF=tocTuesday.html#Sess037>First Results from the Solar and Heliospheric Observatory (SOHO)</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 38.</B>
+<A HREF=tocTuesday.html#Sess038>Disks and Bipolar Outflows from Hot Stars</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 39.</B>
+<A HREF=tocTuesday.html#Sess039>Curriculum in Crisis: Reinventing Stellar Astrophysics for Today's Graduate Student</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 40.</B>
+<A HREF=tocTuesday.html#Sess040>The Environment of Stars: From Protostars to the Main Sequence</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 41.</B>
+<A HREF=tocTuesday.html#Sess041>Jets and Outflows from YSOs</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 42.</B>
+<A HREF=tocTuesday.html#Sess042>Molecular Clouds: Models and Observations</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 43.</B>
+<A HREF=tocTuesday.html#Sess043>The Diffuse ISM: Milky Way and Beyond</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 44.</B>
+<A HREF=tocTuesday.html#Sess044>The Local Diffuse ISM</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 45.</B>
+<A HREF=tocTuesday.html#Sess045>Radio Astronomy, Yesterday, Today and Tomorrow</A><DD>
+
+<I>Display presentation, Tuesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 46.</B>
+<A HREF=tocTuesday.html#Sess046>Radio Astronomy, Yesterday, Today and Tomorrow - II</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, Union Theater</I>
+
+<P><DT><B>Session 47.</B>
+<A HREF=tocTuesday.html#Sess047>The Diffuse Interstellar Medium, Progress and Puzzles - II</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, Historical Society</I>
+
+<P><DT><B>Session 48.</B>
+<A HREF=tocTuesday.html#Sess048>New Instrumentation for the Hubble Space Telescope and Plans for the 1997 Servicing Missions</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, Playcircle</I>
+
+<P><DT><B>Session 49.</B>
+<A HREF=tocTuesday.html#Sess049>First Results from the Solar and Heliospheric Observatory (SOHO)</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-5:30pm, Wisconsin Center</I>
+</DL>
+
+<H1>Wednesday, June 12, 1996</H1>
+<DL>
+<P><DT><B>Session 50.</B>
+<A HREF=tocWednesday.html#Sess050>Disks and Bipolar Outflows from Hot Stars - I</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, Union Theater</I>
+
+<P><DT><B>Session 51.</B>
+<A HREF=tocWednesday.html#Sess051>New Views of the Magellanic Clouds - I</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, Historical Society</I>
+
+<P><DT><B>Session 52.</B>
+<A HREF=tocWednesday.html#Sess052>First Results from the Infrared Space Observatory</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, Playcircle</I>
+
+<P><DT><B>Session 53.</B>
+<A HREF=tocWednesday.html#Sess053>First Results from the Global Oscillations Network Group (GONG)</A><DD>
+
+<I>Oral presentation, Wednesday, 8:30am-12:30pm, Wisconsin Center</I>
+
+<P><DT><B>Session 54.</B>
+<A HREF=tocWednesday.html#Sess054>Ground and Instrumentation Techniques and Catalogs</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 55.</B>
+<A HREF=tocWednesday.html#Sess055>Space Instrumentation</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 56.</B>
+<A HREF=tocWednesday.html#Sess056>New Solar Instrumentation</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 57.</B>
+<A HREF=tocWednesday.html#Sess057>Astrophysical Diagnostics from Polarimetry</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Tripp Commons</I>
+
+<P><DT><B>Session 58.</B>
+<A HREF=tocWednesday.html#Sess058>Stellar Modelling/Abundances</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 59.</B>
+<A HREF=tocWednesday.html#Sess059>Pulsating/Variable Stars</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 60.</B>
+<A HREF=tocWednesday.html#Sess060>Multiple Stars</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 61.</B>
+<A HREF=tocWednesday.html#Sess061>New Views of the Magellanic Clouds</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 62.</B>
+<A HREF=tocWednesday.html#Sess062>Comet Hyakutake Encounter</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 63.</B>
+<A HREF=tocWednesday.html#Sess063>First Results from the Infrared Space Observatory</A><DD>
+
+<I>Display presentation, Wednesday, 9:30am-6:30pm, Great Hall</I>
+
+<P><DT><B>Session 64.</B>
+<A HREF=tocWednesday.html#Sess064>Disks and Bipolar Outflows from Hot Stars - II</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, Union Theater</I>
+
+<P><DT><B>Session 65.</B>
+<A HREF=tocWednesday.html#Sess065>New Views of the Magellanic Clouds - II</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, Historical Society</I>
+
+<P><DT><B>Session 66.</B>
+<A HREF=tocWednesday.html#Sess066>Astrophysical Diagnostics from Polarimetry</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, Playcircle</I>
+
+<P><DT><B>Session 67.</B>
+<A HREF=tocWednesday.html#Sess067>New Solar Instrumentation</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-5:30pm, Wisconsin Center</I>
+</DL>
+
+<H1>Thursday, June 13, 1996</H1>
+<DL>
+<P><DT><B>Session 68.</B>
+<A HREF=tocThursday.html#Sess068>Invited</A><DD>
+
+<I>Invited presentation, Thursday, 8:30-9:20am, Union Theater</I>
+
+<P><DT><B>Session 69.</B>
+<A HREF=tocThursday.html#Sess069>The Solar Dynamo and Helioseismology</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Tripp Commons</I>
+
+<P><DT><B>Session 70.</B>
+<A HREF=tocThursday.html#Sess070>Solar Flares and Ejections</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Tripp Commons</I>
+
+<P><DT><B>Session 71.</B>
+<A HREF=tocThursday.html#Sess071>Stellar Activity/Starspots</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Tripp Commons</I>
+
+<P><DT><B>Session 72.</B>
+<A HREF=tocThursday.html#Sess072>Late Type Stars and Planetary Nebulae</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Tripp Commons</I>
+
+<P><DT><B>Session 73.</B>
+<A HREF=tocThursday.html#Sess073>White Dwarfs, Neutron Stars and Pulsars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Great Hall</I>
+
+<P><DT><B>Session 74.</B>
+<A HREF=tocThursday.html#Sess074>Supernova Remnants</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Great Hall</I>
+
+<P><DT><B>Session 75.</B>
+<A HREF=tocThursday.html#Sess075>The Crab Nebula</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Great Hall</I>
+
+<P><DT><B>Session 76.</B>
+<A HREF=tocThursday.html#Sess076>Exploding Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, Great Hall</I>
+
+<P><DT><B>Session 77.</B>
+<A HREF=tocThursday.html#Sess077>Normal Galaxies</A><DD>
+
+<I>Oral presentation, Thursday, 10:15-11:45am, Union Theater</I>
+
+<P><DT><B>Session 78.</B>
+<A HREF=tocThursday.html#Sess078>Unique Objects and Gamma Bursts</A><DD>
+
+<I>Oral presentation, Thursday, 10:15-11:45am, Historical Society</I>
+
+<P><DT><B>Session 79.</B>
+<A HREF=tocThursday.html#Sess079>Quiet Solar Photosphere and Chromosphere</A><DD>
+
+<I>Oral presentation, Thursday, 10:15-11:45am, Playcircle</I>
+
+<P><DT><B>Session 80.</B>
+<A HREF=tocThursday.html#Sess080>Solar Corona and Transition Region</A><DD>
+
+<I>Oral presentation, Thursday, 10:15-11:45am, Wisconsin Center</I>
+
+<P><DT><B>Session 81.</B>
+<A HREF=tocThursday.html#Sess081>IDEA's in Astronomy</A><DD>
+
+<I>Oral presentation, Thursday, 10:15-11:45am, Old Madison</I>
+
+<P><DT><B>Session 82.</B>
+<A HREF=tocThursday.html#Sess082>Pierce Prize Lecture</A><DD>
+
+<I>Invited presentation, Thursday, 12:00-12:50pm, Union Theater</I>
+
+<P><DT><B>Session 83.</B>
+<A HREF=tocThursday.html#Sess083>Starbursts and Mergers</A><DD>
+
+<I>Oral presentation, Thursday, 2:15-3:45pm, Union Theater</I>
+
+<P><DT><B>Session 84.</B>
+<A HREF=tocThursday.html#Sess084>Neutron Stars and Their Friends</A><DD>
+
+<I>Oral presentation, Thursday, 2:15-3:45pm, Historical Society</I>
+
+<P><DT><B>Session 85.</B>
+<A HREF=tocThursday.html#Sess085>Instruments, Databases and Techniques</A><DD>
+
+<I>Oral presentation, Thursday, 2:15-3:45pm, Playcircle</I>
+
+<P><DT><B>Session 86.</B>
+<A HREF=tocThursday.html#Sess086>Coronal Activity</A><DD>
+
+<I>Oral presentation, Thursday, 2:15-3:45pm, Wisconsin Center</I>
+
+<P><DT><B>Session 87.</B>
+<A HREF=tocThursday.html#Sess087>Star Parameters</A><DD>
+
+<I>Oral presentation, Thursday, 2:15-3:45pm, Old Madison</I>

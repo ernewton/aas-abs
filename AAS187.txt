@@ -1,0 +1,620 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<b>Bulletin of the American Astronomical Society, 1995, Volume 27,
+Number 4<br>
+AAS 187th Meeting, San Antonio, TX, January 1996</b><br>
+<a href="AuthorList.html">[Author List]</a>
+<H1>Sunday, January 14, 1996</H1>
+<DL>
+<P><DT><B>Session 1.</B>
+<A HREF=tocSunday.html#Sess001>Applied History of Astronomy I</A><DD>
+
+<I>Oral presentation, Sunday, 10:30am-12:00pm, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 2.</B>
+<A HREF=tocSunday.html#Sess002>Applied History of Astronomy II</A><DD>
+
+<I>Oral presentation, Sunday, 1:30-4:00pm, Salon del Rey Central (Hilton)</I>
+</DL>
+
+<H1>Monday, January 15, 1996</H1>
+<DL>
+<P><DT><B>Session 3.</B>
+<A HREF=tocMonday.html#Sess003>Invited Talks</A><DD>
+<I>Invited presentation, Monday, 8:30-10:00am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 4.</B>
+<A HREF=tocMonday.html#Sess004>Space Mission Status</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 5.</B>
+<A HREF=tocMonday.html#Sess005>Education</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 6.</B>
+<A HREF=tocMonday.html#Sess006>Teaching Astronomy</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 7.</B>
+<A HREF=tocMonday.html#Sess007>Cosmology and Cosmological Parameters</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 8.</B>
+<A HREF=tocMonday.html#Sess008>Distance Indicators</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 9.</B>
+<A HREF=tocMonday.html#Sess009>The Hubble Deep Field</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 10.</B>
+<A HREF=tocMonday.html#Sess010>Gamma-ray Bursts and Soft Gamma-ray Repeaters</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 11.</B>
+<A HREF=tocMonday.html#Sess011>LMC, Dwarf Galaxies</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 12.</B>
+<A HREF=tocMonday.html#Sess012>Radio Galaxies, VLBI</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 13.</B>
+<A HREF=tocMonday.html#Sess013>Observations of Radio Sources</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 14.</B>
+<A HREF=tocMonday.html#Sess014>Milky Way Galaxy</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 15.</B>
+<A HREF=tocMonday.html#Sess015>Interstellar Medium I</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 16.</B>
+<A HREF=tocMonday.html#Sess016>Radio Pulsars</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 17.</B>
+<A HREF=tocMonday.html#Sess017>Supernovae</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 18.</B>
+<A HREF=tocMonday.html#Sess018>White Dwarfs</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 19.</B>
+<A HREF=tocMonday.html#Sess019>Hot Stars</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 20.</B>
+<A HREF=tocMonday.html#Sess020>Molecular Clouds, Dense Cores, and Protostars</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 21.</B>
+<A HREF=tocMonday.html#Sess021>Jets, H-H Objects, and Molecular Outflows</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 22.</B>
+<A HREF=tocMonday.html#Sess022>YSOs' Variability</A><DD>
+
+<I>Display presentation, Monday, 10:00am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 23.</B>
+<A HREF=tocMonday.html#Sess023>The Changing Shape of Graduate Education in Science</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 24.</B>
+<A HREF=tocMonday.html#Sess024>Seyfert & Starburst Galaxies; Winds, Outflows & Energetics</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 25.</B>
+<A HREF=tocMonday.html#Sess025>Stellar Winds, Accretion, & Molecular Clouds</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 26.</B>
+<A HREF=tocMonday.html#Sess026>X-ray Emission Flow, Neutron Stars & White Dwarfs</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 27.</B>
+<A HREF=tocMonday.html#Sess027>Astronomies and Cultures (HAD)</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 28.</B>
+<A HREF=tocMonday.html#Sess028>Working Group on Astronomical Imaging Technology</A><DD>
+
+<I>Oral presentation, Monday, 10:45am-12:15pm, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 29.</B>
+<A HREF=tocMonday.html#Sess029>Invited Talk</A><DD>
+<I>Invited presentation, Monday, 1:45-2:35pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 30.</B>
+<A HREF=tocMonday.html#Sess030>Galaxy Evolution I</A><DD>
+
+<I>Oral presentation, Monday, 2:45-4:15pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 31.</B>
+<A HREF=tocMonday.html#Sess031>Black Holes</A><DD>
+
+<I>Oral presentation, Monday, 2:45-4:15pm, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 32.</B>
+<A HREF=tocMonday.html#Sess032>Stellar Astrophysics II</A><DD>
+
+<I>Oral presentation, Monday, 2:45-4:15pm, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 33.</B>
+<A HREF=tocMonday.html#Sess033>Neutron Stars & White Dwarfs</A><DD>
+
+<I>Oral presentation, Monday, 2:45-4:15pm, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 34.</B>
+<A HREF=tocMonday.html#Sess034>The Universe According to COBE</A><DD>
+<I>Oral presentation, Monday, 2:45-4:15pm, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 35.</B>
+<A HREF=tocMonday.html#Sess035>The Western Tradition (HAD)</A><DD>
+
+<I>Oral presentation, Monday, 2:45-4:15pm, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 36.</B>
+<A HREF=tocMonday.html#Sess036>Rossi Prize Lecture</A><DD>
+
+<I>Invited presentation, Monday, 4:30-5:20pm, 1st Floor (La Villita Assembly Building)</I>
+</DL>
+
+<H1>Tuesday, January 16, 1996</H1>
+<DL>
+<P><DT><B>Session 37.</B>
+<A HREF=tocTuesday.html#Sess037>Pierce Prize Lecture</A><DD>
+
+<I>Invited presentation, Tuesday, 8:30-9:20am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 38.</B>
+<A HREF=tocTuesday.html#Sess038>Electronic Journals and Other AAS Web Services</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 39.</B>
+<A HREF=tocTuesday.html#Sess039>Observing with HST</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 40.</B>
+<A HREF=tocTuesday.html#Sess040>Adverse Environmental Impacts on Astronomy</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 41.</B>
+<A HREF=tocTuesday.html#Sess041>SETI Results</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 42.</B>
+<A HREF=tocTuesday.html#Sess042>Solar Systems</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 43.</B>
+<A HREF=tocTuesday.html#Sess043>Binary Stars</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 44.</B>
+<A HREF=tocTuesday.html#Sess044>Circumstellar Material</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 45.</B>
+<A HREF=tocTuesday.html#Sess045>Interstellar Medium I</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 46.</B>
+<A HREF=tocTuesday.html#Sess046>Gamma-ray Sources & Diffuse Emission</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 47.</B>
+<A HREF=tocTuesday.html#Sess047>Microlensing</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 48.</B>
+<A HREF=tocTuesday.html#Sess048>Spiral & Field Galaxies</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 49.</B>
+<A HREF=tocTuesday.html#Sess049>Starburst Galaxies</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 50.</B>
+<A HREF=tocTuesday.html#Sess050>Active Galaxies</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 51.</B>
+<A HREF=tocTuesday.html#Sess051>Star Formation & Chemical Evolution of Galaxies</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 52.</B>
+<A HREF=tocTuesday.html#Sess052>Simulations of Clusters of Galaxies</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 53.</B>
+<A HREF=tocTuesday.html#Sess053>Surveys of Galaxies & Clusters</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 54.</B>
+<A HREF=tocTuesday.html#Sess054>Large Scale Structure</A><DD>
+
+<I>Display presentation, Tuesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 55.</B>
+<A HREF=tocTuesday.html#Sess055>Galactic Microquasars</A><DD>
+<I>Oral presentation, Tuesday, 10:00-11:30am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 56.</B>
+<A HREF=tocTuesday.html#Sess056>Active Galaxies:  The Central Engine</A><DD>
+
+<I>Oral presentation, Tuesday, 10:00-11:30am, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 57.</B>
+<A HREF=tocTuesday.html#Sess057>Policy Making in Astronomy and its Impact on the Community</A><DD>
+
+<I>Oral presentation, Tuesday, 10:00-11:30am, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 58.</B>
+<A HREF=tocTuesday.html#Sess058>Gamma Rays & Cosmic Rays</A><DD>
+
+<I>Oral presentation, Tuesday, 10:00-11:30am, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 59.</B>
+<A HREF=tocTuesday.html#Sess059>Milky Way, Center & Halo</A><DD>
+
+<I>Oral presentation, Tuesday, 10:00-11:30am, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 60.</B>
+<A HREF=tocTuesday.html#Sess060>Stellar Astrophysics I</A><DD>
+
+<I>Oral presentation, Tuesday, 10:00-11:30am, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 61.</B>
+<A HREF=tocTuesday.html#Sess061>Russell Prize Lecture</A><DD>
+<I>Invited presentation, Tuesday, 11:40am-12:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 62.</B>
+<A HREF=tocTuesday.html#Sess062>X-ray Astronomy:  New Discoveries</A><DD>
+<I>Oral presentation, Tuesday, 2:00-3:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 63.</B>
+<A HREF=tocTuesday.html#Sess063>Galaxy Evolution II</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-3:30pm, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 64.</B>
+<A HREF=tocTuesday.html#Sess064>Getting & Holding a Job with an Astronomy Degree</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-3:30pm, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 65.</B>
+<A HREF=tocTuesday.html#Sess065>ISM in Nearby Galaxies</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-3:30pm, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 66.</B>
+<A HREF=tocTuesday.html#Sess066>Young Clusters, High-Mass YSOs and Their Environment</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-3:30pm, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 67.</B>
+<A HREF=tocTuesday.html#Sess067>Cosmic Microwave Background</A><DD>
+
+<I>Oral presentation, Tuesday, 2:00-3:30pm, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 68.</B>
+<A HREF=tocTuesday.html#Sess068>Invited Talks:  Observing Star Formation</A><DD>
+<I>Invited presentation, Tuesday, 3:40-5:10pm, 1st Floor (La Villita Assembly Building)</I>
+</DL>
+
+<H1>Wednesday, January 17, 1996</H1>
+<DL>
+<P><DT><B>Session 69.</B>
+<A HREF=tocWednesday.html#Sess069>Invited Talk</A><DD>
+<I>Invited presentation, Wednesday, 8:30-9:20am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 70.</B>
+<A HREF=tocWednesday.html#Sess070>Searching for Other Planetary Systems</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 71.</B>
+<A HREF=tocWednesday.html#Sess071>Space Astronomy in the Next Millennium</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 72.</B>
+<A HREF=tocWednesday.html#Sess072>Proposed Space Missions</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 73.</B>
+<A HREF=tocWednesday.html#Sess073>Instrumentation</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 74.</B>
+<A HREF=tocWednesday.html#Sess074>Ground-Based Instruments</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 75.</B>
+<A HREF=tocWednesday.html#Sess075>2MASS</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 76.</B>
+<A HREF=tocWednesday.html#Sess076>Adaptive Optics</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 77.</B>
+<A HREF=tocWednesday.html#Sess077>AXAF Calibration</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 78.</B>
+<A HREF=tocWednesday.html#Sess078>Supernova Remnants</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 79.</B>
+<A HREF=tocWednesday.html#Sess079>CVs and Novae</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 80.</B>
+<A HREF=tocWednesday.html#Sess080>Central Stars of Planetary Nebulae</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 81.</B>
+<A HREF=tocWednesday.html#Sess081>Planetary Nebulae</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 82.</B>
+<A HREF=tocWednesday.html#Sess082>Globular Clusters</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 83.</B>
+<A HREF=tocWednesday.html#Sess083>Elliptical Galaxies</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 84.</B>
+<A HREF=tocWednesday.html#Sess084>QSOs and BL Lacs</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 85.</B>
+<A HREF=tocWednesday.html#Sess085>Quasar Absorption Line Systems</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 86.</B>
+<A HREF=tocWednesday.html#Sess086>Measurement of Cosmological Parameters</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 87.</B>
+<A HREF=tocWednesday.html#Sess087>Environments of QSOs and Radio Galaxies</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 88.</B>
+<A HREF=tocWednesday.html#Sess088>Structure and Kinematics of Galaxies</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 89.</B>
+<A HREF=tocWednesday.html#Sess089>Searching for Other Planetary Systems</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 90.</B>
+<A HREF=tocWednesday.html#Sess090>Supernovae, Supernovae Remnants and Planetary Nebulae</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 91.</B>
+<A HREF=tocWednesday.html#Sess091>Working Group on Astronomical Software</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 92.</B>
+<A HREF=tocWednesday.html#Sess092>Public Policy Talk</A><DD>
+
+<I>Invited presentation, Wednesday, 11:40am-12:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 93.</B>
+<A HREF=tocWednesday.html#Sess093>Space Astronomy in the Next Millennium</A><DD>
+
+<I>Oral presentation, Wednesday, 1:45-3:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 94.</B>
+<A HREF=tocWednesday.html#Sess094>Large-Scale Structure: Observations and Theory</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 95.</B>
+<A HREF=tocWednesday.html#Sess095>X-Ray Galaxies and Clusters</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 96.</B>
+<A HREF=tocWednesday.html#Sess096>QSO Absorption Systems</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 97.</B>
+<A HREF=tocWednesday.html#Sess097>Supernovae</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 98.</B>
+<A HREF=tocWednesday.html#Sess098>Invited Talks:  Adaptive Optics</A><DD>
+<I>Invited presentation, Wednesday, 3:40-5:10pm, 1st Floor (La Villita Assembly Building)</I>
+</DL>
+
+<H1>Thursday, January 18, 1996</H1>
+<DL>
+<P><DT><B>Session 99.</B>
+<A HREF=tocThursday.html#Sess099>Invited Talk</A><DD>
+<I>Invited presentation, Thursday, 8:30-9:20am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 100.</B>
+<A HREF=tocThursday.html#Sess100>Computational Techniques</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 101.</B>
+<A HREF=tocThursday.html#Sess101>The Sun</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 102.</B>
+<A HREF=tocThursday.html#Sess102>Pulsating Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 103.</B>
+<A HREF=tocThursday.html#Sess103>Cool Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 104.</B>
+<A HREF=tocThursday.html#Sess104>Accretion-Powered X-Ray Sources</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 105.</B>
+<A HREF=tocThursday.html#Sess105>Pre-Main Sequence Binaries and Disks</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 106.</B>
+<A HREF=tocThursday.html#Sess106>Herbig Ae/Be Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 107.</B>
+<A HREF=tocThursday.html#Sess107>Open Clusters</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 108.</B>
+<A HREF=tocThursday.html#Sess108>HII Regions</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 109.</B>
+<A HREF=tocThursday.html#Sess109>Galaxies: Collisions, Counter-Rotating Disks</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 110.</B>
+<A HREF=tocThursday.html#Sess110>Imaging of Cluster Galaxies</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 111.</B>
+<A HREF=tocThursday.html#Sess111>X-Ray Observations of Clusters of Galaxies</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-4:00pm, North Banquet Hall (Convention Center)</I>
+
+<P><DT><B>Session 112.</B>
+<A HREF=tocThursday.html#Sess112>Radio Galaxies and Jets: VLBI</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 113.</B>
+<A HREF=tocThursday.html#Sess113>Observations of the Circumstellar Environment of YSOs</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 114.</B>
+<A HREF=tocThursday.html#Sess114>GONG</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 115.</B>
+<A HREF=tocThursday.html#Sess115>Network Information Services for Astronomy</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Salon del Rey South (Hilton)</I>
+
+<P><DT><B>Session 116.</B>
+<A HREF=tocThursday.html#Sess116>The Solar System</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Salon del Rey Central (Hilton)</I>
+
+<P><DT><B>Session 117.</B>
+<A HREF=tocThursday.html#Sess117>Instrumentation and Techniques</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Salon del Rey North (Hilton)</I>
+
+<P><DT><B>Session 118.</B>
+<A HREF=tocThursday.html#Sess118>Warner Prize Lecture</A><DD>
+
+<I>Invited presentation, Thursday, 11:40am-12:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 119.</B>
+<A HREF=tocThursday.html#Sess119>QSOs and BL Lacs</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, 1st Floor (La Villita Assembly Building)</I>
+
+<P><DT><B>Session 120.</B>
+<A HREF=tocThursday.html#Sess120>The Local Interstellar Medium</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Corte Real (Hilton)</I>
+
+<P><DT><B>Session 121.</B>
+<A HREF=tocThursday.html#Sess121>Instrumentation: Status and Plans</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, La Condesa (Hilton)</I>
+
+<P><DT><B>Session 122.</B>
+<A HREF=tocThursday.html#Sess122>The Sun</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Salon del Rey South (Hilton)</I>
+</DL>

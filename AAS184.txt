@@ -1,0 +1,152 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<BODY>
+<b>Bulletin of the American Astronomical Society, 1994, Volume
+26, Number 2<br>
+AAS 184th Meeting, Minneapolis, MN June 1994</b><br>
+<A HREF="AuthorList.html">[Author List]</A>
+<H1>Monday,  May 30, 1994</H1>
+<DL><DT><A HREF=tocMon.html#S1>Session 1</A>: <B>Brouwer Prize Lecture</B>
+<DD><I>Oral presentation, Monday, 8:30-9:20, Salons EFG</I>
+<P><DT><A HREF=tocMon.html#S2>Session 2</A>: <B>Education</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S3>Session 3</A>: <B>HST Performance and Process</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S4>Session 4</A>: <B>Solar System</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S5>Session 5</A>: <B>Chromospheres/Coronae/Active Binaries</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S6>Session 6</A>: <B>Binary Stars</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S7>Session 7</A>: <B>Stellar Abundances Across the H-R Diagram</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S8>Session 8</A>: <B>Pulsars</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S9>Session 9</A>: <B>Galactic X-Ray/Gamma-Ray Sources</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S10>Session 10</A>: <B>Gamma Ray Sources</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S11>Session 11</A>: <B>Luminous AGN and QSOs</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S12>Session 12</A>: <B>Starburst Galaxies</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S13>Session 13</A>: <B>Models or Gas Flows and Spectral Formation</B>
+<DD><I>Display presentation, Monday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocMon.html#S14>Session 14</A>: <B>Comets, Asteroids, Meteoroids</B>
+<DD><I>Oral presentation, Monday, 10:00-11:30, Salons EFG</I>
+<P><DT><A HREF=tocMon.html#S15>Session 15</A>: <B>Gamma Ray Bursts</B>
+<DD><I>Oral presentation, Monday, 10:00-11:30, Salon C</I>
+<P><DT><A HREF=tocMon.html#S16>Session 16</A>: <B>Molecular Clouds, Star Formation, Very Young Stars, T Tauri Stars</B>
+<DD><I>Oral presentation, Monday, 10:00-11:30, Marquette/LaSalle</I>
+<P><DT><A HREF=tocMon.html#S17>Session 17</A>: <B>Radio Galaxies and High Luminosity AGNs</B>
+<DD><I>Oral presentation, Monday, 10:00-11:30, Hennepin Carver</I>
+<P><DT><A HREF=tocMon.html#S18>Session 18</A>: <B>Astronomers Outside the University</B>
+<DD><I>Oral presentation, Monday, 10:00-11:30, Duluth</I>
+<P><DT><A HREF=tocMon.html#S19>Session 19</A>: <B>Rossi Prize Lecture</B>
+<DD><I>Oral presentation, Monday, 11:40, Salons EFG</I>
+<P><DT><A HREF=tocMon.html#S20>Session 20</A>: <B>Cosmic X-Ray and Microwave Background</B>
+<DD><I>Oral presentation, Monday, 2:00-3:30, Salons EFG</I>
+<P><DT><A HREF=tocMon.html#S21>Session 21</A>: <B>Pulsars</B>
+<DD><I>Oral presentation, Monday, 2:00-3:30, Salon C</I>
+<P><DT><A HREF=tocMon.html#S22>Session 22</A>: <B>Galaxy Structure and Kinematics</B>
+<DD><I>Oral presentation, Monday, 2:00-3:30, Marquette/LaSalle</I>
+<P><DT><A HREF=tocMon.html#S23>Session 23</A>: <B>Starburst Activity in External Galaxies</B>
+<DD><I>Oral presentation, Monday, 2:00-3:30, Hennepin Carver</I>
+<P><DT><A HREF=tocMon.html#S24>Session 24</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Monday, 3:40, Salons EFG</I>
+<P></DL>
+<H1>Tuesday,  May 31, 1994</H1>
+<DL><DT><A HREF=tocTue.html#S25>Session 25</A>: <B>SIRTF</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S26>Session 26</A>: <B>Detectors and Telescopes</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S27>Session 27</A>: <B>Digitizing the Sky</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S28>Session 28</A>: <B>Software and Catalogs</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S29>Session 29</A>: <B>General Interstellar Medium</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S30>Session 30</A>: <B>Star Formation, Molecular Clouds and HII Regions</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S31>Session 31</A>: <B>Massive Hot Stars</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S32>Session 32</A>: <B>Galaxy Dynamics</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S33>Session 33</A>: <B>Relativistic Astrophysics</B>
+<DD><I>Display presentation, Tuesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocTue.html#S34>Session 34</A>: <B>Massive Hot Stars with the Hubble Space Telescope Part I</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Salons EFG</I>
+<P><DT><A HREF=tocTue.html#S35>Session 35</A>: <B>Digitizing the Sky Part I</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Salon C</I>
+<P><DT><A HREF=tocTue.html#S36>Session 36</A>: <B>Galaxy Dynamics: Theory and Observation</B>
+<DD><I>Oral presentation, Tuesday, 8:30-12:30, Marquette/LaSalle</I>
+<P><DT><A HREF=tocTue.html#S37>Session 37</A>: <B>Massive Hot Stars with the Hubble Space Telescope Part II</B>
+<DD><I>Oral presentation, Tuesday, 2:00-5:30, Salons EFG</I>
+<P><DT><A HREF=tocTue.html#S38>Session 38</A>: <B>Digitizing the Sky Part II</B>
+<DD><I>Oral presentation, Tuesday, 2:00-5:30, Salon C</I>
+<P><DT><A HREF=tocTue.html#S39>Session 39</A>: <B>Infrared Space Observatory</B>
+<DD><I>Oral presentation, Tuesday, 2:00-5:30, Marquette/LaSalle</I>
+<P></DL>
+<H1>Wednesday,  June 1, 1994</H1>
+<DL><DT><A HREF=tocWed.html#S40>Session 40</A>: <B>Computational Astrophysics I</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S41>Session 41</A>: <B>Computational Astrophysics II</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S42>Session 42</A>: <B>Astrometry</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S43>Session 43</A>: <B>Searching for Brown Dwarfs</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S44>Session 44</A>: <B>Young Stars, T Tauri Stars, Herbig Haro Objects</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S45>Session 45</A>: <B>CVs/Symbiotic Stars</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S46>Session 46</A>: <B>Novae</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S47>Session 47</A>: <B>Nova Cygni 1992</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S48>Session 48</A>: <B>Spiral, Dwarf and Irregular Galaxies</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S49>Session 49</A>: <B>Elliptical Galaxies</B>
+<DD><I>Display presentation, Wednesday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocWed.html#S50>Session 50</A>: <B>Grand Challenges in Computational Astrophysics Part I</B>
+<DD><I>Oral presentation, Wednesday, 8:30-12:30, Salons EFG</I>
+<P><DT><A HREF=tocWed.html#S51>Session 51</A>: <B>Brown Dwarfs and Very Low Mass Stars</B>
+<DD><I>Oral presentation, Wednesday, 8:30-12:30, Salon C</I>
+<P><DT><A HREF=tocWed.html#S52>Session 52</A>: <B>Grand Challenges in Computational Astrophysics Part II</B>
+<DD><I>Oral presentation, Wednesday, 2:00-5:30, Salon EFG</I>
+<P><DT><A HREF=tocWed.html#S53>Session 53</A>: <B>Recent Observational Results on Nova Cygni 1992</B>
+<DD><I>Oral presentation, Wednesday, 2:00-5:30, Salon C</I>
+<P></DL>
+<H1>Thursday,  June 2, 1994</H1>
+<DL><DT><A HREF=tocThu.html#S54>Session 54</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Thursday, 8:30-9:20, Salons EFG</I>
+<P><DT><A HREF=tocThu.html#S55>Session 55</A>: <B>Pulsating Variables/Stellar Models</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S56>Session 56</A>: <B>Supernova Remnants Observation</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S57>Session 57</A>: <B>Planetary Nebulae/Supernovae/Ejecta</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salon s ABD</I>
+<P><DT><A HREF=tocThu.html#S58>Session 58</A>: <B>The Galaxy</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Marquette/LaSalle</I>
+<P><DT><A HREF=tocThu.html#S59>Session 59</A>: <B>Low Luminosity AGNs and Active Galaxies</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S60>Session 60</A>: <B>Intergalactic Medium</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S61>Session 61</A>: <B>Properties and Evolution of Clusters of Galaxies</B>
+<DD><I>Display presentation, Thursday, 9:20-6:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S62>Session 62</A>: <B>Large Scale Structures</B>
+<DD><I>Display presentation, Thursday, 10:00-11:30, Salons ABD</I>
+<P><DT><A HREF=tocThu.html#S63>Session 63</A>: <B>Large Scale Structure and Cosmology</B>
+<DD><I>Oral presentation, Thursday, 10:00-11:30, Salons EFG</I>
+<P><DT><A HREF=tocThu.html#S64>Session 64</A>: <B>Low Luminosity AGNs and Active Galaxies</B>
+<DD><I>Oral presentation, Thursday, 10:00-11:30, Salon C</I>
+<P><DT><A HREF=tocThu.html#S65>Session 65</A>: <B>The Galaxy and Galactic ISM</B>
+<DD><I>Oral presentation, Thursday, 10:00-11:30, Marquette/LaSalle</I>
+<P><DT><A HREF=tocThu.html#S66>Session 66</A>: <B>Supernova Remnants</B>
+<DD><I>Oral presentation, Thursday, 10:00-11:30, Hennepin Carver</I>
+<P><DT><A HREF=tocThu.html#S67>Session 67</A>: <B>Compact Objects/Stellar Winds</B>
+<DD><I>Oral presentation, Thursday, 10:00-11:30, Duluth</I>
+<P><DT><A HREF=tocThu.html#S68>Session 68</A>: <B>Invited Talk</B>
+<DD><I>Oral presentation, Thursday, 11:40-12:30, Salons EFG</I>
+<P></DL>
+</BODY>

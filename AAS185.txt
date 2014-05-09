@@ -1,0 +1,265 @@
+<HEADER><TITLE>Session List</TITLE>
+</HEADER>
+<BODY><b>Bulletin of the American Astronomical Society, 1994, Volume
+26, Number 4<br>
+AAS 185th Meeting, Tucson, AZ, January 1995</b><br>
+<A HREF="AuthorList.html">[Author List]</a>
+<H1>Saturday, January 7, 1995</H1>
+<DL><DT><A HREF=tocSat.html#S1>Session 1</A>: <B>Southwestern Archaeoastronomy</B>
+<DD><I>Oral presentation, Saturday, 7:00pm, Steward Observatory</I>
+<P></DL>
+<H1>Sunday, January 8, 1995</H1>
+<DL><DT><A HREF=tocSun.html#S2>Session 2</A>: <B>History in Astronomy Education I</B>
+<DD><I>Oral presentation, Sunday, 2:00pm, Mohave (Tucson Convention Center)</I>
+<P></DL>
+<H1>Monday, January 9, 1995</H1>
+<DL><DT><A HREF=tocMon.html#S3>Session 3</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Monday, 8:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S4>Session 4</A>: <B>Public Outreach</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S5>Session 5</A>: <B>Education</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S6>Session 6</A>: <B>Positional Astronomy</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S7>Session 7</A>: <B>Radiative Transfer and Opacities</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S8>Session 8</A>: <B>Radio Surveys and Techniques</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S9>Session 9</A>: <B>HST Observing and Instruments</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S10>Session 10</A>: <B>Remote Observing, Ground-Based Telescopes and, Space Instruments</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S11>Session 11</A>: <B>Novae</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S12>Session 12</A>: <B>Interstellar Medium</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S13>Session 13</A>: <B>Integalactic Medium</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S14>Session 14</A>: <B>Lyman Alpha Clouds</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S15>Session 15</A>: <B>Gamma Ray Bursts</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S16>Session 16</A>: <B>>100 GeV Gamma Ray Astronomy</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S17>Session 17</A>: <B>MACHO Projects</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S18>Session 18</A>: <B>AGN Spectroscopy</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S19>Session 19</A>: <B>Multiwavelength AGN Studies</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S20>Session 20</A>: <B>AGN Environments</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S21>Session 21</A>: <B>Cataclysmic Variables, Dwarf Novae</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S22>Session 22</A>: <B>Galactic Structure; Galactic Center</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S23>Session 23</A>: <B>Gravitational Lensing</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S24>Session 24</A>: <B>The Distance Scale</B>
+<DD><I>Display presentation, Monday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S25>Session 25</A>: <B>Ellipticals and Dark Matter</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S26>Session 26</A>: <B>Interstellar Medium and Radiative Shocks</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S27>Session 27</A>: <B>Spectroscopy of AGN I: Narrowlines</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S28>Session 28</A>: <B>Mechanisms of Supernova Explosions</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S29>Session 29</A>: <B>Education</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S30>Session 30</A>: <B>History of Astronomy</B>
+<DD><I>Oral presentation, Monday, 10:00am - 11:30am, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S31>Session 31</A>: <B>Russell Prize Lecture</B>
+<DD><I>Oral presentation, Monday, 11:40am - 12:30pm Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S32>Session 32</A>: <B>COBE</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S33>Session 33</A>: <B>Supernovae</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S34>Session 34</A>: <B>Spectroscopy of AGN II: Broad Lines and Spectral Evolution</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S35>Session 35</A>: <B>Dwarf Galaxies</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S36>Session 36</A>: <B>Giant and Supergiant Stars</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S37>Session 37</A>: <B>History in Astronomy Education II</B>
+<DD><I>Oral presentation, Monday, 2:00pm - 3:30pm, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocMon.html#S38>Session 38</A>: <B>Invited Talks</B>
+<DD><I>Invited presentation, Monday, 3:40pm, Ballroom I (Tucson Convention Center)</I>
+<P></DL>
+<H1>Tuesday, January 10, 1995</H1>
+<DL><DT><A HREF=tocTue.html#S39>Session 39</A>: <B>Hale Prize Lecture</B>
+<DD><I>Invited presentation, Tuesday, 8:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S40>Session 40</A>: <B>Numerical Techniques and Models</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S41>Session 41</A>: <B>Catalogs, Computer Information, Services, Analysis and Tools</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S42>Session 42</A>: <B>High-Spatial Resolution</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S43>Session 43</A>: <B>SL-9, Comets, Solar System</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S44>Session 44</A>: <B>Solar Observations and Theory</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S45>Session 45</A>: <B>Stellar Activity I</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S46>Session 46</A>: <B>White Dwarfs</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S47>Session 47</A>: <B>Planetary Nebulae</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S48>Session 48</A>: <B>Young Stars</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S49>Session 49</A>: <B>Interstellar Dust and Polarization</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S50>Session 50</A>: <B>Supernova Remnants</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S51>Session 51</A>: <B>Dwarf Galaxies</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S52>Session 52</A>: <B>Elliptical Galaxies</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S53>Session 53</A>: <B>Clusters of Galaxies I</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S54>Session 54</A>: <B>HST Medium Deep Survey</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S55>Session 55</A>: <B>Early Universe</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S56>Session 56</A>: <B>Large-Scale Structure</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S57>Session 57</A>: <B>COBE and Related Papers</B>
+<DD><I>Display presentation, Tuesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S58>Session 58</A>: <B>Distance Scale, Spiral Galaxies I</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S59>Session 59</A>: <B>General Properties of AGN</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S60>Session 60</A>: <B>Extremes in Astrophysics</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S61>Session 61</A>: <B>Novae and Stellar Accretion</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S62>Session 62</A>: <B>Supernova Remnants and Pulsars</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S63>Session 63</A>: <B>WGAIT</B>
+<DD><I>Oral presentation, Tuesday, 10:00am - 11:30am, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S64>Session 64</A>: <B>Urey Prize Lecture</B>
+<DD><I>Invited presentation, Tuesday, 11:40am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S65>Session 65</A>: <B>SL-9 Impact, PLanets</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S66>Session 66</A>: <B>Galactic Center</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S67>Session 67</A>: <B>Timing in X-Ray Astronomy</b>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S68>Session 68</A>: <B>Starbursts and Interacting Galaxies</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S69>Session 69</A>: <B>Remote Observing</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S70>Session 70</A>: <B>Active Galaxies and Intergalactic Medium</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S71>Session 71</A>: <B>Pollution</B>
+<DD><I>Oral presentation, Tuesday, 2:00pm - 3:30pm, Graham (Tucson Convention Center)</I>
+<P><DT><A HREF=tocTue.html#S72>Session 72</A>: <B>Invited Talks: Impacts and Vulcanism</B>
+<DD><I>Invited presentation, Tuesday, 3:40pm, Ballroom I (Tucson Convention Center)</I>
+<P></DL>
+<H1>Wednesday, January 11, 1995</H1>
+<DL><DT><A HREF=tocWed.html#S73>Session 73</A>: <B>Warner Prize Lecture</B>
+<DD><I>Invited presentation, Wednesday, 8:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S74>Session 74</A>: <B>Clusters of Galaxies II: X-Rays</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S75>Session 75</A>: <B>Interacting Galaxies and Starbursts</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S76>Session 76</A>: <B>Spirals I</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S77>Session 77</A>: <B>Spirals II</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S78>Session 78</A>: <B>Pulsars and Neutron Stars</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S79>Session 79</A>: <B>Supernovae: Observations and Theory</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S80>Session 80</A>: <B>Stellar Activity II: Early Type Stars, Normal Stars</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S81>Session 81</A>: <B>YSO's, Masers and Molecules</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S82>Session 82</A>: <B>HII Regions</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S83>Session 83</A>: <B>Circumstellar Gas and Dust</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S84>Session 84</A>: <B>Star Forming Clouds</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S85>Session 85</A>: <B>Binaries</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S86>Session 86</A>: <B>Solar Active Regions</B>
+<DD><I>Display presentation, Wednesday, 9:20am - 6:30pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S87>Session 87</A>: <B>HST</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S88>Session 88</A>: <B>Mulit-Wavelength Observations of Blazars and BL Lacertae Objects</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S89>Session 89</A>: <B>Clusters of Galaxies - Galaxy Evolution</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S90>Session 90</A>: <B>Planetary Nebula and Degenerate Stars</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S91>Session 91</A>: <B>Young Stars and Young Clusters</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S92>Session 92</A>: <B>Solar Active Regions and Solar Wind</B>
+<DD><I>Oral presentation, Wednesday, 10:00am - 11:30am, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S93>Session 93</A>: <B>HST</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S94>Session 94</A>: <B>Acceleration and Jets in AGN, High Redshift Quasars, Polarization</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S95>Session 95</A>: <B>Substructures of Galaxy Clusters, Field Galaxies</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S96>Session 96</A>: <B>YSOs and Masers</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S97>Session 97</A>: <B>Milky Way</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S98>Session 98</A>: <B>Activity and Abundances Near the Main Sequence</B>
+<DD><I>Oral presentation, Wednesday, 2:00pm - 3:30pm, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocWed.html#S99>Session 99</A>: <B>Invited Talks: Star Formation</B>
+<DD><I>Invited presentation, Wednesday, 3:40pm, Ballroom I (Tucson Convention Center)</I>
+<P></DL>
+<H1>Thursday, January 12, 1995</H1>
+<DL><DT><A HREF=tocThu.html#S100>Session 100</A>: <B>Heineman Prize Lecture</B>
+<DD><I>Invited presentation, Thursday, 8:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S101>Session 101</A>: <B>Intrinsic Variables</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S102>Session 102</A>: <B>X-Ray Variables, Binaries and Transients</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S103>Session 103</A>: <B>Open and Globular Clusters</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S104>Session 104</A>: <B>Globular Clusters</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S105>Session 105</A>: <B>Barred Spirals</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S106>Session 106</A>: <B>Galaxies: Photometry and Spectrophotometry</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S107>Session 107</A>: <B>Galaxies: Morphology and Interactions</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S108>Session 108</A>: <B>Seyfert Galaxies</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S109>Session 109</A>: <B>Extragalactic Radio Sources, Jets</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S110>Session 110</A>: <B>Blazars and BL Lacs</B>
+<DD><I>Display presentation, Thursday, 9:20am - 4:00pm, Exhibit Hall A (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S111>Session 111</A>: <B>Gamma Ray Bursts</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S112>Session 112</A>: <B>Microlensing and the Search for MACHOS</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Ballroom II (Tucson Convention Center)</I>
+<p><dt><a href=tocThu.html#S113>Session 113</A>: <B>Early Universe and Cosmic Microwave Background</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S114>Session 114</A>: <B>Compact Groups, Galaxy and Quasar Clustering</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S115>Session 115</A>: <B>WGAS</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S116>Session 116</A>: <B>Globular Clusters and Compact Objects</B>
+<DD><I>Oral presentation, Thursday, 10:00am - 11:30am, Greenlee (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S117>Session 117</A>: <B>Invited Talk</B>
+<DD><I>Invited presentation, Thursday, 11:40am, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S118>Session 118</A>: <B>Cosmic Microwave Background</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Ballroom I (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S119>Session 119</A>: <B>Galaxies and Clusters of Galaxies, X-Ray Observations</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Ballroom II (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S120>Session 120</A>: <B>Galactic Gamma Rays</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Ballroom III (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S121>Session 121</A>: <B>Early Stars, X-Ray Binaries, Theory</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Mohave (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S122>Session 122</A>: <B>Ultracompact HII Regions and Star Formation</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Maricopa (Tucson Convention Center)</I>
+<P><DT><A HREF=tocThu.html#S123>Session 123</A>: <B>Solar Magnetic Field and Solar Variabilty</B>
+<DD><I>Oral presentation, Thursday, 2:00pm - 3:30pm, Greenlee (Tucson Convention Center)</I>
+<P></DL>
+</BODY>

@@ -1,0 +1,639 @@
+<HEAD><TITLE>Session List</TITLE>
+</HEAD>
+<b>Bulletin of the American Astronomcial Society, 1997, Volume 29 #5<br>
+AAS 191st Meeting, Washington, DC, January 1998</b><br>
+<a href="AuthorList.html">[Author List]</a>
+<hr>
+<H1>Tuesday, January 6, 1998</H1>
+<DL>
+<P><DT><B>Session 1.</B>
+<A HREF=tocTuesday.html#Sess001>HAD I: LeRoy E. Doggett Memorial Session</A><DD>
+
+<I>Oral presentation, Tuesday, 1:00-5:00pm, Georgetown</I>
+</DL>
+
+<H1>Wednesday, January 7, 1998</H1>
+<DL>
+<P><DT><B>Session 2.</B>
+<A HREF=tocWednesday.html#Sess002>Heineman Prize Lecture</A><DD>
+
+<I>Invited presentation, Wednesday, 8:30-9:20am, International Ballroom Center</I>
+
+<P><DT><B>Session 3.</B>
+<A HREF=tocWednesday.html#Sess003>Source Surveys, Galaxy Surveys, Distance Scale I</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 4.</B>
+<A HREF=tocWednesday.html#Sess004>Education: Telescopes, the Web and Curricula</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 5.</B>
+<A HREF=tocWednesday.html#Sess005>Accretion and Outflows in YSOs</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 6.</B>
+<A HREF=tocWednesday.html#Sess006>HII Regions & Massive Star Formation</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 7.</B>
+<A HREF=tocWednesday.html#Sess007>Molecular Clouds</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 8.</B>
+<A HREF=tocWednesday.html#Sess008>Relativistic Astrophysics</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 9.</B>
+<A HREF=tocWednesday.html#Sess009>SOFIA and IR Instrumentation</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 10.</B>
+<A HREF=tocWednesday.html#Sess010>NICMOS</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 11.</B>
+<A HREF=tocWednesday.html#Sess011>VLBI & Radio Instrumentation</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 12.</B>
+<A HREF=tocWednesday.html#Sess012>Stellar Evolution - Theory</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 13.</B>
+<A HREF=tocWednesday.html#Sess013>Stellar Spectra</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 14.</B>
+<A HREF=tocWednesday.html#Sess014>Various Stellar Surveys</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 15.</B>
+<A HREF=tocWednesday.html#Sess015>Planetary Nebulae and White Dwarfs</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 16.</B>
+<A HREF=tocWednesday.html#Sess016>Astrometry</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 17.</B>
+<A HREF=tocWednesday.html#Sess017>Data Archives & Tools</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 18.</B>
+<A HREF=tocWednesday.html#Sess018>STIS</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 19.</B>
+<A HREF=tocWednesday.html#Sess019>Source Surveys, Galaxy Surveys, Distance Scale II</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 20.</B>
+<A HREF=tocWednesday.html#Sess020>Chemistry & Physical Process in the ISM</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 21.</B>
+<A HREF=tocWednesday.html#Sess021>Luminous Infrared Galaxies</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 22.</B>
+<A HREF=tocWednesday.html#Sess022>Radio - Loud AGN & Extragalactic Jets</A><DD>
+
+<I>Display presentation, Wednesday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 23.</B>
+<A HREF=tocWednesday.html#Sess023>Science with the Space Interferometry Mission</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, International Ballroom Center</I>
+
+<P><DT><B>Session 24.</B>
+<A HREF=tocWednesday.html#Sess024>Disks, Bars & Halos</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, International Ballroom East</I>
+
+<P><DT><B>Session 25.</B>
+<A HREF=tocWednesday.html#Sess025>Seyfert Galaxies</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Georgetown</I>
+
+<P><DT><B>Session 26.</B>
+<A HREF=tocWednesday.html#Sess026>Neutrinos & Stellar Abundances</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Jefferson</I>
+
+<P><DT><B>Session 27.</B>
+<A HREF=tocWednesday.html#Sess027>Planets</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Lincoln</I>
+
+<P><DT><B>Session 28.</B>
+<A HREF=tocWednesday.html#Sess028>HAD II: Modern Astronomical History</A><DD>
+
+<I>Oral presentation, Wednesday, 10:00-11:30am, Monroe</I>
+
+<P><DT><B>Session 29.</B>
+<A HREF=tocWednesday.html#Sess029>Public Policy: D. Goldin</A><DD>
+
+<I>Invited presentation, Wednesday, 11:40am-12:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 30.</B>
+<A HREF=tocWednesday.html#Sess030>Space Astronomy in the Next Millennium</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 31.</B>
+<A HREF=tocWednesday.html#Sess031>Quasars</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, International Ballroom East</I>
+
+<P><DT><B>Session 32.</B>
+<A HREF=tocWednesday.html#Sess032>General ISM</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Georgetown</I>
+
+<P><DT><B>Session 33.</B>
+<A HREF=tocWednesday.html#Sess033>Comets & Asteroids</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Jefferson</I>
+
+<P><DT><B>Session 34.</B>
+<A HREF=tocWednesday.html#Sess034>New Results on the Nature of Eta Carinae</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Lincoln</I>
+
+<P><DT><B>Session 35.</B>
+<A HREF=tocWednesday.html#Sess035>HAD III: From Hamlet to Crop Circles</A><DD>
+
+<I>Oral presentation, Wednesday, 2:00-3:30pm, Monroe</I>
+
+<P><DT><B>Session 36.</B>
+<A HREF=tocWednesday.html#Sess036>Gamma Ray Bursts: Observations & Theory</A><DD>
+
+<I>Invited presentation, Wednesday, 3:40-5:10pm, International Ballroom Center</I>
+</DL>
+
+<H1>Thursday, January 8, 1998</H1>
+<DL>
+<P><DT><B>Session 37.</B>
+<A HREF=tocThursday.html#Sess037>Rossi Prize Lecture</A><DD>
+
+<I>Invited presentation, Thursday, 8:30-9:20am, International Ballroom Center</I>
+
+<P><DT><B>Session 38.</B>
+<A HREF=tocThursday.html#Sess038>HAD IV: Demographics, Alignments & Outreach</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 39.</B>
+<A HREF=tocThursday.html#Sess039>Supernovae</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 40.</B>
+<A HREF=tocThursday.html#Sess040>Supernova Remnants & SN 1987A</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 41.</B>
+<A HREF=tocThursday.html#Sess041>Visible & UV Telescopes</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 42.</B>
+<A HREF=tocThursday.html#Sess042>SIRTF</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 43.</B>
+<A HREF=tocThursday.html#Sess043>Variable Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 44.</B>
+<A HREF=tocThursday.html#Sess044>Double Stars</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 45.</B>
+<A HREF=tocThursday.html#Sess045>Eclipsing Binaries</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 46.</B>
+<A HREF=tocThursday.html#Sess046>Variable Stars - Late Type</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 47.</B>
+<A HREF=tocThursday.html#Sess047>Circumstellar Disks & Shells</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 48.</B>
+<A HREF=tocThursday.html#Sess048>Gamma Rays & X-ray Instrumentation</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 49.</B>
+<A HREF=tocThursday.html#Sess049>Elliptical Galaxies & Bulges</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 50.</B>
+<A HREF=tocThursday.html#Sess050>Interstellar Medium I</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 51.</B>
+<A HREF=tocThursday.html#Sess051>Interstellar Medium II</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 52.</B>
+<A HREF=tocThursday.html#Sess052>AXAF, X-ray, Gamma Ray Instruments</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 53.</B>
+<A HREF=tocThursday.html#Sess053>The X Clusters: Cooling Flows</A><DD>
+
+<I>Display presentation, Thursday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 54.</B>
+<A HREF=tocThursday.html#Sess054>Next Generation Space Telescope</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, International Ballroom Center</I>
+
+<P><DT><B>Session 55.</B>
+<A HREF=tocThursday.html#Sess055>Gamma Ray Burst Breakthrough</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, International Ballroom East</I>
+
+<P><DT><B>Session 56.</B>
+<A HREF=tocThursday.html#Sess056>BL Lacs & Blazars</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Georgetown</I>
+
+<P><DT><B>Session 57.</B>
+<A HREF=tocThursday.html#Sess057>Instrumentation & Information Science</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Jefferson</I>
+
+<P><DT><B>Session 58.</B>
+<A HREF=tocThursday.html#Sess058>Masters Programs: Ones that Work & Plans for the Future</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Lincoln</I>
+
+<P><DT><B>Session 59.</B>
+<A HREF=tocThursday.html#Sess059>Relativistic Astrophysics</A><DD>
+
+<I>Oral presentation, Thursday, 10:00-11:30am, Monroe</I>
+
+<P><DT><B>Session 60.</B>
+<A HREF=tocThursday.html#Sess060>Public Policy: A. Gore</A><DD>
+
+<I>Invited presentation, Thursday, 11:40am-12:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 61.</B>
+<A HREF=tocThursday.html#Sess061>Public Policy Panel</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 62.</B>
+<A HREF=tocThursday.html#Sess062>Dark Matter in Large Scale Structures</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, International Ballroom East</I>
+
+<P><DT><B>Session 63.</B>
+<A HREF=tocThursday.html#Sess063>Surveys of Galaxies</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Georgetown</I>
+
+<P><DT><B>Session 64.</B>
+<A HREF=tocThursday.html#Sess064>Telescopes for the Next Millennium</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Jefferson</I>
+
+<P><DT><B>Session 65.</B>
+<A HREF=tocThursday.html#Sess065>What are AAS Members Doing in Education?</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Lincoln</I>
+
+<P><DT><B>Session 66.</B>
+<A HREF=tocThursday.html#Sess066>Radio - Loud AGN & Extragalactic Jets</A><DD>
+
+<I>Oral presentation, Thursday, 2:00-3:30pm, Monroe</I>
+
+<P><DT><B>Session 67.</B>
+<A HREF=tocThursday.html#Sess067>Hubble Space Telescope: From the Interstellar Medium to Massive Black Holes</A><DD>
+
+<I>Invited presentation, Thursday, 3:40-5:10pm, International Ballroom Center</I>
+</DL>
+
+<H1>Friday, January 9, 1998</H1>
+<DL>
+<P><DT><B>Session 68.</B>
+<A HREF=tocFriday.html#Sess068>Invited Talk</A><DD>
+
+<I>Oral presentation, Friday, 8:30-9:20am, International Ballroom Center</I>
+
+<P><DT><B>Session 69.</B>
+<A HREF=tocFriday.html#Sess069>Instabilities in Planetary Systems</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 70.</B>
+<A HREF=tocFriday.html#Sess070>Planetary Systems Near & Far</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 71.</B>
+<A HREF=tocFriday.html#Sess071>Comets & Asteroids</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 72.</B>
+<A HREF=tocFriday.html#Sess072>Comet Hale-Bopp</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 73.</B>
+<A HREF=tocFriday.html#Sess073>Solar Space Observations, SOHO & SERTS</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 74.</B>
+<A HREF=tocFriday.html#Sess074>The Quiet & Active Sun</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 75.</B>
+<A HREF=tocFriday.html#Sess075>Dust & PAHs in Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 76.</B>
+<A HREF=tocFriday.html#Sess076>Star Formation in Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 77.</B>
+<A HREF=tocFriday.html#Sess077>Structures of Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 78.</B>
+<A HREF=tocFriday.html#Sess078>Seyfert Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 79.</B>
+<A HREF=tocFriday.html#Sess079>Star Clusters in Other Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 80.</B>
+<A HREF=tocFriday.html#Sess080>Star Clusters in the Milky Way</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 81.</B>
+<A HREF=tocFriday.html#Sess081>Dwarf Galaxies</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 82.</B>
+<A HREF=tocFriday.html#Sess082>Spirals & Irregulars</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 83.</B>
+<A HREF=tocFriday.html#Sess083>Gravitational Lensing</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 84.</B>
+<A HREF=tocFriday.html#Sess084>IGM</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 85.</B>
+<A HREF=tocFriday.html#Sess085>Cosmology: Observations</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 86.</B>
+<A HREF=tocFriday.html#Sess086>Cosmology: Theory</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 87.</B>
+<A HREF=tocFriday.html#Sess087>Large Scale Structure</A><DD>
+
+<I>Display presentation, Friday, 9:20am-6:30pm, Exhibit Hall</I>
+
+<P><DT><B>Session 88.</B>
+<A HREF=tocFriday.html#Sess088>Comet Hale-Bopp</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, International Ballroom Center</I>
+
+<P><DT><B>Session 89.</B>
+<A HREF=tocFriday.html#Sess089>Star-forming Galaxies</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, International Ballroom East</I>
+
+<P><DT><B>Session 90.</B>
+<A HREF=tocFriday.html#Sess090>High Energy Phenomena in AGNs</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, Georgetown</I>
+
+<P><DT><B>Session 91.</B>
+<A HREF=tocFriday.html#Sess091>COBE and the Search for the Cosmic Infrared Background</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, Jefferson</I>
+
+<P><DT><B>Session 92.</B>
+<A HREF=tocFriday.html#Sess092>Very Young Stars, T-Tauri Stars, H-H Objects</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, Lincoln</I>
+
+<P><DT><B>Session 93.</B>
+<A HREF=tocFriday.html#Sess093>Binary and Variable Stars</A><DD>
+
+<I>Oral presentation, Friday, 10:00-11:30am, Monroe</I>
+
+<P><DT><B>Session 94.</B>
+<A HREF=tocFriday.html#Sess094>Pierce Prize Lecture</A><DD>
+
+<I>Invited presentation, Friday, 11:40am-12:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 95.</B>
+<A HREF=tocFriday.html#Sess095>Cosmological Parameters and Large Scale Structure Formation</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 96.</B>
+<A HREF=tocFriday.html#Sess096>High-Throughput Spectroscopy & Imaging with XMM</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, International Ballroom East</I>
+
+<P><DT><B>Session 97.</B>
+<A HREF=tocFriday.html#Sess097>Galactic Structure, Galactic Center</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, Georgetown</I>
+
+<P><DT><B>Session 98.</B>
+<A HREF=tocFriday.html#Sess098>Globular Clusters</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, Jefferson</I>
+
+<P><DT><B>Session 99.</B>
+<A HREF=tocFriday.html#Sess099>Supernovae & Supernova Remnants</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, Lincoln</I>
+
+<P><DT><B>Session 100.</B>
+<A HREF=tocFriday.html#Sess100>Pulsars & X-ray Binaries</A><DD>
+
+<I>Oral presentation, Friday, 2:00-3:30pm, Monroe</I>
+
+<P><DT><B>Session 101.</B>
+<A HREF=tocFriday.html#Sess101>SOHO</A><DD>
+
+<I>Invited presentation, Friday, 3:40-5:10pm, International Ballroom Center</I>
+</DL>
+
+<H1>Saturday, January 10, 1998</H1>
+<DL>
+<P><DT><B>Session 102.</B>
+<A HREF=tocSaturday.html#Sess102>Hale Prize Lecture</A><DD>
+
+<I>Invited presentation, Saturday, 8:30-9:20am, International Ballroom Center</I>
+
+<P><DT><B>Session 103.</B>
+<A HREF=tocSaturday.html#Sess103>Quasars & Blazars</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 104.</B>
+<A HREF=tocSaturday.html#Sess104>Radio Galaxies, Radio Observations of AGN Jets & Outflows</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 105.</B>
+<A HREF=tocSaturday.html#Sess105>Galaxies: Counts & Kinematics</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 106.</B>
+<A HREF=tocSaturday.html#Sess106>Clusters of Galaxies</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 107.</B>
+<A HREF=tocSaturday.html#Sess107>The Galactic Center & Bulge</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 108.</B>
+<A HREF=tocSaturday.html#Sess108>The Galactic Stellar Disk & Halo</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 109.</B>
+<A HREF=tocSaturday.html#Sess109>Novae & Cataclysmic Variables</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 110.</B>
+<A HREF=tocSaturday.html#Sess110>X-ray, Binaries & Accretion Disks</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 111.</B>
+<A HREF=tocSaturday.html#Sess111>Pulsars</A><DD>
+
+<I>Display presentation, Saturday, 9:20am-4:00pm, Exhibit Hall</I>
+
+<P><DT><B>Session 112.</B>
+<A HREF=tocSaturday.html#Sess112>Early Universe & the CMB</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, International Ballroom Center</I>
+
+<P><DT><B>Session 113.</B>
+<A HREF=tocSaturday.html#Sess113>Neutron Stars & Pulsars</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, International Ballroom East</I>
+
+<P><DT><B>Session 114.</B>
+<A HREF=tocSaturday.html#Sess114>Circumstellar Material & Nebulae</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, Georgetown</I>
+
+<P><DT><B>Session 115.</B>
+<A HREF=tocSaturday.html#Sess115>Star Clusters & Dwarf Galaxies</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, Jefferson</I>
+
+<P><DT><B>Session 116.</B>
+<A HREF=tocSaturday.html#Sess116>Galaxy Clusters & Evolution</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, Lincoln</I>
+
+<P><DT><B>Session 117.</B>
+<A HREF=tocSaturday.html#Sess117>Infrared Space Observatory</A><DD>
+
+<I>Oral presentation, Saturday, 10:00-11:30am, Monroe</I>
+
+<P><DT><B>Session 118.</B>
+<A HREF=tocSaturday.html#Sess118>Warner Prize Lecture</A><DD>
+
+<I>Oral presentation, Saturday, 11:40am-12:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 119.</B>
+<A HREF=tocSaturday.html#Sess119>Gamma Ray Bursts</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, International Ballroom Center</I>
+
+<P><DT><B>Session 120.</B>
+<A HREF=tocSaturday.html#Sess120>The Sun</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, International Ballroom East</I>
+
+<P><DT><B>Session 121.</B>
+<A HREF=tocSaturday.html#Sess121>Molecular Clouds/Star Formation</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, Georgetown</I>
+
+<P><DT><B>Session 122.</B>
+<A HREF=tocSaturday.html#Sess122>Galaxies, Clusters of Galaxies & IGM</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, Jefferson</I>
+
+<P><DT><B>Session 123.</B>
+<A HREF=tocSaturday.html#Sess123>Galaxy Evolution: Dwarfs & Clusters</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, Lincoln</I>
+
+<P><DT><B>Session 124.</B>
+<A HREF=tocSaturday.html#Sess124>Elliptical Galaxies</A><DD>
+
+<I>Oral presentation, Saturday, 2:00-3:30pm, Monroe</I>
