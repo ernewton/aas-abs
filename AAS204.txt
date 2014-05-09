@@ -1,0 +1,405 @@
+<!-- TDB section list -->
+<link rel="stylesheet" href="http://www.aas.org/styles/baassl.css" type="text/css">
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session List</TITLE></HEAD>
+<BODY>
+<H1>Session List</H1>
+
+<B>AAS 204th Meeting, June 2004</B><BR>
+<A HREF="AuthorIndex.htm">Author index</A> &nbsp; | &nbsp;
+<a href="http://www.aas.org/meetings/aas204/program/denverblock.pdf">PDF Block Schedule</A> &nbsp; | &nbsp;
+<a href="http://www.aas.org/meetings/aas204/program/spddenvertimeline.pdf">SPD PDF Block Schedule</A> &nbsp; | &nbsp;
+ <a href="/meetings/aas204/program/denverblock.htm">Block Schedule</a><br>
+All findings are <b><a href="http://www.aas.org/~press/index.html">embargoed</a></b> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red</FONT></td>
+<td><FONT COLOR="#CC0000">=</FONT> </td>
+<td><FONT COLOR="#CC0000">Invited Talks</FONT></td>
+</tr><tr>
+<td><FONT COLOR="#009900">green</FONT></td>
+<td><FONT COLOR="#009900">=</FONT> </td>
+<td><FONT COLOR="#009900">Special Sessions</FONT></td>
+</tr><tr>
+<td><FONT COLOR="#FF6600">orange</FONT></td>
+<td><FONT COLOR="#FF6600">=</FONT></td>
+<td><FONT COLOR="#FF6600">Topical Sessions</FONT></td>
+</tr><tr>
+<td><FONT COLOR="#CC33CC">purple</FONT></td>
+<td><FONT COLOR="#CC33CC">=</FONT></td>
+<td><FONT COLOR="#CC33CC">Solar Physics Division Sessions</FONT></td>
+</tr></table>
+
+<P><HR>
+<DL>
+<P>
+<DT><A HREF="S1.htm">College Astronomy Teaching Workshop</A>
+<DD><I>Education, Saturday, 9:00am-5:00pm, Mt. Evans A, Hyatt Hotel</I>
+<P>
+<DT><A HREF="S2.htm">Mt. Evans Observatory Tour/Open House</A>
+<DD><I>Special Event, Sunday, 9:00am-4:00pm, Tour vans leave from convention hotels</I>
+<P>
+<DT><A HREF="S3.htm">SPD Hike, NCAR to Woods Quarry</A>
+<DD><I>Special Event, Sunday, noon, Busses provided</I>
+<P>
+<DT><A HREF="S4.htm">Deep Impact (DI) Professional Collaborators' Workshop</A>
+<DD><I>Sunday, 12:30-6:00pm, Mt. Evans B, Hyatt Hotel</I>
+<P>
+<DT><A HREF="S5.htm">Astro 101 - The Graduate Instructor and Undergraduate Preceptor</A>
+<DD><I>Education, Sunday, 2:30-5:30pm, Denver Ballroom III, Marriott Hotel</I>
+<P>
+<DT><A HREF="S6.htm">Undergraduate Orientation</A>
+<DD><I>Student Event, Sunday, 6:00-7:00pm, 707/709</I>
+<P>
+<DT><A HREF="S7.htm">Opening Reception</A>
+<DD><I>Social Event, Sunday, 7:00-10:00pm, Ballroom Pre-Functon Area</I>
+<P>
+<DT><A HREF="S8.htm">Welcoming Address</A>
+<DD><I>Dr. Jack Burns, Vice President for Academic Affairs and Research, University of Colorado, Monday, 8:15-8:30am, 603/605/607</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 1.</B></FONT>&nbsp;<A HREF="S10.htm">Formation and Migration of Extrasolar Planets</A>
+<DD><I>Invited, Monday, 8:30-9:20am, 603/605/607</I>
+<P>
+<DT><A HREF="S11.htm">Job Center</A>
+<DD><I>Career, Monday, 9:00am-5:00pm, Ballroom</I>
+<P>
+<DT><A HREF="S12.htm">Cyber Cafe</A>
+<DD><I>Monday, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 2.</B></FONT>&nbsp;<A HREF="S20.htm">When the Sun Went Wild</A>
+<DD><I>SPD Topical Related Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 3.</B></FONT>&nbsp;<A HREF="S30.htm">Stellar-Solar Connection</A>
+<DD><I>SPD Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 4.</B></FONT>&nbsp;<A HREF="S40.htm">Plasma Astrophysics of Coronae</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 5.</B></FONT>&nbsp;<A HREF="S50.htm">Eclipsing Binaries and Friends</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 6.</B></FONT>&nbsp;<A HREF="S60.htm">Stars: Winkin' and Blinkin'</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 7.</B></FONT>&nbsp;<A HREF="S70.htm">A Walk Through the HR Diagram</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 8.</B></FONT>&nbsp;<A HREF="S80.htm">UV/Optical Universe at Ultra-High Angular Resolution</A>
+<DD><I>Topical Realted Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 9.</B></FONT>&nbsp;<A HREF="S90.htm">Clusters of Galaxies</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 10.</B></FONT>&nbsp;<A HREF="S100.htm">Instrumentation, Ground-based</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 11.</B></FONT>&nbsp;<A HREF="S110.htm">Instrumentation, Space Missions</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 12.</B></FONT>&nbsp;<A HREF="S120.htm">Undergraduate Astronomy Curriculum</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 13.</B></FONT>&nbsp;<A HREF="S130.htm">RFI Mitigation and Light Pollution Issues</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Ballroom</I>
+<P>
+<DT><FONT color="#009900"><B>Session 14.</B></FONT>&nbsp;<A HREF="S140.htm">Multi-wavelength Astronomy and SDSS</A>
+<DD><I>Special Session, Monday, 10:00-11:30am, 603/605/607</I>
+<P>
+<DT><FONT color><B>Session 15.</B></FONT>&nbsp;<A HREF="S150.htm">Diffuse Media Galactic and Intergalactic</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 601</I>
+<P>
+<DT><FONT color="#009900"><B>Session 16.</B></FONT>&nbsp;<A HREF="S160.htm">Interactive Education and Peer Instruction in Introductory Courses</A>
+<DD><I>Special Session, Monday, 10:00-11:30am, 707/709</I>
+<P>
+<DT><FONT color><B>Session 17.</B></FONT>&nbsp;<A HREF="S170.htm">Galaxies Including Our Own</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 710/712</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 18.</B></FONT>&nbsp;<A HREF="S180.htm">Coronal Mass Ejections</A>
+<DD><I>SPD Oral, Monday, 10:00-11:30am, 704</I>
+<P>
+<DT><FONT color><B>Session 19.</B></FONT>&nbsp;<A HREF="S190.htm">Astronomy Education</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 20.</B></FONT>&nbsp;<A HREF="S200.htm">Magnetic Fields</A>
+<DD><I>SPD Oral, Monday, 10:00-11:30am, 702</I>
+<P>
+<DT><FONT color><B>Session 21.</B></FONT>&nbsp;<A HREF="S210.htm">Moon, Mercury, Vesta and Late Stellar Evolution</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 610/612</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 22.</B></FONT>&nbsp;<A HREF="S220.htm">Pierce Prize Lecture: X-raying Active Galaxies</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, 603/605/607</I>
+<P>
+<DT><A HREF="S222.htm">SPD Women's Lunch</A>
+<DD><I>Monday, 12:30-1:45pm, 708</I>
+<P>
+<DT><A HREF="S225.htm">National Science Foundation</A>
+<DD><I>Town Meeting, Monday, 1:00-2:00pm, 710/712</I>
+<P>
+<DT><FONT color><B>Session 23.</B></FONT>&nbsp;<A HREF="S230.htm">Radio and X-ray Studies of AGN</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 603/605/607</I>
+<P>
+<DT><FONT color><B>Session 24.</B></FONT>&nbsp;<A HREF="S240.htm">Protoplanetary Disks and the Brown Dwarf Desert</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 601</I>
+<P>
+<DT><FONT color="#009900"><B>Session 25.</B></FONT>&nbsp;<A HREF="S250.htm">The UV/Optical Universe at Ulta-High Angular Resolution</A>
+<DD><I>Special Session, Monday, 2:00-3:30pm, 707/709</I>
+<P>
+<DT><FONT color="#009900"><B>Session 26.</B></FONT>&nbsp;<A HREF="S260.htm">Followup to Workshop for New Faculty in Physics and Astronomy</A>
+<DD><I>Special Session, Monday, 2:00-3:30pm, 710/712</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 27.</B></FONT>&nbsp;<A HREF="S270.htm">Magnetic Reconnection Flares and CMEs</A>
+<DD><I>SPD Oral, Monday, 2:00-3:30pm, 704</I>
+<P>
+<DT><FONT color="#009900"><B>Session 28.</B></FONT>&nbsp;<A HREF="S280.htm">The Reference System Resolutions of the IAU</A>
+<DD><I>Special Session, Monday, 2:00-3:30pm, 706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 29.</B></FONT>&nbsp;<A HREF="S290.htm">The Solar Corona and Beyond</A>
+<DD><I>SPD Oral, Monday, 2:00-3:30pm, 702</I>
+<P>
+<DT><FONT color="#009900"><B>Session 30.</B></FONT>&nbsp;<A HREF="S300.htm">Radio Frequency Interference</A>
+<DD><I>Special Session, Monday, 2:00-3:30pm, 610/612</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 31.</B></FONT>&nbsp;<A HREF="S310.htm">Hale Prize Lecture: The High Energy Sun</A>
+<DD><I>Invited, Monday, 3:40-4:30pm, 603/605/607</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 32.</B></FONT>&nbsp;<A HREF="S320.htm">The Sun's Control of Earth's Astronomical Neighborhood</A>
+<DD><I>Invited, Monday, 4:30-5:20pm, 603/605/607</I>
+<P>
+<DT><A HREF="S325.htm">Chamberlin Observatory Reception</A>
+<DD><I>Special Event, Monday, 7:00-10:00pm, Busses leave from conventions hotels</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 33.</B></FONT>&nbsp;<A HREF="S330.htm">Early Science Results from the Spitzer Space Telescope</A>
+<DD><I>Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 601</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 34.</B></FONT>&nbsp;<A HREF="S340.htm">Detecting the First Stars and AGN</A>
+<DD><I>Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 707/709</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 35.</B></FONT>&nbsp;<A HREF="S350.htm">Professional-Amateur Collaboration for Enhanced Research</A>
+<DD><I>Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 710/712</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 36.</B></FONT>&nbsp;<A HREF="S360.htm">Stellar-Solar Connection: What the Stars Teach Us about Our Sun</A>
+<DD><I>SPD Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 702/704/706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 37.</B></FONT>&nbsp;<A HREF="S370.htm">Solar Magnetic Fields and the Photosphere</A>
+<DD><I>SPD Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 38.</B></FONT>&nbsp;<A HREF="S380.htm">Coronal Mass Ejections</A>
+<DD><I>SPD Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 39.</B></FONT>&nbsp;<A HREF="S390.htm">Solar Magnetic Fields and Activity</A>
+<DD><I>SPD Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 40.</B></FONT>&nbsp;<A HREF="S400.htm">Galaxies</A>
+<DD><I>Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 41.</B></FONT>&nbsp;<A HREF="S410.htm">Spitzer Space Telescope</A>
+<DD><I>Topical Related Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 42.</B></FONT>&nbsp;<A HREF="S420.htm">Cosmology and Lensing</A>
+<DD><I>Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 43.</B></FONT>&nbsp;<A HREF="S430.htm">Galaxy Surveys and Galaxy Clusters</A>
+<DD><I>Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 44.</B></FONT>&nbsp;<A HREF="S440.htm">Active Galaxies</A>
+<DD><I>Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 45.</B></FONT>&nbsp;<A HREF="S450.htm">The Galaxy and The Magellanic Clouds</A>
+<DD><I>Poster, Tuesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><A HREF="S455.htm">Special Address by Sean O'Keefe, NASA Administrator</A>
+<DD><I>Town Meeting, Tuesday, 1:00-2:00pm, 603/605/607</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 46.</B></FONT>&nbsp;<A HREF="S460.htm">Plasma Astrophysics of Coronae: Solar, Stellar and Accretion Disk</A>
+<DD><I>Topical Session, Tuesday, 2:30-4:00pm, 4:15-6:00pm, 710/712</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 47.</B></FONT>&nbsp;<A HREF="S470.htm">When the Sun Went Wild</A>
+<DD><I>Topical Session, Tuesday, 2:30-4:00pm, 4:15-6:00pm, 702/704/706</I>
+<P>
+<DT><A HREF="S475.htm">Graduate Student -- Employer Networking</A>
+<DD><I>Career, Tuesday, 7:00-8:00pm, Lobby C</I>
+<P>
+<DT><A HREF="S477.htm">SPD Membership Meeting</A>
+<DD><I>Tuesday, 7:00-10:00pm, Room TBA</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 48.</B></FONT>&nbsp;<A HREF="S480.htm">Galaxy Evolution and Galaxy Clustering in the NDWFS' Bootes Field</A>
+<DD><I>Topical Session, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 603/605/607</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 49.</B></FONT>&nbsp;<A HREF="S490.htm">X-ray Binary and ULX Populations in Nearby Galaxies</A>
+<DD><I>Topical Session, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 601</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 50.</B></FONT>&nbsp;<A HREF="S500.htm">AGN Mass Ejection and X-ray/UV Connection</A>
+<DD><I>Topical Session, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 707/709</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 51.</B></FONT>&nbsp;<A HREF="S510.htm">Improving Our Understanding of Solar and Stellar Coronae</A>
+<DD><I>SPD Topical Session, Wednesday, 8:30-10:00am, 704/706</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 52.</B></FONT>&nbsp;<A HREF="S520.htm">Virtual Observations in Solar Physics</A>
+<DD><I>SPD Topical Session, Wednesday, 10:45am-12:30pm, 704/706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 53.</B></FONT>&nbsp;<A HREF="S530.htm">Solar Interior</A>
+<DD><I>SPD Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 54.</B></FONT>&nbsp;<A HREF="S540.htm">Solar Flares</A>
+<DD><I>SPD Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 55.</B></FONT>&nbsp;<A HREF="S550.htm">Prominences</A>
+<DD><I>SPD Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 56.</B></FONT>&nbsp;<A HREF="S560.htm">Solar Active Regions and Coronal Heating</A>
+<DD><I>SPD Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 57.</B></FONT>&nbsp;<A HREF="S570.htm">Historical Astronomy</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 58.</B></FONT>&nbsp;<A HREF="S580.htm">Astronomy Education Research</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 59.</B></FONT>&nbsp;<A HREF="S590.htm">Galactic Center</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 60.</B></FONT>&nbsp;<A HREF="S600.htm">Quasars</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 61.</B></FONT>&nbsp;<A HREF="S610.htm">Structures in the Interstellar Medium</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 62.</B></FONT>&nbsp;<A HREF="S620.htm">Protoplanets, Star Formation and Debris Disks</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 63.</B></FONT>&nbsp;<A HREF="S630.htm">Exploding Stars</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 64.</B></FONT>&nbsp;<A HREF="S640.htm">The Hazardous Solar System and Other Objects</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Ballroom</I>
+<P>
+<DT><A HREF="S642.htm">ATST Lunch</A>
+<DD><I>Wednesday, 12:30-1:30pm, 612</I>
+<P>
+<DT><A HREF="S645.htm">AAS Members Meeting</A>
+<DD><I>Annual Event, Wednesday, 1:30-2:30pm, 707/709</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 65.</B></FONT>&nbsp;<A HREF="S650.htm">Galaxy Structure and its Evolution</A>
+<DD><I>Topical Session, Wednesday, 2:30-4:00pm, 4:15-6:00pm, 603/605/607</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 66.</B></FONT>&nbsp;<A HREF="S660.htm">Mars Down to Earth</A>
+<DD><I>Topical Session, Wednesday, 2:30-4:00pm, 4:15-6:00pm, 707/709</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 67.</B></FONT>&nbsp;<A HREF="S670.htm">Solar Input to the Heliosphere</A>
+<DD><I>SPD Topical Session, Wednesday, 2:30-4:00pm, 4:15-6:00pm, 704/706</I>
+<P>
+<DT><A HREF="S675.htm">Society Banquet</A>
+<DD><I>Special Event, Wednesday, 7:00-10:30pm, Denver Museum of Nature and Science</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 68.</B></FONT>&nbsp;<A HREF="S680.htm">Hidden Losses</A>
+<DD><I>Invited, Thursday, 8:30-9:20am, 603/605/607</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 69.</B></FONT>&nbsp;<A HREF="S690.htm">New Solar Instrumentation</A>
+<DD><I>SPD Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 70.</B></FONT>&nbsp;<A HREF="S700.htm">Virtual Solar Observatory</A>
+<DD><I>SPD Topical Related Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 71.</B></FONT>&nbsp;<A HREF="S710.htm">Large-Scale Features of the Solar Corona</A>
+<DD><I>SPD Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 72.</B></FONT>&nbsp;<A HREF="S720.htm">Solar Input to the Heliosphere</A>
+<DD><I>SPD Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 73.</B></FONT>&nbsp;<A HREF="S730.htm">Solar and Stellar Coronae</A>
+<DD><I>SPD Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 74.</B></FONT>&nbsp;<A HREF="S740.htm">Stellar Leftovers</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 75.</B></FONT>&nbsp;<A HREF="S750.htm">Surveys, Catalogs and Databases</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 76.</B></FONT>&nbsp;<A HREF="S760.htm">Data Handling, Computation</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 77.</B></FONT>&nbsp;<A HREF="S770.htm">Astronomy for K-12</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 78.</B></FONT>&nbsp;<A HREF="S780.htm">Informal Astronomy Programs</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 79.</B></FONT>&nbsp;<A HREF="S790.htm">Intergalactic Gas</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 80.</B></FONT>&nbsp;<A HREF="S800.htm">Nearby Galaxies</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 81.</B></FONT>&nbsp;<A HREF="S810.htm">Herschel FIR/Sub-mm Astronomy Mission</A>
+<DD><I>Special Session Related Poster, Thursday, 9:20am-4:00pm, Ballroom</I>
+<P>
+<DT><FONT color><B>Session 82.</B></FONT>&nbsp;<A HREF="S820.htm">Star Formation and Early Results from Spitzer</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 603/605/607</I>
+<P>
+<DT><FONT color="#009900"><B>Session 83.</B></FONT>&nbsp;<A HREF="S830.htm">The Astronomy Workforce</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 601</I>
+<P>
+<DT><FONT color="#009900"><B>Session 84.</B></FONT>&nbsp;<A HREF="S840.htm">New Ways of Teaching College Astronomy -- Practical Advice and Results</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 707/709</I>
+<P>
+<DT><FONT color="#009900"><B>Session 85.</B></FONT>&nbsp;<A HREF="S850.htm">What's New with Old Variable Stars?</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 710/712</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 86.</B></FONT>&nbsp;<A HREF="S860.htm">Harvey Prize</A>
+<DD><I>SPD Invited, Thursday, 10:00-10:30am, 704/706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 87.</B></FONT>&nbsp;<A HREF="S870.htm">Flares</A>
+<DD><I>SPD Oral, Thursday, 10:30-11:30am, 704/706</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 88.</B></FONT>&nbsp;<A HREF="S880.htm">Solar Photosphere and Below</A>
+<DD><I>SPD Oral, Thursday, 10:30-11:30am, 702</I>
+<P>
+<DT><FONT color="#009900"><B>Session 89.</B></FONT>&nbsp;<A HREF="S890.htm">Obtrusive Nighttime Lighting</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 2:00-3:30pm, 610/612</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 90.</B></FONT>&nbsp;<A HREF="S900.htm">Cosmological Parameters and Beyond</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, 603/605/607</I>
+<P>
+<DT><A HREF="S905.htm">Status of Women in Astronomy</A>
+<DD><I>Committee, Thursday, 1:00-2:00pm, 601</I>
+<P>
+<DT><FONT color><B>Session 91.</B></FONT>&nbsp;<A HREF="S910.htm">Young Galaxies and Evolution in the Early Universe</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, 603/605/607</I>
+<P>
+<DT><FONT color><B>Session 92.</B></FONT>&nbsp;<A HREF="S920.htm">Diagnosing AGN</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, 601</I>
+<P>
+<DT><FONT color="#009900"><B>Session 93.</B></FONT>&nbsp;<A HREF="S930.htm">The Herschel Far-Infrared Submillimeter Astronomy Mission</A>
+<DD><I>Special Session, Thursday, 2:00-3:30pm, 707/709</I>
+<P>
+<DT><FONT color="#009900"><B>Session 94.</B></FONT>&nbsp;<A HREF="S940.htm">Cool Astronomy for Everyone</A>
+<DD><I>Special Session, Thursday, 2:00-3:30pm, 710/712</I>
+<P>
+<DT><FONT color="#CC33CC"><B>Session 95.</B></FONT>&nbsp;<A HREF="S950.htm">Coronal Heating Theory and Observations</A>
+<DD><I>SPD Oral, Thursday, 2:00-3:30pm, 704</I>
+<P>
+<DT><FONT color="#009900"><B>Session 96.</B></FONT>&nbsp;<A HREF="S960.htm">Teaching Astronomy to Impact World Views</A>
+<DD><I>Special Session, Thursday, 2:00-3:30pm, 706</I>
+<P>
+<DT><FONT color><B>Session 97.</B></FONT>&nbsp;<A HREF="S970.htm">Instrumentation, Ground-based and Space-based Gamma Ray Bursts</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, 702</I>
+<P>
+<DT><A HREF="S975.htm">NASA Origins Missions \& Astrobiology</A>
+<DD><I>Education, Thursday, 3:45-5:45pm, 710/712</I>
+<P>
+<DT><A HREF="S976.htm">When We Were Young: Early Life on Venus, Earth and Mars</A>
+<DD><I>Public Lecture, Thursday, 7:30-9:00pm, 603/605/607</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author index]</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+

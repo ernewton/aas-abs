@@ -1,0 +1,455 @@
+<!-- TDB section list -->
+<link rel="stylesheet" href="http://www.aas.org/styles/baassl.css" type="text/css">
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session List</TITLE></HEAD>
+<BODY>
+
+<H1>Session List</H1>
+
+<B>AAS 203rd Meeting, January 2004</B><BR>
+<A HREF="AuthorIndex.htm">[Author Index]</A> 
+<a href="atlantablock.pdf">[PDF Block Schedule]</A><br>
+All findings are <b>embargoed</b> until the time of presentation at the
+meeting.
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red</FONT>
+<td><FONT COLOR="#CC0000">=</FONT> 
+<td><FONT COLOR="#CC0000">Invited Talks</FONT>
+<tr>
+<td><FONT COLOR="#009900">green</FONT>
+<td><FONT COLOR="#009900">=</FONT> 
+<td><FONT COLOR="#009900">Special Sessions</FONT>
+<tr>
+<td><FONT COLOR="#CC33CC">purple</FONT>
+<td><FONT COLOR="#CC33CC">=</FONT>
+<td><FONT COLOR="#CC33CC">Historical Astronomy Division Sessions</FONT>
+<tr>
+<td><FONT COLOR="#FF6600">orange</FONT>
+<td><FONT COLOR="#FF6600">=</FONT>
+<td><FONT COLOR="#FF6600">High Energy Astrophysics Division Sessions</FONT>
+</table>
+
+<P><HR>
+<DL>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 1.</B></FONT>&nbsp;<A HREF="S10.htm"><FONT COLOR="#CC33CC">HAD I:</FONT> Transit of Venus</A>
+<DD><I>Division Special Session, Sunday, 2:00-5:00pm, Courtland</I>
+<P>
+<DT>Opening Remarks. Caty Pilachowski, AAS President, Indiana University
+<DD><I>Monday, 8:15-8:30am, Centenial I/II</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 2.</B></FONT>&nbsp;<A HREF="S20.htm">Astronomical Research</A>
+<DD><I>Invited, Monday, 8:30-9:20am, Centennial I/II</I>
+<P>
+<DT><B>Session 3.</B>&nbsp;<A HREF="S30.htm">Space Missions: Planet Finding, Astrobiology and Others</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 4.</B>&nbsp;<A HREF="S40.htm">Computation, Data Handling and Image Analysis</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 5.</B>&nbsp;<A HREF="S50.htm">T Tauri Stars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 6.</B>&nbsp;<A HREF="S60.htm">Brown Dwarf Stars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 7.</B>&nbsp;<A HREF="S70.htm">Star Formation</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 8.</B>&nbsp;<A HREF="S80.htm">Delta Scuti and Mira Variables</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 9.</B>&nbsp;<A HREF="S90.htm">Variable Star Databases</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 10.</B>&nbsp;<A HREF="S100.htm">Young Star Clusters</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 11.</B>&nbsp;<A HREF="S110.htm">Planetary Nebulae</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 12.</B>&nbsp;<A HREF="S120.htm">Eclipsing Binary Stars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 13.</B>&nbsp;<A HREF="S130.htm">Disks Around Young Stars</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 14.</B>&nbsp;<A HREF="S140.htm">Open Clusters</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 15.</B>&nbsp;<A HREF="S150.htm">Comets, Kuiper Belt and Trans-Neptunian Objects</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 16.</B>&nbsp;<A HREF="S160.htm">Asteroids, Planets and Planetary Satellites</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 17.</B>&nbsp;<A HREF="S170.htm">Extra Solar Planets</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 18.</B>&nbsp;<A HREF="S180.htm">Solar Physics</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 19.</B>&nbsp;<A HREF="S190.htm">Focus on Undergraduate Astronomy</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 20.</B>&nbsp;<A HREF="S200.htm">Accessing Data Bases</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 21.</B>&nbsp;<A HREF="S210.htm">Astronomy Education Research</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 22.</B>&nbsp;<A HREF="S220.htm">First Results from the Space Infrared Telescope Facility (SIRTF)</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 23.</B>&nbsp;<A HREF="S230.htm">Quasars, Blazars and Jets</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Centennial I/II</I>
+<P>
+<DT><B>Session 24.</B>&nbsp;<A HREF="S240.htm">Observatories and Observing Conditions: Optical to X-rays</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Centennial III</I>
+<P>
+<DT><B>Session 25.</B>&nbsp;<A HREF="S250.htm">Young Stars and Clusters</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Centennial IV</I>
+<P>
+<DT><B>Session 26.</B>&nbsp;<A HREF="S260.htm">Galaxy Evolution</A>
+<DD><I>Oral, Monday, 10:00-11:30am, Regency VII</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 27.</B></FONT>&nbsp;<A HREF="S270.htm">Committee on the Status of Minorities in Astronomy</A>
+<DD><I>Committee Special Session, Monday, 10:00-11:30am, Regency VI</I>
+<P>
+<DT><B>Session 28.</B>&nbsp;<A HREF="S280.htm"><FONT COLOR="#CC33CC">HAD II</FONT></A>
+<DD><I>Division Oral, Monday, 10:00-11:30am, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 29.</B></FONT>&nbsp;<A HREF="S290.htm">Doggett Prize Lecture</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 30.</B>&nbsp;<A HREF="S300.htm">Galaxy Clusters and Large Scale Structure I</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 31.</B>&nbsp;<A HREF="S310.htm">X-ray Observations</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Centennial III</I>
+<P>
+<DT><B>Session 32.</B>&nbsp;<A HREF="S320.htm">Spiral Galaxies</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Centennial IV</I>
+<P>
+<DT><B>Session 33.</B>&nbsp;<A HREF="S330.htm">Young Stars</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, Regency VII</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 34.</B></FONT>&nbsp;<A HREF="S340.htm">Cool Astronomy for Everyone</A>
+<DD><I>Education Special Session, Monday, 2:00-3:30pm, Regency VI</I>
+<P>
+<DT><B>Session 35.</B>&nbsp;<A HREF="S350.htm"><FONT COLOR="#CC33CC">HAD III</FONT></A>
+<DD><I>Division Oral, Monday, 2:00-3:30pm, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 36.</B></FONT>&nbsp;<A HREF="S360.htm">Our Solar System Neighbors</A>
+<DD><I>Invited, Monday, 3:40-5:10pm, Centennial I/II</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 37.</B></FONT>&nbsp;<A HREF="S370.htm">RECONS</A>
+<DD><I>Invited, Tuesday, 8:30-9:20am, Centennial I/II</I>
+<P>
+<DT><B>Session 38.</B>&nbsp;<A HREF="S380.htm">Observation and Instrumentation : Optical</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 39.</B>&nbsp;<A HREF="S390.htm">Supernova Remnants</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 40.</B>&nbsp;<A HREF="S400.htm">Observations and Instrumentation: Non-Optical</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 41.</B>&nbsp;<A HREF="S410.htm">Warm-Hot IM</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 42.</B>&nbsp;<A HREF="S420.htm">Nearby Stars: Binaries, Theory and the Future</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 43.</B>&nbsp;<A HREF="S430.htm">Nearby Stars: Observations</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 44.</B>&nbsp;<A HREF="S440.htm">Cataclysmic Variables, Novae</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 45.</B>&nbsp;<A HREF="S450.htm">Supernovae</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 46.</B>&nbsp;<A HREF="S460.htm">Instrumentation for HST and Sirtf</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 47.</B>&nbsp;<A HREF="S470.htm">Galaxy Clusters and Large-Scale Structure</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 48.</B>&nbsp;<A HREF="S480.htm">Fully Employed Stars</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 49.</B>&nbsp;<A HREF="S490.htm">Stars Looking Forward to Retirement</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 50.</B>&nbsp;<A HREF="S500.htm">Galaxy Surveys: Sub-mm to Radio</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 51.</B>&nbsp;<A HREF="S510.htm">Galaxy Groups and Nearby Clusters</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 52.</B>&nbsp;<A HREF="S520.htm">Globular Clusters</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 53.</B>&nbsp;<A HREF="S530.htm">Pulsars and Other Neutron Stars</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 54.</B>&nbsp;<A HREF="S540.htm">White Dwarf Stars</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 55.</B>&nbsp;<A HREF="S550.htm">AGN and Starburst Galaxies</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 56.</B>&nbsp;<A HREF="S560.htm">Seyfert, FRI and FRII Galaxies</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 57.</B>&nbsp;<A HREF="S570.htm">Source Surveys</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 58.</B>&nbsp;<A HREF="S580.htm">Eta Carinae</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 59.</B>&nbsp;<A HREF="S590.htm">Get'em Hooked: Pre-college Astronomy</A>
+<DD><I>Poster, Tuesday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 60.</B></FONT>&nbsp;<A HREF="S600.htm">Nearby Star I</A>
+<DD><I>Special Session, Tuesday, 10:00-11:30am, Centennial I/II</I>
+<P>
+<DT><B>Session 61.</B>&nbsp;<A HREF="S610.htm">Galaxy Clusters and Large Scale Structure II</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Centennial III</I>
+<P>
+<DT><B>Session 62.</B>&nbsp;<A HREF="S620.htm">HETE and Other Clues to GRBs</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Centennial IV</I>
+<P>
+<DT><B>Session 63.</B>&nbsp;<A HREF="S630.htm">AGN</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Regency VII</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 64.</B></FONT>&nbsp;<A HREF="S640.htm">The Warm-Hot Intergalactic Medium: The Main Baryon Reservoir in the Local Universe</A>
+<DD><I>Special Session, Tuesday, 10:00-11:30am, Regency VI</I>
+<P>
+<DT><B>Session 65.</B>&nbsp;<A HREF="S650.htm">Galaxies</A>
+<DD><I>Oral, Tuesday, 10:00-11:30am, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 66.</B></FONT>&nbsp;<A HREF="S660.htm">Cosmic Convergence:  Particles, Stars, and the Universe</A>
+<DD><I>Public Policy Invited, Tuesday, 11:40am-12:30pm, Centennial I/II</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 67.</B></FONT>&nbsp;<A HREF="S670.htm">Nearby Star II</A>
+<DD><I>Special Session, Tuesday, 2:00-3:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 68.</B>&nbsp;<A HREF="S680.htm">Galaxy Clusters and Large Scale Structure III</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Centennial III</I>
+<P>
+<DT><B>Session 69.</B>&nbsp;<A HREF="S690.htm">The High Z Universe</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Centennial IV</I>
+<P>
+<DT><B>Session 70.</B>&nbsp;<A HREF="S700.htm">Interstellar Medium</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Regency VII</I>
+<P>
+<DT><B>Session 71.</B>&nbsp;<A HREF="S710.htm">Molecular Cloud Cores</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Regency VI</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 72.</B></FONT>&nbsp;<A HREF="S720.htm">Science Policy from the Inside</A>
+<DD><I>Special Session, Tuesday, 2:00-3:30pm, Regency V</I>
+<P>
+<DT><B>Session 73.</B>&nbsp;<A HREF="S730.htm">White Dwarfs and Neutron Stars</A>
+<DD><I>Oral, Tuesday, 2:00-3:30pm, Learning Center</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 74.</B></FONT>&nbsp;<A HREF="S740.htm">Young Substellar Objects</A>
+<DD><I>Invited, Tuesday, 3:40-5:10pm, Centennial I/II</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 75.</B></FONT>&nbsp;<A HREF="S750.htm">Rossi Prize Lectures: Magnetars</A>
+<DD><I>Invited, Wednesday, 8:30-9:20am, Centennial I/II</I>
+<P>
+<DT><B>Session 76.</B>&nbsp;<A HREF="S760.htm">HII Regions</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 77.</B>&nbsp;<A HREF="S770.htm">Jets and Outflows and X-Rays from Young Stars</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 78.</B>&nbsp;<A HREF="S780.htm">Quasars and QSOs</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 79.</B>&nbsp;<A HREF="S790.htm">Blazars</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 80.</B>&nbsp;<A HREF="S800.htm">Gamma Ray Bursts</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 81.</B>&nbsp;<A HREF="S810.htm">Black Holes</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 82.</B>&nbsp;<A HREF="S820.htm">Mass and Energy Matters</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 83.</B>&nbsp;<A HREF="S830.htm">Stars Variable in Light</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 84.</B>&nbsp;<A HREF="S840.htm">Binary Stars</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 85.</B>&nbsp;<A HREF="S850.htm">Stellar Structure, Evolution and Abundances</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 86.</B>&nbsp;<A HREF="S860.htm">Education: NASA's Great Observatories</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 87.</B>&nbsp;<A HREF="S870.htm"><FONT COLOR="#FF6600">HEAD:</FONT> GRBs and Intermediate Black Holes</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 88.</B>&nbsp;<A HREF="S880.htm">Bl-Lac-Ish Objects</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 89.</B>&nbsp;<A HREF="S890.htm">Galaxy Clusters at High Redshift</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 90.</B>&nbsp;<A HREF="S900.htm">Galaxy Evolution with HST, CXO and SIRTF</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 91.</B>&nbsp;<A HREF="S910.htm">Galaxy Surveys</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 92.</B>&nbsp;<A HREF="S920.htm">Astrophysical Jets and Radio Galaxies</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Grand Hall</I>
+<P>
+<DT><B>Session 93.</B>&nbsp;<A HREF="S930.htm">Stars, Their Facts and Legends</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><B>Session 94.</B>&nbsp;<A HREF="S940.htm">Embedded Protostars</A>
+<DD><I>Poster, Wednesday, 9:20am-6:30pm, Hanover Hall</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 95.</B></FONT>&nbsp;<A HREF="S950.htm"><FONT COLOR="#FF6600">HEAD I:</FONT> Gamma-Ray Bursts</A>
+<DD><I>Division Special Session, Wednesday, 10:00-11:30am, Centennial I/II</I>
+<P>
+<DT><B>Session 96.</B>&nbsp;<A HREF="S960.htm">GALEX I: The Mission and Early Type Galaxies</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Centennial III</I>
+<P>
+<DT><B>Session 97.</B>&nbsp;<A HREF="S970.htm">Gas and Dust in Galaxies and the IGM</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Centennial IV</I>
+<P>
+<DT><B>Session 98.</B>&nbsp;<A HREF="S980.htm">Star and Planet Formation</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Regency VII</I>
+<P>
+<DT><B>Session 99.</B>&nbsp;<A HREF="S990.htm">Stuff in the Milky Way Galaxy</A>
+<DD><I>Oral, Wednesday, 10:00-11:30am, Regency VI</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 100.</B></FONT>&nbsp;<A HREF="S1000.htm">Research at Predominantly Undergraduate Institutions</A>
+<DD><I>Special Session, Wednesday, 10:00-11:30am, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 101.</B></FONT>&nbsp;<A HREF="S1010.htm">Heineman Prize Lecture: Internal Motions and Turbulence</A>
+<DD><I>Invited, Wednesday, 11:40-am-12:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 102.</B>&nbsp;<A HREF="S1020.htm"><FONT COLOR="#FF6600">HEAD II:</FONT> Intermediate Mass Black Holes</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 103.</B>&nbsp;<A HREF="S1030.htm">GALEX II: Higher Energy Observations</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Centennial III</I>
+<P>
+<DT><B>Session 104.</B>&nbsp;<A HREF="S1040.htm">Black Holes</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Centennial IV</I>
+<P>
+<DT><B>Session 105.</B>&nbsp;<A HREF="S1050.htm">Dwarf, Irregular, LUM IR and Starburst Galaxies</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Regency VII</I>
+<P>
+<DT><B>Session 106.</B>&nbsp;<A HREF="S1060.htm">Galaxy Evolution with Deep Ground-based Surveys</A>
+<DD><I>Oral, Wednesday, 2:00-3:30pm, Regency VI</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 107.</B></FONT>&nbsp;<A HREF="S1070.htm">Education and Public Outreach from NASA's Great Observatories</A>
+<DD><I>Special Session, Wednesday, 2:00-3:30pm, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 108.</B></FONT>&nbsp;<A HREF="S1080.htm">Early Stars and Clusters</A>
+<DD><I>Invited, Wednesday, 3:40-5:10pm, Centennial I/II</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 109.</B></FONT>&nbsp;<A HREF="S1090.htm">Stellar Abundances</A>
+<DD><I>Invited, Thursday, 8:30am-9:20am, Centennial I/II</I>
+<P>
+<DT><B>Session 110.</B>&nbsp;<A HREF="S1100.htm">Interstellar Medium I</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 111.</B>&nbsp;<A HREF="S1110.htm">Interstellar Medium II</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 112.</B>&nbsp;<A HREF="S1120.htm">The Milky Way and Its Environs</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 113.</B>&nbsp;<A HREF="S1130.htm">Molecules and Atoms at High Z and Low Z</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 114.</B>&nbsp;<A HREF="S1140.htm">Dust in Galaxies</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 115.</B>&nbsp;<A HREF="S1150.htm">Dwarf, Irregular and Starburst Galaxies</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 116.</B>&nbsp;<A HREF="S1160.htm">Elliptical and Spiral Galaxies</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 117.</B>&nbsp;<A HREF="S1170.htm">Fundamental Physics</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 118.</B>&nbsp;<A HREF="S1180.htm">Reaching Out: EPO</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Grand Hall</I>
+<P>
+<DT><B>Session 119.</B>&nbsp;<A HREF="S1190.htm">Galaxy Evolution at High Redshift</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Hanover Hall</I>
+<P>
+<DT><B>Session 120.</B>&nbsp;<A HREF="S1200.htm">Gravitational Lensing</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Hanover Hall</I>
+<P>
+<DT><B>Session 121.</B>&nbsp;<A HREF="S1210.htm">JWST</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Hanover Hall</I>
+<P>
+<DT><B>Session 122.</B>&nbsp;<A HREF="S1220.htm">Antenna Galaxies</A>
+<DD><I>Poster, Thursday, 9:20am-4:00pm, Hanover Hall</I>
+<P>
+<DT><B>Session 123.</B>&nbsp;<A HREF="S1230.htm">Extra Solar Planets I</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Centennial I/II</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 124.</B></FONT>&nbsp;<A HREF="S1240.htm">JWST Science</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, Centennial III</I>
+<P>
+<DT><B>Session 125.</B>&nbsp;<A HREF="S1250.htm">(Super)Novae (Remnants) and Black Holes</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Centennial IV</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 126.</B></FONT>&nbsp;<A HREF="S1260.htm">The Antennae Galaxies: The Nearest Example of High Z Galaxy Interaction</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, Regency VII</I>
+<P>
+<DT><B>Session 127.</B>&nbsp;<A HREF="S1270.htm">Variations in Stars</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, Regency VI</I>
+<P>
+<DT><FONT COLOR="#009900"><B>Session 128.</B></FONT>&nbsp;<A HREF="S1280.htm">Grant Writing: Best Practices for Successful Proposals</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, Regency V</I>
+<P>
+<DT><FONT COLOR="#CC0000"><B>Session 129.</B></FONT>&nbsp;<A HREF="S1290.htm">Pierce Prize Lecture</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 130.</B>&nbsp;<A HREF="S1300.htm">Extra Solar Planets II</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Centennial I/II</I>
+<P>
+<DT><B>Session 131.</B>&nbsp;<A HREF="S1310.htm">Galaxy Evolution with HST Surveys</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Centennial III</I>
+<P>
+<DT><B>Session 132.</B>&nbsp;<A HREF="S1320.htm">Gamma Ray Bursts: Processes and Phenomena</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Centennial IV</I>
+<P>
+<DT><B>Session 133.</B>&nbsp;<A HREF="S1330.htm">Pulsars</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Regency VII</I>
+<P>
+<DT><B>Session 134.</B>&nbsp;<A HREF="S1340.htm">Solar System and The Sun</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Regency VI</I>
+<P>
+<DT><B>Session 135.</B>&nbsp;<A HREF="S1350.htm">Making Astronomy Real</A>
+<DD><I>Oral, Thursday, 2:00-3:30pm, Regency V</I></DL>
+
+<P><HR>
+<A HREF="AuthorIndex.htm">[Author Index]</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+

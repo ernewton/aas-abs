@@ -1,0 +1,269 @@
+<!-- TDB section list -->
+<link rel="stylesheet" href="http://www.aas.org/styles/baassl.css" type="text/css">
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="SGC-htmllib/v2.2.7">
+<TITLE>Session list</TITLE></HEAD>
+<BODY>
+<H1>Session List</H1>
+
+<B>AAS 206th Meeting, 29 May - 2 June 2005</B><BR>
+<A HREF="http://www.aas.org/meetings/aas206/">Program Table of Contents</A>&nbsp;&nbsp;|&nbsp;&nbsp;
+<A HREF="AuthorIndex.htm">Author Index</A> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.aas.org/publications/baas/v37n2/aas206/minnblock.pdf">PDF Block Schedule</A> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.aas.org/publications/baas/v37n2/aas206/minnblock.html">HTML Block Schedule</a> <br>
+All findings are <b><a href="http://www.aas.org/meetings/press/">embargoed</a></b> until the time of presentation at the meeting.
+<hr>
+<!-- Public Service Search Google -->
+<FORM id="search" method=GET action=http://www.google.com/u/AmAstroSociety>
+<INPUT TYPE=text name=q size=45 maxlength=255 value="37 #2 - ADD KEYWORD(S) HERE">
+</FORM>
+<!-- Public Service Search Google -->
+<hr>
+<table>
+<tr>
+<td><FONT COLOR="#CC0000">red</FONT></td>
+<td><FONT COLOR="#CC0000">=</FONT> </td>
+<td><FONT COLOR="#CC0000">Invited Talks</FONT></td>
+</tr><tr>
+<td><FONT COLOR="#009900">green</FONT></td>
+<td><FONT COLOR="#009900">=</FONT> </td>
+<td><FONT COLOR="#009900">Special Sessions</FONT></td>
+</tr><tr>
+<td><FONT COLOR="#FF6600">orange</FONT></td>
+<td><FONT COLOR="#FF6600">=</FONT></td>
+<td><FONT COLOR="#FF6600">Topical Sessions</FONT></td>
+</tr></table>
+
+<P><HR>
+<DL>
+<P>
+<DT><A HREF="S1.htm">Soudan Mine Tour</A>
+<DD><I>Saturday, 8:00am-10:00pm, Meet in Hilton Lobby</I>
+<P>
+<DT><A HREF="S2.htm">College Astronomy Teaching Excellence Workshop</A>
+<DD><I>Saturday, 9:00am-5:00pm, Sunday, 9:00am-5:00pm, 203 A/B</I>
+<P>
+<DT><A HREF="S3.htm">Speaker-Ready Room</A>
+<DD><I>Sunday, 2:00-6:00pm, 202 A</I>
+<P>
+<DT><A HREF="S4.htm">Registration</A>
+<DD><I>Sunday, 2:00-9:00pm</I>
+<P>
+<DT><A HREF="S5.htm">Astro 101 - Should Students Touch the Telescopes?</A>
+<DD><I>Sunday, 2:30-5:30pm, 204 A/B</I>
+<P>
+<DT><A HREF="S6.htm">Undergraduate Orientation</A>
+<DD><I>Sunday, 6:00-7:00pm, Hilton, Salon E</I>
+<P>
+<DT><A HREF="S7.htm">Opening Reception</A>
+<DD><I>Sunday, 7:00-10:00pm, Hilton, Salon ABC</I>
+<P>
+<DT><A HREF="S8.htm">Second AAS Invitational Hockey Game</A>
+<DD><I>Sunday, 9:30-11:00pm, Check Message Board for Directions</I>
+<P>
+<DT><A HREF="S9.htm">Welcoming Address</A>
+<DD><I>Monday, 8:15-8:30am, Ballroom B</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 1.</B></FONT>&nbsp;<A HREF="S10.htm">Imaging Dark Matter with Gravitational Lensing</A>
+<DD><I>Invited, Monday, 8:30-9:20am, Ballroom B</I>
+<P>
+<DT><A HREF="S12.htm">Job Center</A>
+<DD><I>Monday, -Wednesday, 9:00am-5:00pm, Thursday 9:00am-12:00noon, Glass Atrium</I>
+<P>
+<DT><A HREF="S14.htm">Cyber Cafe</A>
+<DD><I>Monday, 9:20am-6:30pm, Tuesday-Wednesday, 10:00am-7:00pm, Thursday 9:20am-12:00noon, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 2.</B></FONT>&nbsp;<A HREF="S20.htm">Astronomy 101: something old, something new, something borrowed, something true</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 3.</B></FONT>&nbsp;<A HREF="S30.htm">K-12 Classroom and Students</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 4.</B></FONT>&nbsp;<A HREF="S40.htm">Professional Development for K-12 Teachers</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 5.</B></FONT>&nbsp;<A HREF="S50.htm">Public Observatories and Informal Astronomy</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 6.</B></FONT>&nbsp;<A HREF="S60.htm">Formation and Fate of Stardust</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 7.</B></FONT>&nbsp;<A HREF="S70.htm">Star Formation</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 8.</B></FONT>&nbsp;<A HREF="S80.htm">Circumstellar Shells and Disks</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 9.</B></FONT>&nbsp;<A HREF="S90.htm">Brown Dwarfs and Extrasolar Planets</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 10.</B></FONT>&nbsp;<A HREF="S100.htm">Galaxies, Clusters and Large Scale Structure</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 11.</B></FONT>&nbsp;<A HREF="S110.htm">AGNs, QSOs, Active Galaxies</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 12.</B></FONT>&nbsp;<A HREF="S120.htm">Dwarf Irregular and Starburst Galaxies</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 13.</B></FONT>&nbsp;<A HREF="S130.htm">Spiral Galaxies, Elliptical Galaxies</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 14.</B></FONT>&nbsp;<A HREF="S140.htm">Astrophysics with Optical Interferometry</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 15.</B></FONT>&nbsp;<A HREF="S150.htm">Astronomical Instruments</A>
+<DD><I>Poster, Monday, 9:20am-6:30pm, Tuesday, 10:00am-7:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 16.</B></FONT>&nbsp;<A HREF="S160.htm">Galaxy Surveys</A>
+<DD><I>Oral, Monday, 10:00-11:30am, 102 E</I>
+<P>
+<DT><FONT color="#009900"><B>Session 17.</B></FONT>&nbsp;<A HREF="S170.htm">Fundamental Physics with Millisecond Pulsars</A>
+<DD><I>Special Session, Monday, 10:00-11:30am, 102 C</I>
+<P>
+<DT><FONT color="#009900"><B>Session 18.</B></FONT>&nbsp;<A HREF="S180.htm">Professional Ethics for Astronomers</A>
+<DD><I>Special Session, Monday, 10:00-11:30am, 102 B</I>
+<P>
+<DT><FONT color="#009900"><B>Session 19.</B></FONT>&nbsp;<A HREF="S190.htm">Follow up to the Workshop for New Faculty</A>
+<DD><I>Special Session, Monday, 10:00-11:30am, 102 D</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 20.</B></FONT>&nbsp;<A HREF="S200.htm">Coronal Mass Ejections: the Most Powerful Drivers of the Sun-Earth System</A>
+<DD><I>Invited, Monday, 11:40am-12:30pm, Ballroom B</I>
+<P>
+<DT><A HREF="S205.htm">NSF Town Meeting</A>
+<DD><I>Monday, 1:00-2:00pm, 102 B</I>
+<P>
+<DT><FONT color><B>Session 21.</B></FONT>&nbsp;<A HREF="S210.htm">Galaxies and Cosmology</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 102 E</I>
+<P>
+<DT><FONT color="#009900"><B>Session 22.</B></FONT>&nbsp;<A HREF="S220.htm">Cool Astronomy for Everyone</A>
+<DD><I>Special Session, Monday, 2:00-3:30pm, 102 F</I>
+<P>
+<DT><FONT color><B>Session 23.</B></FONT>&nbsp;<A HREF="S230.htm">Stars and Observing Them</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 102 B</I>
+<P>
+<DT><FONT color><B>Session 24.</B></FONT>&nbsp;<A HREF="S240.htm">History of Astronomy, Surveys, Plate Collections</A>
+<DD><I>Oral, Monday, 2:00-3:30pm, 102 D</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 25.</B></FONT>&nbsp;<A HREF="S250.htm">Trails, Tails, Clouds and Shells: Dust from the Spitzer Perspective</A>
+<DD><I>Invited, Monday, 3:40-4:30pm, Ballroom B</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 26.</B></FONT>&nbsp;<A HREF="S260.htm">Astronomy Education: The Good, the Bad, and the Ugly</A>
+<DD><I>Invited, Monday, 4:30-5:20pm, Ballroom B</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 27.</B></FONT>&nbsp;<A HREF="S270.htm">Asymmetries in Type Ia Supernovae</A>
+<DD><I>Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 102 B</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 28.</B></FONT>&nbsp;<A HREF="S280.htm">Formation and Fate of Stardust</A>
+<DD><I>Topical Session, Tuesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 102 C</I>
+<P>
+<DT><A HREF="S282.htm">NASA Town Meeting</A>
+<DD><I>Tuesday, 1:00-2:00pm, 102 F</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 29.</B></FONT>&nbsp;<A HREF="S290.htm">X-Ray Flashes</A>
+<DD><I>Topical Session, Tuesday, 2:30-4:00pm, 4:15-6:00pm, 102 E</I>
+<P>
+<DT><A HREF="S291.htm">Graduate Student - Employer Networking</A>
+<DD><I>Tuesday, 7:00-8:00pm, Seasons, 2nd Floor</I>
+<P>
+<DT><A HREF="S292.htm">Public Lecture</A>
+<DD><I>Tuesday, 8:00pm, Ballroom B</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 30.</B></FONT>&nbsp;<A HREF="S300.htm">Relativistic Jets</A>
+<DD><I>Topical Session, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 102 B</I>
+<P>
+<DT><FONT color="#FF6600"><B>Session 31.</B></FONT>&nbsp;<A HREF="S310.htm">Highlights in Laboratory Astrophysics</A>
+<DD><I>Topical Session, Wednesday, 8:30-10:00am, 10:45am-12:30pm, 2:30-4:00pm, 4:15-6:00pm, 102 D</I>
+<P>
+<DT><FONT color><B>Session 32.</B></FONT>&nbsp;<A HREF="S320.htm">Highlights in Laboratory Astrophysics</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 33.</B></FONT>&nbsp;<A HREF="S330.htm">Relativistic Jets</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 34.</B></FONT>&nbsp;<A HREF="S340.htm">Sun and Solar System</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 35.</B></FONT>&nbsp;<A HREF="S350.htm">Stars</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 36.</B></FONT>&nbsp;<A HREF="S360.htm">Star Clusters</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 37.</B></FONT>&nbsp;<A HREF="S370.htm">The Milky Way</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 38.</B></FONT>&nbsp;<A HREF="S380.htm">Interstellar Medium, H II Regions and Molecular Clouds</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 39.</B></FONT>&nbsp;<A HREF="S390.htm">Planetary and Protoplanetary Nebulae</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 40.</B></FONT>&nbsp;<A HREF="S400.htm">Binary Stars</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 41.</B></FONT>&nbsp;<A HREF="S410.htm">Variable Stars</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 42.</B></FONT>&nbsp;<A HREF="S420.htm">Dwarf Novae and Other Cataclysmic Variables</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 43.</B></FONT>&nbsp;<A HREF="S430.htm">Pulsars, Neutron Stars and White Dwarfs</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 44.</B></FONT>&nbsp;<A HREF="S440.htm">Crab Nebula and Other Supernova Remnants</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 45.</B></FONT>&nbsp;<A HREF="S450.htm">Supernovae Observations and Theory</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 46.</B></FONT>&nbsp;<A HREF="S460.htm">Black Holes</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 47.</B></FONT>&nbsp;<A HREF="S470.htm">Gamma Ray Bursts</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 48.</B></FONT>&nbsp;<A HREF="S480.htm">Surveys: SDSS, 2MASS, ChaMPlane</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><FONT color><B>Session 49.</B></FONT>&nbsp;<A HREF="S490.htm">Dark Matter and Dark Energy</A>
+<DD><I>Poster, Wednesday, 10:00am-7:00pm, Thursday, 9:20am-2:00pm, Ballroom A</I>
+<P>
+<DT><A HREF="S492.htm">AAS Annual Members Meeting</A>
+<DD><I>Wednesday, 1:30-2:30pm, Ballroom B</I>
+<P>
+<DT><A HREF="S493.htm">Society Banquet</A>
+<DD><I>Wednesday, 7:00-10:30pm, Hilton Conference Level Salon ABC</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 50.</B></FONT>&nbsp;<A HREF="S500.htm">Stellar Abundance Observations and Heavy Element Formation</A>
+<DD><I>Invited, Thursday, 8:40-9:20am, Ballroom B</I>
+<P>
+<DT><FONT color><B>Session 51.</B></FONT>&nbsp;<A HREF="S510.htm">Supernovae and Supernovae Remnants</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 102 C</I>
+<P>
+<DT><FONT color="#009900"><B>Session 52.</B></FONT>&nbsp;<A HREF="S520.htm">Demystifying EPO and the Broader Impacts Criteria</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 102 D</I>
+<P>
+<DT><FONT color="#009900"><B>Session 53.</B></FONT>&nbsp;<A HREF="S530.htm">Institutional Solutions to the ``Two-Body Problem"</A>
+<DD><I>Special Session, Thursday, 10:00-11:30am, 102 B</I>
+<P>
+<DT><FONT color><B>Session 54.</B></FONT>&nbsp;<A HREF="S540.htm">Bubble, Bubble, Boil, and Bubbles</A>
+<DD><I>Oral, Thursday, 10:00-11:30am, 102 E</I>
+<P>
+<DT><FONT color="#CC0000"><B>Session 55.</B></FONT>&nbsp;<A HREF="S550.htm">Warner Prize Lecture</A>
+<DD><I>Invited, Thursday, 11:40am-12:30pm, Ballroom B</I>
+<P>
+<DT><A HREF="S552.htm">Committee on the Status of Women in Astronomy</A>
+<DD><I>Thursday, 1:00-2:00pm, 102 B</I></DL>
+
+<P><HR>
+<A HREF="http://www.aas.org/meetings/aas206/">Program Table of Contents</A>&nbsp;&nbsp;|&nbsp;&nbsp;
+<A HREF="AuthorIndex.htm">Author Index</A>
+</body>
+</BODY></HTML>
+
+<!-- End of template section list -->
+
+
